@@ -1,0 +1,459 @@
+MTD	mzTab-version	2.1.0-M
+MTD	mzTab-ID	29_Plant_Arabidopsis_thaliana_3
+MTD	mzTab-profile	M
+MTD	title	29_Plant_Arabidopsis thaliana_3
+MTD	description	Sample metadata from RIKEN LIPIDOMICS workbook 29_Plant_Arabidopsis thaliana_3.xlsx exported from sample_metadata.toml. Quantification values are not included.
+MTD	software[1]	[,, RmzTabM, 0.99.2]
+MTD	uri[1]	https://metabography.riken.jp/menta.cgi/lipidomics/download_data_set
+MTD	quantification_method	[MS, MS:1001834, LC-MS label-free quantitation analysis, ]
+MTD	sample[1]	EtOH_neg_timsOFF_1_1_2428
+MTD	sample[2]	EtOH_neg_timsOFF_1_1_2429
+MTD	sample[3]	EtOH_neg_timsOFF_1_1_2430
+MTD	sample[4]	EtOH_neg_timsOFF_1_1_2431
+MTD	sample[5]	EtOH_neg_timsOFF_1_1_2438
+MTD	sample[6]	Hi01_neg_timsOFF_2_1_2432
+MTD	sample[6]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[6]-tissue[1]	[,, Shoot, ]
+MTD	sample[7]	Hi01_neg_timsOFF_2_1_2439
+MTD	sample[7]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[7]-tissue[1]	[,, Shoot, ]
+MTD	sample[8]	Hi01_neg_timsOFF_2_1_2446
+MTD	sample[8]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[8]-tissue[1]	[,, Shoot, ]
+MTD	sample[9]	Hi05_neg_timsOFF_5_1_2433
+MTD	sample[9]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[9]-tissue[1]	[,, Shoot, ]
+MTD	sample[10]	Hi05_neg_timsOFF_5_1_2440
+MTD	sample[10]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[10]-tissue[1]	[,, Shoot, ]
+MTD	sample[11]	Hi05_neg_timsOFF_5_1_2447
+MTD	sample[11]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[11]-tissue[1]	[,, Shoot, ]
+MTD	sample[12]	Hi09_neg_timsOFF_8_1_2434
+MTD	sample[12]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[12]-tissue[1]	[,, Shoot, ]
+MTD	sample[13]	Hi09_neg_timsOFF_8_1_2441
+MTD	sample[13]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[13]-tissue[1]	[,, Shoot, ]
+MTD	sample[14]	Hi09_neg_timsOFF_8_1_2448
+MTD	sample[14]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[14]-tissue[1]	[,, Shoot, ]
+MTD	sample[15]	Hi16_neg_timsOFF_11_1_2435
+MTD	sample[15]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[15]-tissue[1]	[,, Shoot, ]
+MTD	sample[16]	Hi16_neg_timsOFF_11_1_2442
+MTD	sample[16]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[16]-tissue[1]	[,, Shoot, ]
+MTD	sample[17]	Hi16_neg_timsOFF_11_1_2449
+MTD	sample[17]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[17]-tissue[1]	[,, Shoot, ]
+MTD	sample[18]	Hi20_neg_timsOFF_14_1_2436
+MTD	sample[18]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[18]-tissue[1]	[,, Shoot, ]
+MTD	sample[19]	Hi20_neg_timsOFF_14_1_2443
+MTD	sample[19]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[19]-tissue[1]	[,, Shoot, ]
+MTD	sample[20]	Hi20_neg_timsOFF_14_1_2450
+MTD	sample[20]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[20]-tissue[1]	[,, Shoot, ]
+MTD	sample[21]	Hi24_neg_timsOFF_17_1_2437
+MTD	sample[21]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[21]-tissue[1]	[,, Shoot, ]
+MTD	sample[22]	Hi24_neg_timsOFF_17_1_2444
+MTD	sample[22]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[22]-tissue[1]	[,, Shoot, ]
+MTD	sample[23]	Hi24_neg_timsOFF_17_1_2451
+MTD	sample[23]-species[1]	[,, Arabidopsis thaliana, ]
+MTD	sample[23]-tissue[1]	[,, Shoot, ]
+MTD	ms_run[1]-location	null
+MTD	ms_run[1]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[2]-location	null
+MTD	ms_run[2]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[3]-location	null
+MTD	ms_run[3]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[4]-location	null
+MTD	ms_run[4]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[5]-location	null
+MTD	ms_run[5]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[6]-location	null
+MTD	ms_run[6]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[7]-location	null
+MTD	ms_run[7]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[8]-location	null
+MTD	ms_run[8]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[9]-location	null
+MTD	ms_run[9]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[10]-location	null
+MTD	ms_run[10]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[11]-location	null
+MTD	ms_run[11]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[12]-location	null
+MTD	ms_run[12]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[13]-location	null
+MTD	ms_run[13]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[14]-location	null
+MTD	ms_run[14]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[15]-location	null
+MTD	ms_run[15]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[16]-location	null
+MTD	ms_run[16]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[17]-location	null
+MTD	ms_run[17]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[18]-location	null
+MTD	ms_run[18]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[19]-location	null
+MTD	ms_run[19]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[20]-location	null
+MTD	ms_run[20]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[21]-location	null
+MTD	ms_run[21]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[22]-location	null
+MTD	ms_run[22]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[23]-location	null
+MTD	ms_run[23]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[24]-location	null
+MTD	ms_run[24]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[25]-location	null
+MTD	ms_run[25]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[26]-location	null
+MTD	ms_run[26]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[27]-location	null
+MTD	ms_run[27]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[28]-location	null
+MTD	ms_run[28]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[29]-location	null
+MTD	ms_run[29]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[30]-location	null
+MTD	ms_run[30]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[31]-location	null
+MTD	ms_run[31]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[32]-location	null
+MTD	ms_run[32]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[33]-location	null
+MTD	ms_run[33]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[34]-location	null
+MTD	ms_run[34]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[35]-location	null
+MTD	ms_run[35]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[36]-location	null
+MTD	ms_run[36]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[37]-location	null
+MTD	ms_run[37]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[38]-location	null
+MTD	ms_run[38]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[39]-location	null
+MTD	ms_run[39]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[40]-location	null
+MTD	ms_run[40]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[41]-location	null
+MTD	ms_run[41]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[42]-location	null
+MTD	ms_run[42]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[43]-location	null
+MTD	ms_run[43]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[44]-location	null
+MTD	ms_run[44]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[45]-location	null
+MTD	ms_run[45]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	ms_run[46]-location	null
+MTD	ms_run[46]-scan_polarity[1]	[MS, MS:1000129, negative scan, ]
+MTD	assay[1]	EtOH_neg_timsOFF_1_1_2428 (AF)
+MTD	assay[1]-sample_ref	sample[1]
+MTD	assay[1]-ms_run_ref	ms_run[1]
+MTD	assay[2]	EtOH_neg_timsOFF_1_1_2429 (AG)
+MTD	assay[2]-sample_ref	sample[2]
+MTD	assay[2]-ms_run_ref	ms_run[2]
+MTD	assay[3]	EtOH_neg_timsOFF_1_1_2430 (AH)
+MTD	assay[3]-sample_ref	sample[3]
+MTD	assay[3]-ms_run_ref	ms_run[3]
+MTD	assay[4]	EtOH_neg_timsOFF_1_1_2431 (AI)
+MTD	assay[4]-sample_ref	sample[4]
+MTD	assay[4]-ms_run_ref	ms_run[4]
+MTD	assay[5]	EtOH_neg_timsOFF_1_1_2438 (AJ)
+MTD	assay[5]-sample_ref	sample[5]
+MTD	assay[5]-ms_run_ref	ms_run[5]
+MTD	assay[6]	Hi01_neg_timsOFF_2_1_2432 (AK)
+MTD	assay[6]-sample_ref	sample[6]
+MTD	assay[6]-ms_run_ref	ms_run[6]
+MTD	assay[7]	Hi01_neg_timsOFF_2_1_2439 (AL)
+MTD	assay[7]-sample_ref	sample[7]
+MTD	assay[7]-ms_run_ref	ms_run[7]
+MTD	assay[8]	Hi01_neg_timsOFF_2_1_2446 (AM)
+MTD	assay[8]-sample_ref	sample[8]
+MTD	assay[8]-ms_run_ref	ms_run[8]
+MTD	assay[9]	Hi05_neg_timsOFF_5_1_2433 (AN)
+MTD	assay[9]-sample_ref	sample[9]
+MTD	assay[9]-ms_run_ref	ms_run[9]
+MTD	assay[10]	Hi05_neg_timsOFF_5_1_2440 (AO)
+MTD	assay[10]-sample_ref	sample[10]
+MTD	assay[10]-ms_run_ref	ms_run[10]
+MTD	assay[11]	Hi05_neg_timsOFF_5_1_2447 (AP)
+MTD	assay[11]-sample_ref	sample[11]
+MTD	assay[11]-ms_run_ref	ms_run[11]
+MTD	assay[12]	Hi09_neg_timsOFF_8_1_2434 (AQ)
+MTD	assay[12]-sample_ref	sample[12]
+MTD	assay[12]-ms_run_ref	ms_run[12]
+MTD	assay[13]	Hi09_neg_timsOFF_8_1_2441 (AR)
+MTD	assay[13]-sample_ref	sample[13]
+MTD	assay[13]-ms_run_ref	ms_run[13]
+MTD	assay[14]	Hi09_neg_timsOFF_8_1_2448 (AS)
+MTD	assay[14]-sample_ref	sample[14]
+MTD	assay[14]-ms_run_ref	ms_run[14]
+MTD	assay[15]	Hi16_neg_timsOFF_11_1_2435 (AT)
+MTD	assay[15]-sample_ref	sample[15]
+MTD	assay[15]-ms_run_ref	ms_run[15]
+MTD	assay[16]	Hi16_neg_timsOFF_11_1_2442 (AU)
+MTD	assay[16]-sample_ref	sample[16]
+MTD	assay[16]-ms_run_ref	ms_run[16]
+MTD	assay[17]	Hi16_neg_timsOFF_11_1_2449 (AV)
+MTD	assay[17]-sample_ref	sample[17]
+MTD	assay[17]-ms_run_ref	ms_run[17]
+MTD	assay[18]	Hi20_neg_timsOFF_14_1_2436 (AW)
+MTD	assay[18]-sample_ref	sample[18]
+MTD	assay[18]-ms_run_ref	ms_run[18]
+MTD	assay[19]	Hi20_neg_timsOFF_14_1_2443 (AX)
+MTD	assay[19]-sample_ref	sample[19]
+MTD	assay[19]-ms_run_ref	ms_run[19]
+MTD	assay[20]	Hi20_neg_timsOFF_14_1_2450 (AY)
+MTD	assay[20]-sample_ref	sample[20]
+MTD	assay[20]-ms_run_ref	ms_run[20]
+MTD	assay[21]	Hi24_neg_timsOFF_17_1_2437 (AZ)
+MTD	assay[21]-sample_ref	sample[21]
+MTD	assay[21]-ms_run_ref	ms_run[21]
+MTD	assay[22]	Hi24_neg_timsOFF_17_1_2444 (BA)
+MTD	assay[22]-sample_ref	sample[22]
+MTD	assay[22]-ms_run_ref	ms_run[22]
+MTD	assay[23]	Hi24_neg_timsOFF_17_1_2451 (BB)
+MTD	assay[23]-sample_ref	sample[23]
+MTD	assay[23]-ms_run_ref	ms_run[23]
+MTD	assay[24]	EtOH_neg_timsOFF_1_1_2428 (BD)
+MTD	assay[24]-sample_ref	sample[1]
+MTD	assay[24]-ms_run_ref	ms_run[24]
+MTD	assay[25]	EtOH_neg_timsOFF_1_1_2429 (BE)
+MTD	assay[25]-sample_ref	sample[2]
+MTD	assay[25]-ms_run_ref	ms_run[25]
+MTD	assay[26]	EtOH_neg_timsOFF_1_1_2430 (BF)
+MTD	assay[26]-sample_ref	sample[3]
+MTD	assay[26]-ms_run_ref	ms_run[26]
+MTD	assay[27]	EtOH_neg_timsOFF_1_1_2431 (BG)
+MTD	assay[27]-sample_ref	sample[4]
+MTD	assay[27]-ms_run_ref	ms_run[27]
+MTD	assay[28]	EtOH_neg_timsOFF_1_1_2438 (BH)
+MTD	assay[28]-sample_ref	sample[5]
+MTD	assay[28]-ms_run_ref	ms_run[28]
+MTD	assay[29]	Hi01_neg_timsOFF_2_1_2432 (BI)
+MTD	assay[29]-sample_ref	sample[6]
+MTD	assay[29]-ms_run_ref	ms_run[29]
+MTD	assay[30]	Hi01_neg_timsOFF_2_1_2439 (BJ)
+MTD	assay[30]-sample_ref	sample[7]
+MTD	assay[30]-ms_run_ref	ms_run[30]
+MTD	assay[31]	Hi01_neg_timsOFF_2_1_2446 (BK)
+MTD	assay[31]-sample_ref	sample[8]
+MTD	assay[31]-ms_run_ref	ms_run[31]
+MTD	assay[32]	Hi05_neg_timsOFF_5_1_2433 (BL)
+MTD	assay[32]-sample_ref	sample[9]
+MTD	assay[32]-ms_run_ref	ms_run[32]
+MTD	assay[33]	Hi05_neg_timsOFF_5_1_2440 (BM)
+MTD	assay[33]-sample_ref	sample[10]
+MTD	assay[33]-ms_run_ref	ms_run[33]
+MTD	assay[34]	Hi05_neg_timsOFF_5_1_2447 (BN)
+MTD	assay[34]-sample_ref	sample[11]
+MTD	assay[34]-ms_run_ref	ms_run[34]
+MTD	assay[35]	Hi09_neg_timsOFF_8_1_2434 (BO)
+MTD	assay[35]-sample_ref	sample[12]
+MTD	assay[35]-ms_run_ref	ms_run[35]
+MTD	assay[36]	Hi09_neg_timsOFF_8_1_2441 (BP)
+MTD	assay[36]-sample_ref	sample[13]
+MTD	assay[36]-ms_run_ref	ms_run[36]
+MTD	assay[37]	Hi09_neg_timsOFF_8_1_2448 (BQ)
+MTD	assay[37]-sample_ref	sample[14]
+MTD	assay[37]-ms_run_ref	ms_run[37]
+MTD	assay[38]	Hi16_neg_timsOFF_11_1_2435 (BR)
+MTD	assay[38]-sample_ref	sample[15]
+MTD	assay[38]-ms_run_ref	ms_run[38]
+MTD	assay[39]	Hi16_neg_timsOFF_11_1_2442 (BS)
+MTD	assay[39]-sample_ref	sample[16]
+MTD	assay[39]-ms_run_ref	ms_run[39]
+MTD	assay[40]	Hi16_neg_timsOFF_11_1_2449 (BT)
+MTD	assay[40]-sample_ref	sample[17]
+MTD	assay[40]-ms_run_ref	ms_run[40]
+MTD	assay[41]	Hi20_neg_timsOFF_14_1_2436 (BU)
+MTD	assay[41]-sample_ref	sample[18]
+MTD	assay[41]-ms_run_ref	ms_run[41]
+MTD	assay[42]	Hi20_neg_timsOFF_14_1_2443 (BV)
+MTD	assay[42]-sample_ref	sample[19]
+MTD	assay[42]-ms_run_ref	ms_run[42]
+MTD	assay[43]	Hi20_neg_timsOFF_14_1_2450 (BW)
+MTD	assay[43]-sample_ref	sample[20]
+MTD	assay[43]-ms_run_ref	ms_run[43]
+MTD	assay[44]	Hi24_neg_timsOFF_17_1_2437 (BX)
+MTD	assay[44]-sample_ref	sample[21]
+MTD	assay[44]-ms_run_ref	ms_run[44]
+MTD	assay[45]	Hi24_neg_timsOFF_17_1_2444 (BY)
+MTD	assay[45]-sample_ref	sample[22]
+MTD	assay[45]-ms_run_ref	ms_run[45]
+MTD	assay[46]	Hi24_neg_timsOFF_17_1_2451 (BZ)
+MTD	assay[46]-sample_ref	sample[23]
+MTD	assay[46]-ms_run_ref	ms_run[46]
+MTD	study_variable_group[1]	[,,public_private,]
+MTD	study_variable_group[1]-description	Public/Private
+MTD	study_variable_group[1]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[1]-datatype	xsd:string
+MTD	study_variable_group[1]-study_variable_ref	study_variable[1]
+MTD	study_variable_group[2]	[,,category,]
+MTD	study_variable_group[2]-description	Category
+MTD	study_variable_group[2]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[2]-datatype	xsd:string
+MTD	study_variable_group[2]-study_variable_ref	study_variable[2]|study_variable[3]
+MTD	study_variable_group[3]	[,,genotype_background,]
+MTD	study_variable_group[3]-description	Genotype/Background
+MTD	study_variable_group[3]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[3]-datatype	xsd:string
+MTD	study_variable_group[3]-study_variable_ref	study_variable[4]|study_variable[5]
+MTD	study_variable_group[4]	[,,perturbation,]
+MTD	study_variable_group[4]-description	Perturbation
+MTD	study_variable_group[4]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[4]-datatype	xsd:string
+MTD	study_variable_group[4]-study_variable_ref	study_variable[6]|study_variable[7]|study_variable[8]
+MTD	study_variable_group[5]	[,,diet_culture,]
+MTD	study_variable_group[5]-description	Diet/Culture
+MTD	study_variable_group[5]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[5]-datatype	xsd:string
+MTD	study_variable_group[5]-study_variable_ref	study_variable[9]|study_variable[10]
+MTD	study_variable_group[6]	[,,biological_replicate,]
+MTD	study_variable_group[6]-description	Biological replicate
+MTD	study_variable_group[6]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[6]-datatype	xsd:string
+MTD	study_variable_group[6]-study_variable_ref	study_variable[11]|study_variable[12]|study_variable[13]
+MTD	study_variable_group[7]	[,,technical_replicate,]
+MTD	study_variable_group[7]-description	Technical replicate
+MTD	study_variable_group[7]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[7]-datatype	xsd:string
+MTD	study_variable_group[7]-study_variable_ref	study_variable[14]|study_variable[15]|study_variable[16]|study_variable[17]|study_variable[18]
+MTD	study_variable_group[8]	[,,unit,]
+MTD	study_variable_group[8]-description	Unit
+MTD	study_variable_group[8]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[8]-datatype	xsd:string
+MTD	study_variable_group[8]-study_variable_ref	study_variable[19]|study_variable[20]
+MTD	study_variable[1]	Public
+MTD	study_variable[1]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]
+MTD	study_variable[1]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[1]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[1]-description	Variable public_private, value Public
+MTD	study_variable[2]	Blank
+MTD	study_variable[2]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]
+MTD	study_variable[2]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[2]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[2]-description	Variable category, value Blank
+MTD	study_variable[3]	Plant
+MTD	study_variable[3]-assay_refs	assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]
+MTD	study_variable[3]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[3]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[3]-description	Variable category, value Plant
+MTD	study_variable[4]	Blank
+MTD	study_variable[4]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]
+MTD	study_variable[4]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[4]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[4]-description	Variable genotype_background, value Blank
+MTD	study_variable[5]	Col-0
+MTD	study_variable[5]-assay_refs	assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]
+MTD	study_variable[5]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[5]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[5]-description	Variable genotype_background, value Col-0
+MTD	study_variable[6]	Blank
+MTD	study_variable[6]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]
+MTD	study_variable[6]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[6]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[6]-description	Variable perturbation, value Blank
+MTD	study_variable[7]	Control(22℃)
+MTD	study_variable[7]-assay_refs	assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]
+MTD	study_variable[7]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[7]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[7]-description	Variable perturbation, value Control(22℃)
+MTD	study_variable[8]	Heat stress(38℃)
+MTD	study_variable[8]-assay_refs	assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]
+MTD	study_variable[8]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[8]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[8]-description	Variable perturbation, value Heat stress(38℃)
+MTD	study_variable[9]	Blank
+MTD	study_variable[9]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]
+MTD	study_variable[9]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[9]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[9]-description	Variable diet_culture, value Blank
+MTD	study_variable[10]	Agar MS medium
+MTD	study_variable[10]-assay_refs	assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]
+MTD	study_variable[10]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[10]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[10]-description	Variable diet_culture, value Agar MS medium
+MTD	study_variable[11]	1
+MTD	study_variable[11]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[15]|assay[16]|assay[17]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]|assay[29]|assay[30]|assay[31]|assay[38]|assay[39]|assay[40]
+MTD	study_variable[11]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[11]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[11]-description	Variable biological_replicate, value 1
+MTD	study_variable[12]	2
+MTD	study_variable[12]-assay_refs	assay[9]|assay[10]|assay[11]|assay[18]|assay[19]|assay[20]|assay[32]|assay[33]|assay[34]|assay[41]|assay[42]|assay[43]
+MTD	study_variable[12]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[12]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[12]-description	Variable biological_replicate, value 2
+MTD	study_variable[13]	3
+MTD	study_variable[13]-assay_refs	assay[12]|assay[13]|assay[14]|assay[21]|assay[22]|assay[23]|assay[35]|assay[36]|assay[37]|assay[44]|assay[45]|assay[46]
+MTD	study_variable[13]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[13]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[13]-description	Variable biological_replicate, value 3
+MTD	study_variable[14]	1
+MTD	study_variable[14]-assay_refs	assay[1]|assay[6]|assay[9]|assay[12]|assay[15]|assay[18]|assay[21]|assay[24]|assay[29]|assay[32]|assay[35]|assay[38]|assay[41]|assay[44]
+MTD	study_variable[14]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[14]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[14]-description	Variable technical_replicate, value 1
+MTD	study_variable[15]	2
+MTD	study_variable[15]-assay_refs	assay[2]|assay[7]|assay[10]|assay[13]|assay[16]|assay[19]|assay[22]|assay[25]|assay[30]|assay[33]|assay[36]|assay[39]|assay[42]|assay[45]
+MTD	study_variable[15]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[15]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[15]-description	Variable technical_replicate, value 2
+MTD	study_variable[16]	3
+MTD	study_variable[16]-assay_refs	assay[3]|assay[8]|assay[11]|assay[14]|assay[17]|assay[20]|assay[23]|assay[26]|assay[31]|assay[34]|assay[37]|assay[40]|assay[43]|assay[46]
+MTD	study_variable[16]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[16]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[16]-description	Variable technical_replicate, value 3
+MTD	study_variable[17]	4
+MTD	study_variable[17]-assay_refs	assay[4]|assay[27]
+MTD	study_variable[17]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[17]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[17]-description	Variable technical_replicate, value 4
+MTD	study_variable[18]	5
+MTD	study_variable[18]-assay_refs	assay[5]|assay[28]
+MTD	study_variable[18]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[18]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[18]-description	Variable technical_replicate, value 5
+MTD	study_variable[19]	Height
+MTD	study_variable[19]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]
+MTD	study_variable[19]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[19]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[19]-description	Variable unit, value Height
+MTD	study_variable[20]	Height*Average(IS Height)/IS Height
+MTD	study_variable[20]-assay_refs	assay[24]|assay[25]|assay[26]|assay[27]|assay[28]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]
+MTD	study_variable[20]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[20]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[20]-description	Variable unit, value Height*Average(IS Height)/IS Height
+MTD	cv[1]-label	MS
+MTD	cv[1]-full_name	PSI-MS controlled vocabulary
+MTD	cv[1]-version	4.1.138
+MTD	cv[1]-uri	https://www.ebi.ac.uk/ols4/ontologies/ms
+MTD	cv[2]-label	PRIDE
+MTD	cv[2]-full_name	PRIDE PRoteomics IDEntifications (PRIDE) database controlled vocabulary
+MTD	cv[2]-version	16:10:2023 11:38
+MTD	cv[2]-uri	https://www.ebi.ac.uk/ols/ontologies/pride
+MTD	cv[3]-label	STATO
+MTD	cv[3]-full_name	General purpose STATistics Ontology
+MTD	cv[3]-version	2026-04-20
+MTD	cv[3]-uri	https://www.ebi.ac.uk/ols4/ontologies/stato
+MTD	database[1]	[,, "no database", null ]
+MTD	database[1]-prefix	null
+MTD	database[1]-version	Unknown
+MTD	database[1]-uri	null
+MTD	small_molecule-quantification_unit	[PRIDE, PRIDE:0000330, Arbitrary quantification unit, ]
+MTD	small_molecule_feature-quantification_unit	[PRIDE, PRIDE:0000330, Arbitrary quantification unit, ]
+MTD	small_molecule-identification_reliability	[MS, MS:1002896, compound identification confidence level, ]
+COM	Generated with RmzTabM from sample_metadata.toml.
+COM	Source: RIKEN LIPIDOMICS, CC BY-NC 4.0.
+
