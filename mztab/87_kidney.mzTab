@@ -1,0 +1,931 @@
+MTD	mzTab-version	2.1.0-M
+MTD	mzTab-ID	87_kidney
+MTD	mzTab-profile	M
+MTD	title	87_kidney
+MTD	description	Sample metadata from RIKEN LIPIDOMICS workbook 87_kidney.xlsx exported from sample_metadata.toml. Quantification values are not included.
+MTD	software[1]	[,, RmzTabM, 0.99.2]
+MTD	uri[1]	https://metabography.riken.jp/menta.cgi/lipidomics/download_data_set
+MTD	quantification_method	[MS, MS:1001834, LC-MS label-free quantitation analysis, ]
+MTD	sample[1]	190628_TT1_Hclass_Aging_001_38_9w_GF_F_Kidney_2_Pos
+MTD	sample[1]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[1]-tissue[1]	[,, kidney, ]
+MTD	sample[2]	190628_TT1_Hclass_Aging_002_4_12M_SPF_M_Kidney_1_Pos
+MTD	sample[2]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[2]-tissue[1]	[,, kidney, ]
+MTD	sample[3]	190628_TT1_Hclass_Aging_003_27_9w_SPF_F_Kidney_3_Pos
+MTD	sample[3]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[3]-tissue[1]	[,, kidney, ]
+MTD	sample[4]	190628_TT1_Hclass_Aging_004_14_9w_GF_M_Kidney_2_Pos
+MTD	sample[4]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[4]-tissue[1]	[,, kidney, ]
+MTD	sample[5]	190628_TT1_Hclass_Aging_005_33_18M_SPF_F_Kidney_3_Pos
+MTD	sample[5]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[5]-tissue[1]	[,, kidney, ]
+MTD	sample[6]	190628_TT1_Hclass_Aging_006_39_9w_GF_F_Kidney_3_Pos
+MTD	sample[6]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[6]-tissue[1]	[,, kidney, ]
+MTD	sample[7]	190628_TT1_Hclass_Aging_007_28_12M_SPF_F_Kidney_1_Pos
+MTD	sample[7]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[7]-tissue[1]	[,, kidney, ]
+MTD	sample[8]	190628_TT1_Hclass_Aging_008_43_18M_GF_F_Kidney_1_Pos
+MTD	sample[8]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[8]-tissue[1]	[,, kidney, ]
+MTD	sample[9]	190628_TT1_Hclass_Aging_009_20_18M_GF_M_Kidney_3_Pos
+MTD	sample[9]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[9]-tissue[1]	[,, kidney, ]
+MTD	sample[10]	190628_TT1_Hclass_Aging_010_8_18M_SPF_M_Kidney_3_Pos
+MTD	sample[10]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[10]-tissue[1]	[,, kidney, ]
+MTD	sample[11]	190628_TT1_Hclass_Aging_011_19_18M_GF_M_Kidney_2_Pos
+MTD	sample[11]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[11]-tissue[1]	[,, kidney, ]
+MTD	sample[12]	190628_TT1_Hclass_Aging_012_29_12M_SPF_F_Kidney_2_Pos
+MTD	sample[12]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[12]-tissue[1]	[,, kidney, ]
+MTD	sample[13]	190628_TT1_Hclass_Aging_013_45_18M_GF_F_Kidney_3_Pos
+MTD	sample[13]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[13]-tissue[1]	[,, kidney, ]
+MTD	sample[14]	190628_TT1_Hclass_Aging_014_11_24M_SPF_M_Kidney_4_Pos
+MTD	sample[14]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[14]-tissue[1]	[,, kidney, ]
+MTD	sample[15]	190628_TT1_Hclass_Aging_015_31_18M_SPF_F_Kidney_1_Pos
+MTD	sample[15]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[15]-tissue[1]	[,, kidney, ]
+MTD	sample[16]	190628_TT1_Hclass_Aging_016_6_12M_SPF_M_Kidney_3_Pos
+MTD	sample[16]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[16]-tissue[1]	[,, kidney, ]
+MTD	sample[17]	190628_TT1_Hclass_Aging_017_18_12M_GF_M_Kidney_3_Pos
+MTD	sample[17]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[17]-tissue[1]	[,, kidney, ]
+MTD	sample[18]	190628_TT1_Hclass_Aging_018_24_24M_GF_M_Kidney_3_Pos
+MTD	sample[18]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[18]-tissue[1]	[,, kidney, ]
+MTD	sample[19]	190628_TT1_Hclass_Aging_019_17_12M_GF_M_Kidney_2_Pos
+MTD	sample[19]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[19]-tissue[1]	[,, kidney, ]
+MTD	sample[20]	190628_TT1_Hclass_Aging_020_7_18M_SPF_M_Kidney_1_Pos
+MTD	sample[20]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[20]-tissue[1]	[,, kidney, ]
+MTD	sample[21]	190628_TT1_Hclass_Aging_021_5_12M_SPF_M_Kidney_2_Pos
+MTD	sample[21]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[21]-tissue[1]	[,, kidney, ]
+MTD	sample[22]	190628_TT1_Hclass_Aging_022_44_18M_GF_F_Kidney_2_Pos
+MTD	sample[22]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[22]-tissue[1]	[,, kidney, ]
+MTD	sample[23]	190628_TT1_Hclass_Aging_023_35_24M_SPF_F_Kidney_3_Pos
+MTD	sample[23]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[23]-tissue[1]	[,, kidney, ]
+MTD	sample[24]	190628_TT1_Hclass_Aging_024_10_24M_SPF_M_Kidney_3_Pos
+MTD	sample[24]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[24]-tissue[1]	[,, kidney, ]
+MTD	sample[25]	190628_TT1_Hclass_Aging_025_36_24M_SPF_F_Kidney_5_Pos
+MTD	sample[25]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[25]-tissue[1]	[,, kidney, ]
+MTD	sample[26]	190628_TT1_Hclass_Aging_026_2_9w_SPF_M_Kidney_2_Pos
+MTD	sample[26]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[26]-tissue[1]	[,, kidney, ]
+MTD	sample[27]	190628_TT1_Hclass_Aging_027_15_9w_GF_M_Kidney_3_Pos
+MTD	sample[27]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[27]-tissue[1]	[,, kidney, ]
+MTD	sample[28]	190628_TT1_Hclass_Aging_028_9_18M_SPF_M_Kidney_4_Pos
+MTD	sample[28]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[28]-tissue[1]	[,, kidney, ]
+MTD	sample[29]	190628_TT1_Hclass_Aging_029_42_12M_GF_F_Kidney_3_Pos
+MTD	sample[29]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[29]-tissue[1]	[,, kidney, ]
+MTD	sample[30]	190628_TT1_Hclass_Aging_030_3_9w_SPF_M_Kidney_3_Pos
+MTD	sample[30]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[30]-tissue[1]	[,, kidney, ]
+MTD	sample[31]	190628_TT1_Hclass_Aging_031_48_24M_GF_F_Kidney_6_Pos
+MTD	sample[31]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[31]-tissue[1]	[,, kidney, ]
+MTD	sample[32]	190628_TT1_Hclass_Aging_032_23_24M_GF_M_Kidney_2_Pos
+MTD	sample[32]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[32]-tissue[1]	[,, kidney, ]
+MTD	sample[33]	190628_TT1_Hclass_Aging_033_12_24M_SPF_M_Kidney_5_Pos
+MTD	sample[33]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[33]-tissue[1]	[,, kidney, ]
+MTD	sample[34]	190628_TT1_Hclass_Aging_034_32_18M_SPF_F_Kidney_2_Pos
+MTD	sample[34]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[34]-tissue[1]	[,, kidney, ]
+MTD	sample[35]	190628_TT1_Hclass_Aging_035_16_12M_GF_M_Kidney_1_Pos
+MTD	sample[35]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[35]-tissue[1]	[,, kidney, ]
+MTD	sample[36]	190628_TT1_Hclass_Aging_036_21_18M_GF_M_Kidney_5_Pos
+MTD	sample[36]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[36]-tissue[1]	[,, kidney, ]
+MTD	sample[37]	190628_TT1_Hclass_Aging_037_13_9w_GF_M_Kidney_1_Pos
+MTD	sample[37]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[37]-tissue[1]	[,, kidney, ]
+MTD	sample[38]	190628_TT1_Hclass_Aging_038_47_24M_GF_F_Kidney_3_Pos
+MTD	sample[38]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[38]-tissue[1]	[,, kidney, ]
+MTD	sample[39]	190628_TT1_Hclass_Aging_039_41_12M_GF_F_Kidney_2_Pos
+MTD	sample[39]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[39]-tissue[1]	[,, kidney, ]
+MTD	sample[40]	190628_TT1_Hclass_Aging_040_25_9w_SPF_F_Kidney_1_Pos
+MTD	sample[40]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[40]-tissue[1]	[,, kidney, ]
+MTD	sample[41]	190628_TT1_Hclass_Aging_041_46_24M_GF_F_Kidney_2_Pos
+MTD	sample[41]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[41]-tissue[1]	[,, kidney, ]
+MTD	sample[42]	190628_TT1_Hclass_Aging_042_26_9w_SPF_F_Kidney_2_Pos
+MTD	sample[42]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[42]-tissue[1]	[,, kidney, ]
+MTD	sample[43]	190628_TT1_Hclass_Aging_043_37_9w_GF_F_Kidney_1_Pos
+MTD	sample[43]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[43]-tissue[1]	[,, kidney, ]
+MTD	sample[44]	190628_TT1_Hclass_Aging_044_34_24M_SPF_F_Kidney_2_Pos
+MTD	sample[44]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[44]-tissue[1]	[,, kidney, ]
+MTD	sample[45]	190628_TT1_Hclass_Aging_045_30_12M_SPF_F_Kidney_3_Pos
+MTD	sample[45]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[45]-tissue[1]	[,, kidney, ]
+MTD	sample[46]	190628_TT1_Hclass_Aging_046_22_24M_GF_M_Kidney_1_Pos
+MTD	sample[46]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[46]-tissue[1]	[,, kidney, ]
+MTD	sample[47]	190628_TT1_Hclass_Aging_047_1_9w_SPF_M_Kidney_1_Pos
+MTD	sample[47]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[47]-tissue[1]	[,, kidney, ]
+MTD	sample[48]	190628_TT1_Hclass_Aging_048_40_12M_GF_F_Kidney_1_Pos
+MTD	sample[48]-species[1]	[NCBITaxon, NCBITaxon:10090, Mus musculus, ]
+MTD	sample[48]-tissue[1]	[,, kidney, ]
+MTD	sample[49]	190628_TT1_Hclass_Aging_Blank_Pos
+MTD	sample[50]	190628_TT1_Hclass_Aging_QC_Pos_01
+MTD	sample[51]	190628_TT1_Hclass_Aging_QC_Pos_02
+MTD	sample[52]	190628_TT1_Hclass_Aging_QC_Pos_03
+MTD	sample[53]	190628_TT1_Hclass_Aging_QC_Pos_04
+MTD	sample[54]	190628_TT1_Hclass_Aging_QC_Pos_05
+MTD	sample[55]	190628_TT1_Hclass_Aging_QC_Pos_06
+MTD	sample[56]	190628_TT1_Hclass_Aging_QC_Pos_07
+MTD	ms_run[1]-location	null
+MTD	ms_run[1]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[2]-location	null
+MTD	ms_run[2]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[3]-location	null
+MTD	ms_run[3]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[4]-location	null
+MTD	ms_run[4]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[5]-location	null
+MTD	ms_run[5]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[6]-location	null
+MTD	ms_run[6]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[7]-location	null
+MTD	ms_run[7]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[8]-location	null
+MTD	ms_run[8]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[9]-location	null
+MTD	ms_run[9]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[10]-location	null
+MTD	ms_run[10]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[11]-location	null
+MTD	ms_run[11]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[12]-location	null
+MTD	ms_run[12]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[13]-location	null
+MTD	ms_run[13]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[14]-location	null
+MTD	ms_run[14]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[15]-location	null
+MTD	ms_run[15]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[16]-location	null
+MTD	ms_run[16]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[17]-location	null
+MTD	ms_run[17]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[18]-location	null
+MTD	ms_run[18]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[19]-location	null
+MTD	ms_run[19]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[20]-location	null
+MTD	ms_run[20]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[21]-location	null
+MTD	ms_run[21]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[22]-location	null
+MTD	ms_run[22]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[23]-location	null
+MTD	ms_run[23]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[24]-location	null
+MTD	ms_run[24]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[25]-location	null
+MTD	ms_run[25]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[26]-location	null
+MTD	ms_run[26]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[27]-location	null
+MTD	ms_run[27]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[28]-location	null
+MTD	ms_run[28]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[29]-location	null
+MTD	ms_run[29]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[30]-location	null
+MTD	ms_run[30]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[31]-location	null
+MTD	ms_run[31]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[32]-location	null
+MTD	ms_run[32]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[33]-location	null
+MTD	ms_run[33]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[34]-location	null
+MTD	ms_run[34]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[35]-location	null
+MTD	ms_run[35]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[36]-location	null
+MTD	ms_run[36]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[37]-location	null
+MTD	ms_run[37]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[38]-location	null
+MTD	ms_run[38]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[39]-location	null
+MTD	ms_run[39]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[40]-location	null
+MTD	ms_run[40]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[41]-location	null
+MTD	ms_run[41]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[42]-location	null
+MTD	ms_run[42]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[43]-location	null
+MTD	ms_run[43]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[44]-location	null
+MTD	ms_run[44]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[45]-location	null
+MTD	ms_run[45]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[46]-location	null
+MTD	ms_run[46]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[47]-location	null
+MTD	ms_run[47]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[48]-location	null
+MTD	ms_run[48]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[49]-location	null
+MTD	ms_run[49]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[50]-location	null
+MTD	ms_run[50]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[51]-location	null
+MTD	ms_run[51]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[52]-location	null
+MTD	ms_run[52]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[53]-location	null
+MTD	ms_run[53]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[54]-location	null
+MTD	ms_run[54]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[55]-location	null
+MTD	ms_run[55]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[56]-location	null
+MTD	ms_run[56]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[57]-location	null
+MTD	ms_run[57]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[58]-location	null
+MTD	ms_run[58]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[59]-location	null
+MTD	ms_run[59]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[60]-location	null
+MTD	ms_run[60]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[61]-location	null
+MTD	ms_run[61]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[62]-location	null
+MTD	ms_run[62]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[63]-location	null
+MTD	ms_run[63]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[64]-location	null
+MTD	ms_run[64]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[65]-location	null
+MTD	ms_run[65]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[66]-location	null
+MTD	ms_run[66]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[67]-location	null
+MTD	ms_run[67]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[68]-location	null
+MTD	ms_run[68]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[69]-location	null
+MTD	ms_run[69]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[70]-location	null
+MTD	ms_run[70]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[71]-location	null
+MTD	ms_run[71]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[72]-location	null
+MTD	ms_run[72]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[73]-location	null
+MTD	ms_run[73]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[74]-location	null
+MTD	ms_run[74]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[75]-location	null
+MTD	ms_run[75]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[76]-location	null
+MTD	ms_run[76]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[77]-location	null
+MTD	ms_run[77]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[78]-location	null
+MTD	ms_run[78]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[79]-location	null
+MTD	ms_run[79]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[80]-location	null
+MTD	ms_run[80]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[81]-location	null
+MTD	ms_run[81]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[82]-location	null
+MTD	ms_run[82]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[83]-location	null
+MTD	ms_run[83]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[84]-location	null
+MTD	ms_run[84]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[85]-location	null
+MTD	ms_run[85]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[86]-location	null
+MTD	ms_run[86]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[87]-location	null
+MTD	ms_run[87]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[88]-location	null
+MTD	ms_run[88]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[89]-location	null
+MTD	ms_run[89]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[90]-location	null
+MTD	ms_run[90]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[91]-location	null
+MTD	ms_run[91]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[92]-location	null
+MTD	ms_run[92]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[93]-location	null
+MTD	ms_run[93]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[94]-location	null
+MTD	ms_run[94]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[95]-location	null
+MTD	ms_run[95]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[96]-location	null
+MTD	ms_run[96]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[97]-location	null
+MTD	ms_run[97]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[98]-location	null
+MTD	ms_run[98]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[99]-location	null
+MTD	ms_run[99]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[100]-location	null
+MTD	ms_run[100]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[101]-location	null
+MTD	ms_run[101]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[102]-location	null
+MTD	ms_run[102]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[103]-location	null
+MTD	ms_run[103]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[104]-location	null
+MTD	ms_run[104]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[105]-location	null
+MTD	ms_run[105]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[106]-location	null
+MTD	ms_run[106]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[107]-location	null
+MTD	ms_run[107]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[108]-location	null
+MTD	ms_run[108]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[109]-location	null
+MTD	ms_run[109]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[110]-location	null
+MTD	ms_run[110]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[111]-location	null
+MTD	ms_run[111]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[112]-location	null
+MTD	ms_run[112]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	assay[1]	190628_TT1_Hclass_Aging_001_38_9w_GF_F_Kidney_2_Pos (AF)
+MTD	assay[1]-sample_ref	sample[1]
+MTD	assay[1]-ms_run_ref	ms_run[1]
+MTD	assay[2]	190628_TT1_Hclass_Aging_002_4_12M_SPF_M_Kidney_1_Pos (AG)
+MTD	assay[2]-sample_ref	sample[2]
+MTD	assay[2]-ms_run_ref	ms_run[2]
+MTD	assay[3]	190628_TT1_Hclass_Aging_003_27_9w_SPF_F_Kidney_3_Pos (AH)
+MTD	assay[3]-sample_ref	sample[3]
+MTD	assay[3]-ms_run_ref	ms_run[3]
+MTD	assay[4]	190628_TT1_Hclass_Aging_004_14_9w_GF_M_Kidney_2_Pos (AI)
+MTD	assay[4]-sample_ref	sample[4]
+MTD	assay[4]-ms_run_ref	ms_run[4]
+MTD	assay[5]	190628_TT1_Hclass_Aging_005_33_18M_SPF_F_Kidney_3_Pos (AJ)
+MTD	assay[5]-sample_ref	sample[5]
+MTD	assay[5]-ms_run_ref	ms_run[5]
+MTD	assay[6]	190628_TT1_Hclass_Aging_006_39_9w_GF_F_Kidney_3_Pos (AK)
+MTD	assay[6]-sample_ref	sample[6]
+MTD	assay[6]-ms_run_ref	ms_run[6]
+MTD	assay[7]	190628_TT1_Hclass_Aging_007_28_12M_SPF_F_Kidney_1_Pos (AL)
+MTD	assay[7]-sample_ref	sample[7]
+MTD	assay[7]-ms_run_ref	ms_run[7]
+MTD	assay[8]	190628_TT1_Hclass_Aging_008_43_18M_GF_F_Kidney_1_Pos (AM)
+MTD	assay[8]-sample_ref	sample[8]
+MTD	assay[8]-ms_run_ref	ms_run[8]
+MTD	assay[9]	190628_TT1_Hclass_Aging_009_20_18M_GF_M_Kidney_3_Pos (AN)
+MTD	assay[9]-sample_ref	sample[9]
+MTD	assay[9]-ms_run_ref	ms_run[9]
+MTD	assay[10]	190628_TT1_Hclass_Aging_010_8_18M_SPF_M_Kidney_3_Pos (AO)
+MTD	assay[10]-sample_ref	sample[10]
+MTD	assay[10]-ms_run_ref	ms_run[10]
+MTD	assay[11]	190628_TT1_Hclass_Aging_011_19_18M_GF_M_Kidney_2_Pos (AP)
+MTD	assay[11]-sample_ref	sample[11]
+MTD	assay[11]-ms_run_ref	ms_run[11]
+MTD	assay[12]	190628_TT1_Hclass_Aging_012_29_12M_SPF_F_Kidney_2_Pos (AQ)
+MTD	assay[12]-sample_ref	sample[12]
+MTD	assay[12]-ms_run_ref	ms_run[12]
+MTD	assay[13]	190628_TT1_Hclass_Aging_013_45_18M_GF_F_Kidney_3_Pos (AR)
+MTD	assay[13]-sample_ref	sample[13]
+MTD	assay[13]-ms_run_ref	ms_run[13]
+MTD	assay[14]	190628_TT1_Hclass_Aging_014_11_24M_SPF_M_Kidney_4_Pos (AS)
+MTD	assay[14]-sample_ref	sample[14]
+MTD	assay[14]-ms_run_ref	ms_run[14]
+MTD	assay[15]	190628_TT1_Hclass_Aging_015_31_18M_SPF_F_Kidney_1_Pos (AT)
+MTD	assay[15]-sample_ref	sample[15]
+MTD	assay[15]-ms_run_ref	ms_run[15]
+MTD	assay[16]	190628_TT1_Hclass_Aging_016_6_12M_SPF_M_Kidney_3_Pos (AU)
+MTD	assay[16]-sample_ref	sample[16]
+MTD	assay[16]-ms_run_ref	ms_run[16]
+MTD	assay[17]	190628_TT1_Hclass_Aging_017_18_12M_GF_M_Kidney_3_Pos (AV)
+MTD	assay[17]-sample_ref	sample[17]
+MTD	assay[17]-ms_run_ref	ms_run[17]
+MTD	assay[18]	190628_TT1_Hclass_Aging_018_24_24M_GF_M_Kidney_3_Pos (AW)
+MTD	assay[18]-sample_ref	sample[18]
+MTD	assay[18]-ms_run_ref	ms_run[18]
+MTD	assay[19]	190628_TT1_Hclass_Aging_019_17_12M_GF_M_Kidney_2_Pos (AX)
+MTD	assay[19]-sample_ref	sample[19]
+MTD	assay[19]-ms_run_ref	ms_run[19]
+MTD	assay[20]	190628_TT1_Hclass_Aging_020_7_18M_SPF_M_Kidney_1_Pos (AY)
+MTD	assay[20]-sample_ref	sample[20]
+MTD	assay[20]-ms_run_ref	ms_run[20]
+MTD	assay[21]	190628_TT1_Hclass_Aging_021_5_12M_SPF_M_Kidney_2_Pos (AZ)
+MTD	assay[21]-sample_ref	sample[21]
+MTD	assay[21]-ms_run_ref	ms_run[21]
+MTD	assay[22]	190628_TT1_Hclass_Aging_022_44_18M_GF_F_Kidney_2_Pos (BA)
+MTD	assay[22]-sample_ref	sample[22]
+MTD	assay[22]-ms_run_ref	ms_run[22]
+MTD	assay[23]	190628_TT1_Hclass_Aging_023_35_24M_SPF_F_Kidney_3_Pos (BB)
+MTD	assay[23]-sample_ref	sample[23]
+MTD	assay[23]-ms_run_ref	ms_run[23]
+MTD	assay[24]	190628_TT1_Hclass_Aging_024_10_24M_SPF_M_Kidney_3_Pos (BC)
+MTD	assay[24]-sample_ref	sample[24]
+MTD	assay[24]-ms_run_ref	ms_run[24]
+MTD	assay[25]	190628_TT1_Hclass_Aging_025_36_24M_SPF_F_Kidney_5_Pos (BD)
+MTD	assay[25]-sample_ref	sample[25]
+MTD	assay[25]-ms_run_ref	ms_run[25]
+MTD	assay[26]	190628_TT1_Hclass_Aging_026_2_9w_SPF_M_Kidney_2_Pos (BE)
+MTD	assay[26]-sample_ref	sample[26]
+MTD	assay[26]-ms_run_ref	ms_run[26]
+MTD	assay[27]	190628_TT1_Hclass_Aging_027_15_9w_GF_M_Kidney_3_Pos (BF)
+MTD	assay[27]-sample_ref	sample[27]
+MTD	assay[27]-ms_run_ref	ms_run[27]
+MTD	assay[28]	190628_TT1_Hclass_Aging_028_9_18M_SPF_M_Kidney_4_Pos (BG)
+MTD	assay[28]-sample_ref	sample[28]
+MTD	assay[28]-ms_run_ref	ms_run[28]
+MTD	assay[29]	190628_TT1_Hclass_Aging_029_42_12M_GF_F_Kidney_3_Pos (BH)
+MTD	assay[29]-sample_ref	sample[29]
+MTD	assay[29]-ms_run_ref	ms_run[29]
+MTD	assay[30]	190628_TT1_Hclass_Aging_030_3_9w_SPF_M_Kidney_3_Pos (BI)
+MTD	assay[30]-sample_ref	sample[30]
+MTD	assay[30]-ms_run_ref	ms_run[30]
+MTD	assay[31]	190628_TT1_Hclass_Aging_031_48_24M_GF_F_Kidney_6_Pos (BJ)
+MTD	assay[31]-sample_ref	sample[31]
+MTD	assay[31]-ms_run_ref	ms_run[31]
+MTD	assay[32]	190628_TT1_Hclass_Aging_032_23_24M_GF_M_Kidney_2_Pos (BK)
+MTD	assay[32]-sample_ref	sample[32]
+MTD	assay[32]-ms_run_ref	ms_run[32]
+MTD	assay[33]	190628_TT1_Hclass_Aging_033_12_24M_SPF_M_Kidney_5_Pos (BL)
+MTD	assay[33]-sample_ref	sample[33]
+MTD	assay[33]-ms_run_ref	ms_run[33]
+MTD	assay[34]	190628_TT1_Hclass_Aging_034_32_18M_SPF_F_Kidney_2_Pos (BM)
+MTD	assay[34]-sample_ref	sample[34]
+MTD	assay[34]-ms_run_ref	ms_run[34]
+MTD	assay[35]	190628_TT1_Hclass_Aging_035_16_12M_GF_M_Kidney_1_Pos (BN)
+MTD	assay[35]-sample_ref	sample[35]
+MTD	assay[35]-ms_run_ref	ms_run[35]
+MTD	assay[36]	190628_TT1_Hclass_Aging_036_21_18M_GF_M_Kidney_5_Pos (BO)
+MTD	assay[36]-sample_ref	sample[36]
+MTD	assay[36]-ms_run_ref	ms_run[36]
+MTD	assay[37]	190628_TT1_Hclass_Aging_037_13_9w_GF_M_Kidney_1_Pos (BP)
+MTD	assay[37]-sample_ref	sample[37]
+MTD	assay[37]-ms_run_ref	ms_run[37]
+MTD	assay[38]	190628_TT1_Hclass_Aging_038_47_24M_GF_F_Kidney_3_Pos (BQ)
+MTD	assay[38]-sample_ref	sample[38]
+MTD	assay[38]-ms_run_ref	ms_run[38]
+MTD	assay[39]	190628_TT1_Hclass_Aging_039_41_12M_GF_F_Kidney_2_Pos (BR)
+MTD	assay[39]-sample_ref	sample[39]
+MTD	assay[39]-ms_run_ref	ms_run[39]
+MTD	assay[40]	190628_TT1_Hclass_Aging_040_25_9w_SPF_F_Kidney_1_Pos (BS)
+MTD	assay[40]-sample_ref	sample[40]
+MTD	assay[40]-ms_run_ref	ms_run[40]
+MTD	assay[41]	190628_TT1_Hclass_Aging_041_46_24M_GF_F_Kidney_2_Pos (BT)
+MTD	assay[41]-sample_ref	sample[41]
+MTD	assay[41]-ms_run_ref	ms_run[41]
+MTD	assay[42]	190628_TT1_Hclass_Aging_042_26_9w_SPF_F_Kidney_2_Pos (BU)
+MTD	assay[42]-sample_ref	sample[42]
+MTD	assay[42]-ms_run_ref	ms_run[42]
+MTD	assay[43]	190628_TT1_Hclass_Aging_043_37_9w_GF_F_Kidney_1_Pos (BV)
+MTD	assay[43]-sample_ref	sample[43]
+MTD	assay[43]-ms_run_ref	ms_run[43]
+MTD	assay[44]	190628_TT1_Hclass_Aging_044_34_24M_SPF_F_Kidney_2_Pos (BW)
+MTD	assay[44]-sample_ref	sample[44]
+MTD	assay[44]-ms_run_ref	ms_run[44]
+MTD	assay[45]	190628_TT1_Hclass_Aging_045_30_12M_SPF_F_Kidney_3_Pos (BX)
+MTD	assay[45]-sample_ref	sample[45]
+MTD	assay[45]-ms_run_ref	ms_run[45]
+MTD	assay[46]	190628_TT1_Hclass_Aging_046_22_24M_GF_M_Kidney_1_Pos (BY)
+MTD	assay[46]-sample_ref	sample[46]
+MTD	assay[46]-ms_run_ref	ms_run[46]
+MTD	assay[47]	190628_TT1_Hclass_Aging_047_1_9w_SPF_M_Kidney_1_Pos (BZ)
+MTD	assay[47]-sample_ref	sample[47]
+MTD	assay[47]-ms_run_ref	ms_run[47]
+MTD	assay[48]	190628_TT1_Hclass_Aging_048_40_12M_GF_F_Kidney_1_Pos (CA)
+MTD	assay[48]-sample_ref	sample[48]
+MTD	assay[48]-ms_run_ref	ms_run[48]
+MTD	assay[49]	190628_TT1_Hclass_Aging_Blank_Pos (CB)
+MTD	assay[49]-sample_ref	sample[49]
+MTD	assay[49]-ms_run_ref	ms_run[49]
+MTD	assay[50]	190628_TT1_Hclass_Aging_QC_Pos_01 (CC)
+MTD	assay[50]-sample_ref	sample[50]
+MTD	assay[50]-ms_run_ref	ms_run[50]
+MTD	assay[51]	190628_TT1_Hclass_Aging_QC_Pos_02 (CD)
+MTD	assay[51]-sample_ref	sample[51]
+MTD	assay[51]-ms_run_ref	ms_run[51]
+MTD	assay[52]	190628_TT1_Hclass_Aging_QC_Pos_03 (CE)
+MTD	assay[52]-sample_ref	sample[52]
+MTD	assay[52]-ms_run_ref	ms_run[52]
+MTD	assay[53]	190628_TT1_Hclass_Aging_QC_Pos_04 (CF)
+MTD	assay[53]-sample_ref	sample[53]
+MTD	assay[53]-ms_run_ref	ms_run[53]
+MTD	assay[54]	190628_TT1_Hclass_Aging_QC_Pos_05 (CG)
+MTD	assay[54]-sample_ref	sample[54]
+MTD	assay[54]-ms_run_ref	ms_run[54]
+MTD	assay[55]	190628_TT1_Hclass_Aging_QC_Pos_06 (CH)
+MTD	assay[55]-sample_ref	sample[55]
+MTD	assay[55]-ms_run_ref	ms_run[55]
+MTD	assay[56]	190628_TT1_Hclass_Aging_QC_Pos_07 (CI)
+MTD	assay[56]-sample_ref	sample[56]
+MTD	assay[56]-ms_run_ref	ms_run[56]
+MTD	assay[57]	190628_TT1_Hclass_Aging_001_38_9w_GF_F_Kidney_2_Pos (CK)
+MTD	assay[57]-sample_ref	sample[1]
+MTD	assay[57]-ms_run_ref	ms_run[57]
+MTD	assay[58]	190628_TT1_Hclass_Aging_002_4_12M_SPF_M_Kidney_1_Pos (CL)
+MTD	assay[58]-sample_ref	sample[2]
+MTD	assay[58]-ms_run_ref	ms_run[58]
+MTD	assay[59]	190628_TT1_Hclass_Aging_003_27_9w_SPF_F_Kidney_3_Pos (CM)
+MTD	assay[59]-sample_ref	sample[3]
+MTD	assay[59]-ms_run_ref	ms_run[59]
+MTD	assay[60]	190628_TT1_Hclass_Aging_004_14_9w_GF_M_Kidney_2_Pos (CN)
+MTD	assay[60]-sample_ref	sample[4]
+MTD	assay[60]-ms_run_ref	ms_run[60]
+MTD	assay[61]	190628_TT1_Hclass_Aging_005_33_18M_SPF_F_Kidney_3_Pos (CO)
+MTD	assay[61]-sample_ref	sample[5]
+MTD	assay[61]-ms_run_ref	ms_run[61]
+MTD	assay[62]	190628_TT1_Hclass_Aging_006_39_9w_GF_F_Kidney_3_Pos (CP)
+MTD	assay[62]-sample_ref	sample[6]
+MTD	assay[62]-ms_run_ref	ms_run[62]
+MTD	assay[63]	190628_TT1_Hclass_Aging_007_28_12M_SPF_F_Kidney_1_Pos (CQ)
+MTD	assay[63]-sample_ref	sample[7]
+MTD	assay[63]-ms_run_ref	ms_run[63]
+MTD	assay[64]	190628_TT1_Hclass_Aging_008_43_18M_GF_F_Kidney_1_Pos (CR)
+MTD	assay[64]-sample_ref	sample[8]
+MTD	assay[64]-ms_run_ref	ms_run[64]
+MTD	assay[65]	190628_TT1_Hclass_Aging_009_20_18M_GF_M_Kidney_3_Pos (CS)
+MTD	assay[65]-sample_ref	sample[9]
+MTD	assay[65]-ms_run_ref	ms_run[65]
+MTD	assay[66]	190628_TT1_Hclass_Aging_010_8_18M_SPF_M_Kidney_3_Pos (CT)
+MTD	assay[66]-sample_ref	sample[10]
+MTD	assay[66]-ms_run_ref	ms_run[66]
+MTD	assay[67]	190628_TT1_Hclass_Aging_011_19_18M_GF_M_Kidney_2_Pos (CU)
+MTD	assay[67]-sample_ref	sample[11]
+MTD	assay[67]-ms_run_ref	ms_run[67]
+MTD	assay[68]	190628_TT1_Hclass_Aging_012_29_12M_SPF_F_Kidney_2_Pos (CV)
+MTD	assay[68]-sample_ref	sample[12]
+MTD	assay[68]-ms_run_ref	ms_run[68]
+MTD	assay[69]	190628_TT1_Hclass_Aging_013_45_18M_GF_F_Kidney_3_Pos (CW)
+MTD	assay[69]-sample_ref	sample[13]
+MTD	assay[69]-ms_run_ref	ms_run[69]
+MTD	assay[70]	190628_TT1_Hclass_Aging_014_11_24M_SPF_M_Kidney_4_Pos (CX)
+MTD	assay[70]-sample_ref	sample[14]
+MTD	assay[70]-ms_run_ref	ms_run[70]
+MTD	assay[71]	190628_TT1_Hclass_Aging_015_31_18M_SPF_F_Kidney_1_Pos (CY)
+MTD	assay[71]-sample_ref	sample[15]
+MTD	assay[71]-ms_run_ref	ms_run[71]
+MTD	assay[72]	190628_TT1_Hclass_Aging_016_6_12M_SPF_M_Kidney_3_Pos (CZ)
+MTD	assay[72]-sample_ref	sample[16]
+MTD	assay[72]-ms_run_ref	ms_run[72]
+MTD	assay[73]	190628_TT1_Hclass_Aging_017_18_12M_GF_M_Kidney_3_Pos (DA)
+MTD	assay[73]-sample_ref	sample[17]
+MTD	assay[73]-ms_run_ref	ms_run[73]
+MTD	assay[74]	190628_TT1_Hclass_Aging_018_24_24M_GF_M_Kidney_3_Pos (DB)
+MTD	assay[74]-sample_ref	sample[18]
+MTD	assay[74]-ms_run_ref	ms_run[74]
+MTD	assay[75]	190628_TT1_Hclass_Aging_019_17_12M_GF_M_Kidney_2_Pos (DC)
+MTD	assay[75]-sample_ref	sample[19]
+MTD	assay[75]-ms_run_ref	ms_run[75]
+MTD	assay[76]	190628_TT1_Hclass_Aging_020_7_18M_SPF_M_Kidney_1_Pos (DD)
+MTD	assay[76]-sample_ref	sample[20]
+MTD	assay[76]-ms_run_ref	ms_run[76]
+MTD	assay[77]	190628_TT1_Hclass_Aging_021_5_12M_SPF_M_Kidney_2_Pos (DE)
+MTD	assay[77]-sample_ref	sample[21]
+MTD	assay[77]-ms_run_ref	ms_run[77]
+MTD	assay[78]	190628_TT1_Hclass_Aging_022_44_18M_GF_F_Kidney_2_Pos (DF)
+MTD	assay[78]-sample_ref	sample[22]
+MTD	assay[78]-ms_run_ref	ms_run[78]
+MTD	assay[79]	190628_TT1_Hclass_Aging_023_35_24M_SPF_F_Kidney_3_Pos (DG)
+MTD	assay[79]-sample_ref	sample[23]
+MTD	assay[79]-ms_run_ref	ms_run[79]
+MTD	assay[80]	190628_TT1_Hclass_Aging_024_10_24M_SPF_M_Kidney_3_Pos (DH)
+MTD	assay[80]-sample_ref	sample[24]
+MTD	assay[80]-ms_run_ref	ms_run[80]
+MTD	assay[81]	190628_TT1_Hclass_Aging_025_36_24M_SPF_F_Kidney_5_Pos (DI)
+MTD	assay[81]-sample_ref	sample[25]
+MTD	assay[81]-ms_run_ref	ms_run[81]
+MTD	assay[82]	190628_TT1_Hclass_Aging_026_2_9w_SPF_M_Kidney_2_Pos (DJ)
+MTD	assay[82]-sample_ref	sample[26]
+MTD	assay[82]-ms_run_ref	ms_run[82]
+MTD	assay[83]	190628_TT1_Hclass_Aging_027_15_9w_GF_M_Kidney_3_Pos (DK)
+MTD	assay[83]-sample_ref	sample[27]
+MTD	assay[83]-ms_run_ref	ms_run[83]
+MTD	assay[84]	190628_TT1_Hclass_Aging_028_9_18M_SPF_M_Kidney_4_Pos (DL)
+MTD	assay[84]-sample_ref	sample[28]
+MTD	assay[84]-ms_run_ref	ms_run[84]
+MTD	assay[85]	190628_TT1_Hclass_Aging_029_42_12M_GF_F_Kidney_3_Pos (DM)
+MTD	assay[85]-sample_ref	sample[29]
+MTD	assay[85]-ms_run_ref	ms_run[85]
+MTD	assay[86]	190628_TT1_Hclass_Aging_030_3_9w_SPF_M_Kidney_3_Pos (DN)
+MTD	assay[86]-sample_ref	sample[30]
+MTD	assay[86]-ms_run_ref	ms_run[86]
+MTD	assay[87]	190628_TT1_Hclass_Aging_031_48_24M_GF_F_Kidney_6_Pos (DO)
+MTD	assay[87]-sample_ref	sample[31]
+MTD	assay[87]-ms_run_ref	ms_run[87]
+MTD	assay[88]	190628_TT1_Hclass_Aging_032_23_24M_GF_M_Kidney_2_Pos (DP)
+MTD	assay[88]-sample_ref	sample[32]
+MTD	assay[88]-ms_run_ref	ms_run[88]
+MTD	assay[89]	190628_TT1_Hclass_Aging_033_12_24M_SPF_M_Kidney_5_Pos (DQ)
+MTD	assay[89]-sample_ref	sample[33]
+MTD	assay[89]-ms_run_ref	ms_run[89]
+MTD	assay[90]	190628_TT1_Hclass_Aging_034_32_18M_SPF_F_Kidney_2_Pos (DR)
+MTD	assay[90]-sample_ref	sample[34]
+MTD	assay[90]-ms_run_ref	ms_run[90]
+MTD	assay[91]	190628_TT1_Hclass_Aging_035_16_12M_GF_M_Kidney_1_Pos (DS)
+MTD	assay[91]-sample_ref	sample[35]
+MTD	assay[91]-ms_run_ref	ms_run[91]
+MTD	assay[92]	190628_TT1_Hclass_Aging_036_21_18M_GF_M_Kidney_5_Pos (DT)
+MTD	assay[92]-sample_ref	sample[36]
+MTD	assay[92]-ms_run_ref	ms_run[92]
+MTD	assay[93]	190628_TT1_Hclass_Aging_037_13_9w_GF_M_Kidney_1_Pos (DU)
+MTD	assay[93]-sample_ref	sample[37]
+MTD	assay[93]-ms_run_ref	ms_run[93]
+MTD	assay[94]	190628_TT1_Hclass_Aging_038_47_24M_GF_F_Kidney_3_Pos (DV)
+MTD	assay[94]-sample_ref	sample[38]
+MTD	assay[94]-ms_run_ref	ms_run[94]
+MTD	assay[95]	190628_TT1_Hclass_Aging_039_41_12M_GF_F_Kidney_2_Pos (DW)
+MTD	assay[95]-sample_ref	sample[39]
+MTD	assay[95]-ms_run_ref	ms_run[95]
+MTD	assay[96]	190628_TT1_Hclass_Aging_040_25_9w_SPF_F_Kidney_1_Pos (DX)
+MTD	assay[96]-sample_ref	sample[40]
+MTD	assay[96]-ms_run_ref	ms_run[96]
+MTD	assay[97]	190628_TT1_Hclass_Aging_041_46_24M_GF_F_Kidney_2_Pos (DY)
+MTD	assay[97]-sample_ref	sample[41]
+MTD	assay[97]-ms_run_ref	ms_run[97]
+MTD	assay[98]	190628_TT1_Hclass_Aging_042_26_9w_SPF_F_Kidney_2_Pos (DZ)
+MTD	assay[98]-sample_ref	sample[42]
+MTD	assay[98]-ms_run_ref	ms_run[98]
+MTD	assay[99]	190628_TT1_Hclass_Aging_043_37_9w_GF_F_Kidney_1_Pos (EA)
+MTD	assay[99]-sample_ref	sample[43]
+MTD	assay[99]-ms_run_ref	ms_run[99]
+MTD	assay[100]	190628_TT1_Hclass_Aging_044_34_24M_SPF_F_Kidney_2_Pos (EB)
+MTD	assay[100]-sample_ref	sample[44]
+MTD	assay[100]-ms_run_ref	ms_run[100]
+MTD	assay[101]	190628_TT1_Hclass_Aging_045_30_12M_SPF_F_Kidney_3_Pos (EC)
+MTD	assay[101]-sample_ref	sample[45]
+MTD	assay[101]-ms_run_ref	ms_run[101]
+MTD	assay[102]	190628_TT1_Hclass_Aging_046_22_24M_GF_M_Kidney_1_Pos (ED)
+MTD	assay[102]-sample_ref	sample[46]
+MTD	assay[102]-ms_run_ref	ms_run[102]
+MTD	assay[103]	190628_TT1_Hclass_Aging_047_1_9w_SPF_M_Kidney_1_Pos (EE)
+MTD	assay[103]-sample_ref	sample[47]
+MTD	assay[103]-ms_run_ref	ms_run[103]
+MTD	assay[104]	190628_TT1_Hclass_Aging_048_40_12M_GF_F_Kidney_1_Pos (EF)
+MTD	assay[104]-sample_ref	sample[48]
+MTD	assay[104]-ms_run_ref	ms_run[104]
+MTD	assay[105]	190628_TT1_Hclass_Aging_Blank_Pos (EG)
+MTD	assay[105]-sample_ref	sample[49]
+MTD	assay[105]-ms_run_ref	ms_run[105]
+MTD	assay[106]	190628_TT1_Hclass_Aging_QC_Pos_01 (EH)
+MTD	assay[106]-sample_ref	sample[50]
+MTD	assay[106]-ms_run_ref	ms_run[106]
+MTD	assay[107]	190628_TT1_Hclass_Aging_QC_Pos_02 (EI)
+MTD	assay[107]-sample_ref	sample[51]
+MTD	assay[107]-ms_run_ref	ms_run[107]
+MTD	assay[108]	190628_TT1_Hclass_Aging_QC_Pos_03 (EJ)
+MTD	assay[108]-sample_ref	sample[52]
+MTD	assay[108]-ms_run_ref	ms_run[108]
+MTD	assay[109]	190628_TT1_Hclass_Aging_QC_Pos_04 (EK)
+MTD	assay[109]-sample_ref	sample[53]
+MTD	assay[109]-ms_run_ref	ms_run[109]
+MTD	assay[110]	190628_TT1_Hclass_Aging_QC_Pos_05 (EL)
+MTD	assay[110]-sample_ref	sample[54]
+MTD	assay[110]-ms_run_ref	ms_run[110]
+MTD	assay[111]	190628_TT1_Hclass_Aging_QC_Pos_06 (EM)
+MTD	assay[111]-sample_ref	sample[55]
+MTD	assay[111]-ms_run_ref	ms_run[111]
+MTD	assay[112]	190628_TT1_Hclass_Aging_QC_Pos_07 (EN)
+MTD	assay[112]-sample_ref	sample[56]
+MTD	assay[112]-ms_run_ref	ms_run[112]
+MTD	study_variable_group[1]	[,,public_private,]
+MTD	study_variable_group[1]-description	Public/Private
+MTD	study_variable_group[1]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[1]-datatype	xsd:string
+MTD	study_variable_group[1]-study_variable_ref	study_variable[1]
+MTD	study_variable_group[2]	[,,category,]
+MTD	study_variable_group[2]-description	Category
+MTD	study_variable_group[2]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[2]-datatype	xsd:string
+MTD	study_variable_group[2]-study_variable_ref	study_variable[2]|study_variable[3]|study_variable[4]
+MTD	study_variable_group[3]	[,,genotype_background,]
+MTD	study_variable_group[3]-description	Genotype/Background
+MTD	study_variable_group[3]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[3]-datatype	xsd:string
+MTD	study_variable_group[3]-study_variable_ref	study_variable[5]|study_variable[6]|study_variable[7]|study_variable[8]|study_variable[9]|study_variable[10]
+MTD	study_variable_group[4]	[,,perturbation,]
+MTD	study_variable_group[4]-description	Perturbation
+MTD	study_variable_group[4]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[4]-datatype	xsd:string
+MTD	study_variable_group[4]-study_variable_ref	study_variable[11]|study_variable[12]|study_variable[13]|study_variable[14]|study_variable[15]|study_variable[16]
+MTD	study_variable_group[5]	[,,diet_culture,]
+MTD	study_variable_group[5]-description	Diet/Culture
+MTD	study_variable_group[5]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[5]-datatype	xsd:string
+MTD	study_variable_group[5]-study_variable_ref	study_variable[17]|study_variable[18]|study_variable[19]
+MTD	study_variable_group[6]	[,,biological_replicate,]
+MTD	study_variable_group[6]-description	Biological replicate
+MTD	study_variable_group[6]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[6]-datatype	xsd:string
+MTD	study_variable_group[6]-study_variable_ref	study_variable[20]|study_variable[21]|study_variable[22]|study_variable[23]|study_variable[24]|study_variable[25]|study_variable[26]
+MTD	study_variable_group[7]	[,,technical_replicate,]
+MTD	study_variable_group[7]-description	Technical replicate
+MTD	study_variable_group[7]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[7]-datatype	xsd:string
+MTD	study_variable_group[7]-study_variable_ref	study_variable[27]
+MTD	study_variable_group[8]	[,,unit,]
+MTD	study_variable_group[8]-description	Unit
+MTD	study_variable_group[8]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[8]-datatype	xsd:string
+MTD	study_variable_group[8]-study_variable_ref	study_variable[28]|study_variable[29]
+MTD	study_variable[1]	Public
+MTD	study_variable[1]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]|assay[47]|assay[48]|assay[49]|assay[50]|assay[51]|assay[52]|assay[53]|assay[54]|assay[55]|assay[56]|assay[57]|assay[58]|assay[59]|assay[60]|assay[61]|assay[62]|assay[63]|assay[64]|assay[65]|assay[66]|assay[67]|assay[68]|assay[69]|assay[70]|assay[71]|assay[72]|assay[73]|assay[74]|assay[75]|assay[76]|assay[77]|assay[78]|assay[79]|assay[80]|assay[81]|assay[82]|assay[83]|assay[84]|assay[85]|assay[86]|assay[87]|assay[88]|assay[89]|assay[90]|assay[91]|assay[92]|assay[93]|assay[94]|assay[95]|assay[96]|assay[97]|assay[98]|assay[99]|assay[100]|assay[101]|assay[102]|assay[103]|assay[104]|assay[105]|assay[106]|assay[107]|assay[108]|assay[109]|assay[110]|assay[111]|assay[112]
+MTD	study_variable[1]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[1]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[1]-description	Variable public_private, value Public
+MTD	study_variable[2]	Mouse
+MTD	study_variable[2]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]|assay[47]|assay[48]|assay[57]|assay[58]|assay[59]|assay[60]|assay[61]|assay[62]|assay[63]|assay[64]|assay[65]|assay[66]|assay[67]|assay[68]|assay[69]|assay[70]|assay[71]|assay[72]|assay[73]|assay[74]|assay[75]|assay[76]|assay[77]|assay[78]|assay[79]|assay[80]|assay[81]|assay[82]|assay[83]|assay[84]|assay[85]|assay[86]|assay[87]|assay[88]|assay[89]|assay[90]|assay[91]|assay[92]|assay[93]|assay[94]|assay[95]|assay[96]|assay[97]|assay[98]|assay[99]|assay[100]|assay[101]|assay[102]|assay[103]|assay[104]
+MTD	study_variable[2]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[2]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[2]-description	Variable category, value Mouse
+MTD	study_variable[3]	Blank
+MTD	study_variable[3]-assay_refs	assay[49]|assay[105]
+MTD	study_variable[3]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[3]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[3]-description	Variable category, value Blank
+MTD	study_variable[4]	QC
+MTD	study_variable[4]-assay_refs	assay[50]|assay[51]|assay[52]|assay[53]|assay[54]|assay[55]|assay[56]|assay[106]|assay[107]|assay[108]|assay[109]|assay[110]|assay[111]|assay[112]
+MTD	study_variable[4]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[4]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[4]-description	Variable category, value QC
+MTD	study_variable[5]	B6N/Female/GF
+MTD	study_variable[5]-assay_refs	assay[1]|assay[6]|assay[8]|assay[13]|assay[22]|assay[29]|assay[31]|assay[38]|assay[39]|assay[41]|assay[43]|assay[48]|assay[57]|assay[62]|assay[64]|assay[69]|assay[78]|assay[85]|assay[87]|assay[94]|assay[95]|assay[97]|assay[99]|assay[104]
+MTD	study_variable[5]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[5]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[5]-description	Variable genotype_background, value B6N/Female/GF
+MTD	study_variable[6]	B6N/Male/SPF
+MTD	study_variable[6]-assay_refs	assay[2]|assay[10]|assay[14]|assay[16]|assay[20]|assay[21]|assay[24]|assay[26]|assay[28]|assay[30]|assay[33]|assay[47]|assay[58]|assay[66]|assay[70]|assay[72]|assay[76]|assay[77]|assay[80]|assay[82]|assay[84]|assay[86]|assay[89]|assay[103]
+MTD	study_variable[6]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[6]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[6]-description	Variable genotype_background, value B6N/Male/SPF
+MTD	study_variable[7]	B6N/Female/SPF
+MTD	study_variable[7]-assay_refs	assay[3]|assay[5]|assay[7]|assay[12]|assay[15]|assay[23]|assay[25]|assay[34]|assay[40]|assay[42]|assay[44]|assay[45]|assay[59]|assay[61]|assay[63]|assay[68]|assay[71]|assay[79]|assay[81]|assay[90]|assay[96]|assay[98]|assay[100]|assay[101]
+MTD	study_variable[7]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[7]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[7]-description	Variable genotype_background, value B6N/Female/SPF
+MTD	study_variable[8]	B6N/Male/GF
+MTD	study_variable[8]-assay_refs	assay[4]|assay[9]|assay[11]|assay[17]|assay[18]|assay[19]|assay[27]|assay[32]|assay[35]|assay[36]|assay[37]|assay[46]|assay[60]|assay[65]|assay[67]|assay[73]|assay[74]|assay[75]|assay[83]|assay[88]|assay[91]|assay[92]|assay[93]|assay[102]
+MTD	study_variable[8]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[8]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[8]-description	Variable genotype_background, value B6N/Male/GF
+MTD	study_variable[9]	Blank
+MTD	study_variable[9]-assay_refs	assay[49]|assay[105]
+MTD	study_variable[9]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[9]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[9]-description	Variable genotype_background, value Blank
+MTD	study_variable[10]	QC
+MTD	study_variable[10]-assay_refs	assay[50]|assay[51]|assay[52]|assay[53]|assay[54]|assay[55]|assay[56]|assay[106]|assay[107]|assay[108]|assay[109]|assay[110]|assay[111]|assay[112]
+MTD	study_variable[10]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[10]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[10]-description	Variable genotype_background, value QC
+MTD	study_variable[11]	2 months years old
+MTD	study_variable[11]-assay_refs	assay[1]|assay[3]|assay[4]|assay[6]|assay[26]|assay[27]|assay[30]|assay[37]|assay[40]|assay[42]|assay[43]|assay[47]|assay[57]|assay[59]|assay[60]|assay[62]|assay[82]|assay[83]|assay[86]|assay[93]|assay[96]|assay[98]|assay[99]|assay[103]
+MTD	study_variable[11]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[11]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[11]-description	Variable perturbation, value 2 months years old
+MTD	study_variable[12]	12 months years old
+MTD	study_variable[12]-assay_refs	assay[2]|assay[7]|assay[12]|assay[16]|assay[17]|assay[19]|assay[21]|assay[29]|assay[35]|assay[39]|assay[45]|assay[48]|assay[58]|assay[63]|assay[68]|assay[72]|assay[73]|assay[75]|assay[77]|assay[85]|assay[91]|assay[95]|assay[101]|assay[104]
+MTD	study_variable[12]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[12]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[12]-description	Variable perturbation, value 12 months years old
+MTD	study_variable[13]	18 months years old
+MTD	study_variable[13]-assay_refs	assay[5]|assay[8]|assay[9]|assay[10]|assay[11]|assay[13]|assay[15]|assay[20]|assay[22]|assay[28]|assay[34]|assay[36]|assay[61]|assay[64]|assay[65]|assay[66]|assay[67]|assay[69]|assay[71]|assay[76]|assay[78]|assay[84]|assay[90]|assay[92]
+MTD	study_variable[13]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[13]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[13]-description	Variable perturbation, value 18 months years old
+MTD	study_variable[14]	24 months years old
+MTD	study_variable[14]-assay_refs	assay[14]|assay[18]|assay[23]|assay[24]|assay[25]|assay[31]|assay[32]|assay[33]|assay[38]|assay[41]|assay[44]|assay[46]|assay[70]|assay[74]|assay[79]|assay[80]|assay[81]|assay[87]|assay[88]|assay[89]|assay[94]|assay[97]|assay[100]|assay[102]
+MTD	study_variable[14]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[14]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[14]-description	Variable perturbation, value 24 months years old
+MTD	study_variable[15]	Blank
+MTD	study_variable[15]-assay_refs	assay[49]|assay[105]
+MTD	study_variable[15]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[15]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[15]-description	Variable perturbation, value Blank
+MTD	study_variable[16]	QC
+MTD	study_variable[16]-assay_refs	assay[50]|assay[51]|assay[52]|assay[53]|assay[54]|assay[55]|assay[56]|assay[106]|assay[107]|assay[108]|assay[109]|assay[110]|assay[111]|assay[112]
+MTD	study_variable[16]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[16]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[16]-description	Variable perturbation, value QC
+MTD	study_variable[17]	AIM-93M
+MTD	study_variable[17]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]|assay[47]|assay[48]|assay[57]|assay[58]|assay[59]|assay[60]|assay[61]|assay[62]|assay[63]|assay[64]|assay[65]|assay[66]|assay[67]|assay[68]|assay[69]|assay[70]|assay[71]|assay[72]|assay[73]|assay[74]|assay[75]|assay[76]|assay[77]|assay[78]|assay[79]|assay[80]|assay[81]|assay[82]|assay[83]|assay[84]|assay[85]|assay[86]|assay[87]|assay[88]|assay[89]|assay[90]|assay[91]|assay[92]|assay[93]|assay[94]|assay[95]|assay[96]|assay[97]|assay[98]|assay[99]|assay[100]|assay[101]|assay[102]|assay[103]|assay[104]
+MTD	study_variable[17]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[17]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[17]-description	Variable diet_culture, value AIM-93M
+MTD	study_variable[18]	Blank
+MTD	study_variable[18]-assay_refs	assay[49]|assay[105]
+MTD	study_variable[18]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[18]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[18]-description	Variable diet_culture, value Blank
+MTD	study_variable[19]	QC
+MTD	study_variable[19]-assay_refs	assay[50]|assay[51]|assay[52]|assay[53]|assay[54]|assay[55]|assay[56]|assay[106]|assay[107]|assay[108]|assay[109]|assay[110]|assay[111]|assay[112]
+MTD	study_variable[19]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[19]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[19]-description	Variable diet_culture, value QC
+MTD	study_variable[20]	1
+MTD	study_variable[20]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[7]|assay[8]|assay[9]|assay[10]|assay[14]|assay[17]|assay[18]|assay[23]|assay[26]|assay[29]|assay[31]|assay[49]|assay[50]|assay[57]|assay[58]|assay[59]|assay[60]|assay[61]|assay[63]|assay[64]|assay[65]|assay[66]|assay[70]|assay[73]|assay[74]|assay[79]|assay[82]|assay[85]|assay[87]|assay[105]|assay[106]
+MTD	study_variable[20]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[20]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[20]-description	Variable biological_replicate, value 1
+MTD	study_variable[21]	2
+MTD	study_variable[21]-assay_refs	assay[6]|assay[11]|assay[12]|assay[13]|assay[15]|assay[16]|assay[19]|assay[20]|assay[24]|assay[25]|assay[27]|assay[30]|assay[32]|assay[38]|assay[39]|assay[40]|assay[51]|assay[62]|assay[67]|assay[68]|assay[69]|assay[71]|assay[72]|assay[75]|assay[76]|assay[80]|assay[81]|assay[83]|assay[86]|assay[88]|assay[94]|assay[95]|assay[96]|assay[107]
+MTD	study_variable[21]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[21]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[21]-description	Variable biological_replicate, value 2
+MTD	study_variable[22]	3
+MTD	study_variable[22]-assay_refs	assay[21]|assay[22]|assay[28]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]|assay[47]|assay[48]|assay[52]|assay[77]|assay[78]|assay[84]|assay[89]|assay[90]|assay[91]|assay[92]|assay[93]|assay[97]|assay[98]|assay[99]|assay[100]|assay[101]|assay[102]|assay[103]|assay[104]|assay[108]
+MTD	study_variable[22]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[22]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[22]-description	Variable biological_replicate, value 3
+MTD	study_variable[23]	4
+MTD	study_variable[23]-assay_refs	assay[53]|assay[109]
+MTD	study_variable[23]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[23]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[23]-description	Variable biological_replicate, value 4
+MTD	study_variable[24]	5
+MTD	study_variable[24]-assay_refs	assay[54]|assay[110]
+MTD	study_variable[24]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[24]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[24]-description	Variable biological_replicate, value 5
+MTD	study_variable[25]	6
+MTD	study_variable[25]-assay_refs	assay[55]|assay[111]
+MTD	study_variable[25]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[25]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[25]-description	Variable biological_replicate, value 6
+MTD	study_variable[26]	7
+MTD	study_variable[26]-assay_refs	assay[56]|assay[112]
+MTD	study_variable[26]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[26]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[26]-description	Variable biological_replicate, value 7
+MTD	study_variable[27]	1
+MTD	study_variable[27]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]|assay[47]|assay[48]|assay[49]|assay[50]|assay[51]|assay[52]|assay[53]|assay[54]|assay[55]|assay[56]|assay[57]|assay[58]|assay[59]|assay[60]|assay[61]|assay[62]|assay[63]|assay[64]|assay[65]|assay[66]|assay[67]|assay[68]|assay[69]|assay[70]|assay[71]|assay[72]|assay[73]|assay[74]|assay[75]|assay[76]|assay[77]|assay[78]|assay[79]|assay[80]|assay[81]|assay[82]|assay[83]|assay[84]|assay[85]|assay[86]|assay[87]|assay[88]|assay[89]|assay[90]|assay[91]|assay[92]|assay[93]|assay[94]|assay[95]|assay[96]|assay[97]|assay[98]|assay[99]|assay[100]|assay[101]|assay[102]|assay[103]|assay[104]|assay[105]|assay[106]|assay[107]|assay[108]|assay[109]|assay[110]|assay[111]|assay[112]
+MTD	study_variable[27]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[27]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[27]-description	Variable technical_replicate, value 1
+MTD	study_variable[28]	Height
+MTD	study_variable[28]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]|assay[47]|assay[48]|assay[49]|assay[50]|assay[51]|assay[52]|assay[53]|assay[54]|assay[55]|assay[56]
+MTD	study_variable[28]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[28]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[28]-description	Variable unit, value Height
+MTD	study_variable[29]	pmol/mg tissue
+MTD	study_variable[29]-assay_refs	assay[57]|assay[58]|assay[59]|assay[60]|assay[61]|assay[62]|assay[63]|assay[64]|assay[65]|assay[66]|assay[67]|assay[68]|assay[69]|assay[70]|assay[71]|assay[72]|assay[73]|assay[74]|assay[75]|assay[76]|assay[77]|assay[78]|assay[79]|assay[80]|assay[81]|assay[82]|assay[83]|assay[84]|assay[85]|assay[86]|assay[87]|assay[88]|assay[89]|assay[90]|assay[91]|assay[92]|assay[93]|assay[94]|assay[95]|assay[96]|assay[97]|assay[98]|assay[99]|assay[100]|assay[101]|assay[102]|assay[103]|assay[104]|assay[105]|assay[106]|assay[107]|assay[108]|assay[109]|assay[110]|assay[111]|assay[112]
+MTD	study_variable[29]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[29]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[29]-description	Variable unit, value pmol/mg tissue
+MTD	cv[1]-label	MS
+MTD	cv[1]-full_name	PSI-MS controlled vocabulary
+MTD	cv[1]-version	4.1.138
+MTD	cv[1]-uri	https://www.ebi.ac.uk/ols4/ontologies/ms
+MTD	cv[2]-label	PRIDE
+MTD	cv[2]-full_name	PRIDE PRoteomics IDEntifications (PRIDE) database controlled vocabulary
+MTD	cv[2]-version	16:10:2023 11:38
+MTD	cv[2]-uri	https://www.ebi.ac.uk/ols/ontologies/pride
+MTD	cv[3]-label	STATO
+MTD	cv[3]-full_name	General purpose STATistics Ontology
+MTD	cv[3]-version	2026-04-20
+MTD	cv[3]-uri	https://www.ebi.ac.uk/ols4/ontologies/stato
+MTD	cv[4]-label	NCBITaxon
+MTD	cv[4]-full_name	NCBI organismal classification
+MTD	cv[4]-version	2026-07-12
+MTD	cv[4]-uri	http://purl.obolibrary.org/obo/ncbitaxon.owl
+MTD	database[1]	[,, "no database", null ]
+MTD	database[1]-prefix	null
+MTD	database[1]-version	Unknown
+MTD	database[1]-uri	null
+MTD	small_molecule-quantification_unit	[PRIDE, PRIDE:0000330, Arbitrary quantification unit, ]
+MTD	small_molecule_feature-quantification_unit	[PRIDE, PRIDE:0000330, Arbitrary quantification unit, ]
+MTD	small_molecule-identification_reliability	[MS, MS:1002896, compound identification confidence level, ]
+COM	Generated with RmzTabM from sample_metadata.toml.
+COM	Source: RIKEN LIPIDOMICS, CC BY-NC 4.0.
+

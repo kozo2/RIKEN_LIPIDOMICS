@@ -1,0 +1,203 @@
+MTD	mzTab-version	2.1.0-M
+MTD	mzTab-ID	71_Algae_Dunaliella_salina_8
+MTD	mzTab-profile	M
+MTD	title	71_Algae_Dunaliella salina_8
+MTD	description	Sample metadata from RIKEN LIPIDOMICS workbook 71_Algae_Dunaliella salina_8.xlsx exported from sample_metadata.toml. Quantification values are not included.
+MTD	software[1]	[,, RmzTabM, 0.99.2]
+MTD	uri[1]	https://metabography.riken.jp/menta.cgi/lipidomics/download_data_set
+MTD	quantification_method	[MS, MS:1001834, LC-MS label-free quantitation analysis, ]
+MTD	sample[1]	Posi_Ida_Blank_1
+MTD	sample[2]	Posi_Ida_Blank_2
+MTD	sample[3]	Posi_Ida_Dunaliella_1
+MTD	sample[3]-species[1]	[,, Dunaliella salina, ]
+MTD	sample[4]	Posi_Ida_Dunaliella_2
+MTD	sample[4]-species[1]	[,, Dunaliella salina, ]
+MTD	sample[5]	Posi_Ida_Dunaliella_3
+MTD	sample[5]-species[1]	[,, Dunaliella salina, ]
+MTD	ms_run[1]-location	null
+MTD	ms_run[1]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[2]-location	null
+MTD	ms_run[2]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[3]-location	null
+MTD	ms_run[3]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[4]-location	null
+MTD	ms_run[4]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[5]-location	null
+MTD	ms_run[5]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[6]-location	null
+MTD	ms_run[6]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[7]-location	null
+MTD	ms_run[7]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[8]-location	null
+MTD	ms_run[8]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[9]-location	null
+MTD	ms_run[9]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[10]-location	null
+MTD	ms_run[10]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	assay[1]	Posi_Ida_Blank_1 (AF)
+MTD	assay[1]-sample_ref	sample[1]
+MTD	assay[1]-ms_run_ref	ms_run[1]
+MTD	assay[2]	Posi_Ida_Blank_2 (AG)
+MTD	assay[2]-sample_ref	sample[2]
+MTD	assay[2]-ms_run_ref	ms_run[2]
+MTD	assay[3]	Posi_Ida_Dunaliella_1 (AH)
+MTD	assay[3]-sample_ref	sample[3]
+MTD	assay[3]-ms_run_ref	ms_run[3]
+MTD	assay[4]	Posi_Ida_Dunaliella_2 (AI)
+MTD	assay[4]-sample_ref	sample[4]
+MTD	assay[4]-ms_run_ref	ms_run[4]
+MTD	assay[5]	Posi_Ida_Dunaliella_3 (AJ)
+MTD	assay[5]-sample_ref	sample[5]
+MTD	assay[5]-ms_run_ref	ms_run[5]
+MTD	assay[6]	Posi_Ida_Blank_1 (AL)
+MTD	assay[6]-sample_ref	sample[1]
+MTD	assay[6]-ms_run_ref	ms_run[6]
+MTD	assay[7]	Posi_Ida_Blank_2 (AM)
+MTD	assay[7]-sample_ref	sample[2]
+MTD	assay[7]-ms_run_ref	ms_run[7]
+MTD	assay[8]	Posi_Ida_Dunaliella_1 (AN)
+MTD	assay[8]-sample_ref	sample[3]
+MTD	assay[8]-ms_run_ref	ms_run[8]
+MTD	assay[9]	Posi_Ida_Dunaliella_2 (AO)
+MTD	assay[9]-sample_ref	sample[4]
+MTD	assay[9]-ms_run_ref	ms_run[9]
+MTD	assay[10]	Posi_Ida_Dunaliella_3 (AP)
+MTD	assay[10]-sample_ref	sample[5]
+MTD	assay[10]-ms_run_ref	ms_run[10]
+MTD	study_variable_group[1]	[,,public_private,]
+MTD	study_variable_group[1]-description	Public/Private
+MTD	study_variable_group[1]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[1]-datatype	xsd:string
+MTD	study_variable_group[1]-study_variable_ref	study_variable[1]
+MTD	study_variable_group[2]	[,,category,]
+MTD	study_variable_group[2]-description	Category
+MTD	study_variable_group[2]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[2]-datatype	xsd:string
+MTD	study_variable_group[2]-study_variable_ref	study_variable[2]|study_variable[3]
+MTD	study_variable_group[3]	[,,genotype_background,]
+MTD	study_variable_group[3]-description	Genotype/Background
+MTD	study_variable_group[3]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[3]-datatype	xsd:string
+MTD	study_variable_group[3]-study_variable_ref	study_variable[4]|study_variable[5]
+MTD	study_variable_group[4]	[,,perturbation,]
+MTD	study_variable_group[4]-description	Perturbation
+MTD	study_variable_group[4]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[4]-datatype	xsd:string
+MTD	study_variable_group[4]-study_variable_ref	study_variable[6]|study_variable[7]
+MTD	study_variable_group[5]	[,,diet_culture,]
+MTD	study_variable_group[5]-description	Diet/Culture
+MTD	study_variable_group[5]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[5]-datatype	xsd:string
+MTD	study_variable_group[5]-study_variable_ref	study_variable[8]|study_variable[9]
+MTD	study_variable_group[6]	[,,biological_replicate,]
+MTD	study_variable_group[6]-description	Biological replicate
+MTD	study_variable_group[6]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[6]-datatype	xsd:string
+MTD	study_variable_group[6]-study_variable_ref	study_variable[10]
+MTD	study_variable_group[7]	[,,technical_replicate,]
+MTD	study_variable_group[7]-description	Technical replicate
+MTD	study_variable_group[7]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[7]-datatype	xsd:string
+MTD	study_variable_group[7]-study_variable_ref	study_variable[11]|study_variable[12]|study_variable[13]
+MTD	study_variable_group[8]	[,,unit,]
+MTD	study_variable_group[8]-description	Unit
+MTD	study_variable_group[8]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[8]-datatype	xsd:string
+MTD	study_variable_group[8]-study_variable_ref	study_variable[14]|study_variable[15]
+MTD	study_variable[1]	Public
+MTD	study_variable[1]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]
+MTD	study_variable[1]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[1]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[1]-description	Variable public_private, value Public
+MTD	study_variable[2]	Blank
+MTD	study_variable[2]-assay_refs	assay[1]|assay[2]|assay[6]|assay[7]
+MTD	study_variable[2]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[2]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[2]-description	Variable category, value Blank
+MTD	study_variable[3]	Algae
+MTD	study_variable[3]-assay_refs	assay[3]|assay[4]|assay[5]|assay[8]|assay[9]|assay[10]
+MTD	study_variable[3]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[3]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[3]-description	Variable category, value Algae
+MTD	study_variable[4]	Blank
+MTD	study_variable[4]-assay_refs	assay[1]|assay[2]|assay[6]|assay[7]
+MTD	study_variable[4]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[4]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[4]-description	Variable genotype_background, value Blank
+MTD	study_variable[5]	UTEX LB200
+MTD	study_variable[5]-assay_refs	assay[3]|assay[4]|assay[5]|assay[8]|assay[9]|assay[10]
+MTD	study_variable[5]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[5]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[5]-description	Variable genotype_background, value UTEX LB200
+MTD	study_variable[6]	Blank
+MTD	study_variable[6]-assay_refs	assay[1]|assay[2]|assay[6]|assay[7]
+MTD	study_variable[6]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[6]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[6]-description	Variable perturbation, value Blank
+MTD	study_variable[7]	null
+MTD	study_variable[7]-assay_refs	assay[3]|assay[4]|assay[5]|assay[8]|assay[9]|assay[10]
+MTD	study_variable[7]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[7]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[7]-description	Variable perturbation, value null
+MTD	study_variable[8]	Blank
+MTD	study_variable[8]-assay_refs	assay[1]|assay[2]|assay[6]|assay[7]
+MTD	study_variable[8]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[8]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[8]-description	Variable diet_culture, value Blank
+MTD	study_variable[9]	null
+MTD	study_variable[9]-assay_refs	assay[3]|assay[4]|assay[5]|assay[8]|assay[9]|assay[10]
+MTD	study_variable[9]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[9]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[9]-description	Variable diet_culture, value null
+MTD	study_variable[10]	1
+MTD	study_variable[10]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]
+MTD	study_variable[10]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[10]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[10]-description	Variable biological_replicate, value 1
+MTD	study_variable[11]	1
+MTD	study_variable[11]-assay_refs	assay[1]|assay[3]|assay[6]|assay[8]
+MTD	study_variable[11]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[11]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[11]-description	Variable technical_replicate, value 1
+MTD	study_variable[12]	2
+MTD	study_variable[12]-assay_refs	assay[2]|assay[4]|assay[7]|assay[9]
+MTD	study_variable[12]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[12]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[12]-description	Variable technical_replicate, value 2
+MTD	study_variable[13]	3
+MTD	study_variable[13]-assay_refs	assay[5]|assay[10]
+MTD	study_variable[13]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[13]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[13]-description	Variable technical_replicate, value 3
+MTD	study_variable[14]	Height
+MTD	study_variable[14]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]
+MTD	study_variable[14]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[14]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[14]-description	Variable unit, value Height
+MTD	study_variable[15]	pmol/mg tissue
+MTD	study_variable[15]-assay_refs	assay[6]|assay[7]|assay[8]|assay[9]|assay[10]
+MTD	study_variable[15]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[15]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[15]-description	Variable unit, value pmol/mg tissue
+MTD	cv[1]-label	MS
+MTD	cv[1]-full_name	PSI-MS controlled vocabulary
+MTD	cv[1]-version	4.1.138
+MTD	cv[1]-uri	https://www.ebi.ac.uk/ols4/ontologies/ms
+MTD	cv[2]-label	PRIDE
+MTD	cv[2]-full_name	PRIDE PRoteomics IDEntifications (PRIDE) database controlled vocabulary
+MTD	cv[2]-version	16:10:2023 11:38
+MTD	cv[2]-uri	https://www.ebi.ac.uk/ols/ontologies/pride
+MTD	cv[3]-label	STATO
+MTD	cv[3]-full_name	General purpose STATistics Ontology
+MTD	cv[3]-version	2026-04-20
+MTD	cv[3]-uri	https://www.ebi.ac.uk/ols4/ontologies/stato
+MTD	database[1]	[,, "no database", null ]
+MTD	database[1]-prefix	null
+MTD	database[1]-version	Unknown
+MTD	database[1]-uri	null
+MTD	small_molecule-quantification_unit	[PRIDE, PRIDE:0000330, Arbitrary quantification unit, ]
+MTD	small_molecule_feature-quantification_unit	[PRIDE, PRIDE:0000330, Arbitrary quantification unit, ]
+MTD	small_molecule-identification_reliability	[MS, MS:1002896, compound identification confidence level, ]
+COM	Generated with RmzTabM from sample_metadata.toml.
+COM	Source: RIKEN LIPIDOMICS, CC BY-NC 4.0.
+
