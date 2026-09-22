@@ -1,0 +1,2636 @@
+MTD	mzTab-version	2.1.0-M
+MTD	mzTab-ID	85_Plant_Food_products_7
+MTD	mzTab-profile	M
+MTD	title	Plant_Food products_7
+MTD	description	Sample metadata from RIKEN LIPIDOMICS workbook 85_Plant_Food_products_7.xlsx exported from sample_metadata.toml. Quantification values are not included.
+MTD	software[1]	[,, RmzTabM, 0.99.2]
+MTD	uri[1]	https://metabography.riken.jp/menta.cgi/lipidomics/download_data_set
+MTD	quantification_method	[MS, MS:1001834, LC-MS label-free quantitation analysis, ]
+MTD	sample[1]	Sample 1
+MTD	sample[1]-species[1]	[,, Actinidia deliciosa, ]
+MTD	sample[1]-tissue[1]	[,, fruit storage parenchyma (fruit flesh), ]
+MTD	sample[2]	Sample 2
+MTD	sample[2]-species[1]	[,, Actinidia deliciosa, ]
+MTD	sample[2]-tissue[1]	[,, pericarp, ]
+MTD	sample[3]	Sample 3
+MTD	sample[3]-species[1]	[,, Actinidia polygama, ]
+MTD	sample[3]-tissue[1]	[,, leaf, ]
+MTD	sample[4]	Sample 4
+MTD	sample[4]-species[1]	[,, Allium ampeloprasum, ]
+MTD	sample[4]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[5]	Sample 5
+MTD	sample[5]-species[1]	[,, Allium cepa, ]
+MTD	sample[5]-tissue[1]	[,, bulb, ]
+MTD	sample[6]	Sample 6
+MTD	sample[6]-species[1]	[,, Allium cepa, ]
+MTD	sample[6]-tissue[1]	[,, bulb, ]
+MTD	sample[7]	Sample 7
+MTD	sample[7]-species[1]	[,, Allium cepa, ]
+MTD	sample[7]-tissue[1]	[,, bulb, ]
+MTD	sample[8]	Sample 8
+MTD	sample[8]-species[1]	[,, Allium cepa, ]
+MTD	sample[8]-tissue[1]	[,, bulb, ]
+MTD	sample[9]	Sample 9
+MTD	sample[9]-species[1]	[,, Allium cepa, ]
+MTD	sample[9]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[10]	Sample 10
+MTD	sample[10]-species[1]	[,, Allium cepa, ]
+MTD	sample[10]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[11]	Sample 11
+MTD	sample[11]-species[1]	[,, Allium cepa, ]
+MTD	sample[11]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[12]	Sample 12
+MTD	sample[12]-species[1]	[,, Allium cepa, ]
+MTD	sample[12]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[13]	Sample 13
+MTD	sample[13]-species[1]	[,, Allium chinense, ]
+MTD	sample[13]-tissue[1]	[,, bulb, ]
+MTD	sample[14]	Sample 14
+MTD	sample[14]-species[1]	[,, Allium fistulosum, ]
+MTD	sample[14]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[15]	Sample 15
+MTD	sample[15]-species[1]	[,, Allium fistulosum, ]
+MTD	sample[15]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[16]	Sample 16
+MTD	sample[16]-species[1]	[,, Allium fistulosum, ]
+MTD	sample[16]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[17]	Sample 17
+MTD	sample[17]-species[1]	[,, Allium sativum, ]
+MTD	sample[17]-tissue[1]	[,, rhizome, ]
+MTD	sample[18]	Sample 18
+MTD	sample[18]-species[1]	[,, Allium tuberosum, ]
+MTD	sample[18]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[19]	Sample 19
+MTD	sample[19]-species[1]	[,, Glehnia littoralis, ]
+MTD	sample[19]-tissue[1]	[,, flower bud; flower, ]
+MTD	sample[20]	Sample 20
+MTD	sample[20]-species[1]	[,, Glehnia littoralis, ]
+MTD	sample[20]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[21]	Sample 21
+MTD	sample[21]-species[1]	[,, Arctium lappa, ]
+MTD	sample[21]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[22]	Sample 22
+MTD	sample[22]-species[1]	[,, Arctium lappa, ]
+MTD	sample[22]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[23]	Sample 23
+MTD	sample[23]-species[1]	[,, Arctium lappa, ]
+MTD	sample[23]-tissue[1]	[,, root, ]
+MTD	sample[24]	Sample 24
+MTD	sample[24]-species[1]	[,, Cichorium endivia, ]
+MTD	sample[24]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[25]	Sample 25
+MTD	sample[25]-species[1]	[,, Cichorium intybus, ]
+MTD	sample[25]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[26]	Sample 26
+MTD	sample[26]-species[1]	[,, Glebionis coronaria, ]
+MTD	sample[26]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[27]	Sample 27
+MTD	sample[27]-species[1]	[,, Helianthus annuus, ]
+MTD	sample[27]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[28]	Sample 28
+MTD	sample[28]-species[1]	[,, Helianthus annuus, ]
+MTD	sample[28]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[29]	Sample 29
+MTD	sample[29]-species[1]	[,, Helianthus annuus, ]
+MTD	sample[29]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[30]	Sample 30
+MTD	sample[30]-species[1]	[,, Helianthus annuus, ]
+MTD	sample[30]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[31]	Sample 31
+MTD	sample[31]-species[1]	[,, Lactuca sativa var. capitata, ]
+MTD	sample[31]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[32]	Sample 32
+MTD	sample[32]-species[1]	[,, Lactuca sativa var. capitata, ]
+MTD	sample[32]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[33]	Sample 33
+MTD	sample[33]-species[1]	[,, Lactuca sativa var. capitata, ]
+MTD	sample[33]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[34]	Sample 34
+MTD	sample[34]-species[1]	[,, Lactuca sativa var. capitata, ]
+MTD	sample[34]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[35]	Sample 35
+MTD	sample[35]-species[1]	[,, Lactuca sativa var. capitata, ]
+MTD	sample[35]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[36]	Sample 36
+MTD	sample[36]-species[1]	[,, Lactuca sativa var. capitata, ]
+MTD	sample[36]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[37]	Sample 37
+MTD	sample[37]-species[1]	[,, Lactuca sativa var. capitata, ]
+MTD	sample[37]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[38]	Sample 38
+MTD	sample[38]-species[1]	[,, Lactuca sativa var. capitata, ]
+MTD	sample[38]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[39]	Sample 39
+MTD	sample[39]-species[1]	[,, Lactuca sativa var. capitata, ]
+MTD	sample[39]-tissue[1]	[,, leaf; stem base, ]
+MTD	sample[40]	Sample 40
+MTD	sample[40]-species[1]	[,, Lactuca sativa var. crispa, ]
+MTD	sample[40]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[41]	Sample 41
+MTD	sample[41]-species[1]	[,, Lactuca sativa var. crispa, ]
+MTD	sample[41]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[42]	Sample 42
+MTD	sample[42]-species[1]	[,, Lactuca sativa var. crispa, ]
+MTD	sample[42]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[43]	Sample 43
+MTD	sample[43]-species[1]	[,, Stevia rebaudiana, ]
+MTD	sample[43]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[44]	Sample 44
+MTD	sample[44]-species[1]	[,, Basella alba, ]
+MTD	sample[44]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[45]	Sample 45
+MTD	sample[45]-species[1]	[,, Brassica napus, ]
+MTD	sample[45]-tissue[1]	[,, seed, ]
+MTD	sample[46]	Sample 46
+MTD	sample[46]-species[1]	[,, Brassica napus, ]
+MTD	sample[46]-tissue[1]	[,, seed, ]
+MTD	sample[47]	Sample 47
+MTD	sample[47]-species[1]	[,, Brassica napus, ]
+MTD	sample[47]-tissue[1]	[,, seed, ]
+MTD	sample[48]	Sample 48
+MTD	sample[48]-species[1]	[,, Eutrema japonicum, ]
+MTD	sample[48]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[49]	Sample 49
+MTD	sample[49]-species[1]	[,, Eutrema japonicum, ]
+MTD	sample[49]-tissue[1]	[,, rhizome, ]
+MTD	sample[50]	Sample 50
+MTD	sample[50]-species[1]	[,, Ananas comosus, ]
+MTD	sample[50]-tissue[1]	[,, fruit storage parenchyma (fruit flesh), ]
+MTD	sample[51]	Sample 51
+MTD	sample[51]-species[1]	[,, Ananas comosus, ]
+MTD	sample[51]-tissue[1]	[,, pericarp, ]
+MTD	sample[52]	Sample 52
+MTD	sample[52]-species[1]	[,, Ananas comosus, ]
+MTD	sample[52]-tissue[1]	[,, vegetative shoot apex; leaf, ]
+MTD	sample[53]	Sample 53
+MTD	sample[53]-species[1]	[,, Valerianella locusta, ]
+MTD	sample[53]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[54]	Sample 54
+MTD	sample[54]-species[1]	[,, Benincasa hispida, ]
+MTD	sample[54]-tissue[1]	[,, fruit storage parenchyma (fruit flesh), ]
+MTD	sample[55]	Sample 55
+MTD	sample[55]-species[1]	[,, Benincasa hispida, ]
+MTD	sample[55]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[56]	Sample 56
+MTD	sample[56]-species[1]	[,, Benincasa hispida, ]
+MTD	sample[56]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[57]	Sample 57
+MTD	sample[57]-species[1]	[,, Benincasa hispida, ]
+MTD	sample[57]-tissue[1]	[,, pericarp, ]
+MTD	sample[58]	Sample 58
+MTD	sample[58]-species[1]	[,, Citrullus lanatus subsp. Vulgaris, ]
+MTD	sample[58]-tissue[1]	[,, fruit storage parenchyma (fruit flesh), ]
+MTD	sample[59]	Sample 59
+MTD	sample[59]-species[1]	[,, Citrullus lanatus subsp. Vulgaris, ]
+MTD	sample[59]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[60]	Sample 60
+MTD	sample[60]-species[1]	[,, Citrullus lanatus subsp. Vulgaris, ]
+MTD	sample[60]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[61]	Sample 61
+MTD	sample[61]-species[1]	[,, Citrullus lanatus subsp. Vulgaris, ]
+MTD	sample[61]-tissue[1]	[,, pericarp, ]
+MTD	sample[62]	Sample 62
+MTD	sample[62]-species[1]	[,, Cucumis melo, ]
+MTD	sample[62]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[63]	Sample 63
+MTD	sample[63]-species[1]	[,, Cucumis melo, ]
+MTD	sample[63]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[64]	Sample 64
+MTD	sample[64]-species[1]	[,, Cucumis melo var. cantalupo, ]
+MTD	sample[64]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[65]	Sample 65
+MTD	sample[65]-species[1]	[,, Cucumis melo var. cantalupo, ]
+MTD	sample[65]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[66]	Sample 66
+MTD	sample[66]-species[1]	[,, Cucumis melo var. makuwa, ]
+MTD	sample[66]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[67]	Sample 67
+MTD	sample[67]-species[1]	[,, Cucumis sativus, ]
+MTD	sample[67]-tissue[1]	[,, fruit storage parenchyma (fruit flesh), ]
+MTD	sample[68]	Sample 68
+MTD	sample[68]-species[1]	[,, Cucumis sativus, ]
+MTD	sample[68]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[69]	Sample 69
+MTD	sample[69]-species[1]	[,, Cucumis sativus, ]
+MTD	sample[69]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[70]	Sample 70
+MTD	sample[70]-species[1]	[,, Cucumis sativus, ]
+MTD	sample[70]-tissue[1]	[,, pericarp, ]
+MTD	sample[71]	Sample 71
+MTD	sample[71]-species[1]	[,, Cucurbita maxima, ]
+MTD	sample[71]-tissue[1]	[,, fruit storage parenchyma (fruit flesh), ]
+MTD	sample[72]	Sample 72
+MTD	sample[72]-species[1]	[,, Cucurbita maxima, ]
+MTD	sample[72]-tissue[1]	[,, fruit storage parenchyma (fruit flesh), ]
+MTD	sample[73]	Sample 73
+MTD	sample[73]-species[1]	[,, Cucurbita maxima, ]
+MTD	sample[73]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[74]	Sample 74
+MTD	sample[74]-species[1]	[,, Cucurbita maxima, ]
+MTD	sample[74]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[75]	Sample 75
+MTD	sample[75]-species[1]	[,, Cucurbita maxima, ]
+MTD	sample[75]-tissue[1]	[,, pericarp, ]
+MTD	sample[76]	Sample 76
+MTD	sample[76]-species[1]	[,, Cucurbita maxima, ]
+MTD	sample[76]-tissue[1]	[,, seed, ]
+MTD	sample[77]	Sample 77
+MTD	sample[77]-species[1]	[,, Cucurbita pepo var. melopepo, ]
+MTD	sample[77]-tissue[1]	[,, fruit storage parenchyma (fruit flesh), ]
+MTD	sample[78]	Sample 78
+MTD	sample[78]-species[1]	[,, Cucurbita pepo var. melopepo, ]
+MTD	sample[78]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[79]	Sample 79
+MTD	sample[79]-species[1]	[,, Cucurbita pepo var. melopepo, ]
+MTD	sample[79]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[80]	Sample 80
+MTD	sample[80]-species[1]	[,, Cucurbita pepo var. melopepo, ]
+MTD	sample[80]-tissue[1]	[,, pericarp, ]
+MTD	sample[81]	Sample 81
+MTD	sample[81]-species[1]	[,, Lagenaria siceraria, ]
+MTD	sample[81]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[82]	Sample 82
+MTD	sample[82]-species[1]	[,, Luffa aegyptiaca, ]
+MTD	sample[82]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[83]	Sample 83
+MTD	sample[83]-species[1]	[,, Momordica charantia var. pavel, ]
+MTD	sample[83]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[84]	Sample 84
+MTD	sample[84]-species[1]	[,, Momordica charantia var. pavel, ]
+MTD	sample[84]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[85]	Sample 85
+MTD	sample[85]-species[1]	[,, Diospyros kaki, ]
+MTD	sample[85]-tissue[1]	[,, fruit storage parenchyma (fruit flesh), ]
+MTD	sample[86]	Sample 86
+MTD	sample[86]-species[1]	[,, Diospyros kaki, ]
+MTD	sample[86]-tissue[1]	[,, pericarp, ]
+MTD	sample[87]	Sample 87
+MTD	sample[87]-species[1]	[,, Ricinus communis, ]
+MTD	sample[87]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[88]	Sample 88
+MTD	sample[88]-species[1]	[,, Arachis hypogaea, ]
+MTD	sample[88]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[89]	Sample 89
+MTD	sample[89]-species[1]	[,, Glycine max, ]
+MTD	sample[89]-tissue[1]	[,, seed, ]
+MTD	sample[90]	Sample 90
+MTD	sample[90]-species[1]	[,, Glycine max, ]
+MTD	sample[90]-tissue[1]	[,, seed, ]
+MTD	sample[91]	Sample 91
+MTD	sample[91]-species[1]	[,, Glycine max, ]
+MTD	sample[91]-tissue[1]	[,, seed, ]
+MTD	sample[92]	Sample 92
+MTD	sample[92]-species[1]	[,, Glycine max, ]
+MTD	sample[92]-tissue[1]	[,, seed, ]
+MTD	sample[93]	Sample 93
+MTD	sample[93]-species[1]	[,, Glycine max, ]
+MTD	sample[93]-tissue[1]	[,, seed, ]
+MTD	sample[94]	Sample 94
+MTD	sample[94]-species[1]	[,, Glycine max, ]
+MTD	sample[94]-tissue[1]	[,, seed, ]
+MTD	sample[95]	Sample 95
+MTD	sample[95]-species[1]	[,, Glycine max, ]
+MTD	sample[95]-tissue[1]	[,, seed, ]
+MTD	sample[96]	Sample 96
+MTD	sample[96]-species[1]	[,, Glycine max, ]
+MTD	sample[96]-tissue[1]	[,, seed, ]
+MTD	sample[97]	Sample 97
+MTD	sample[97]-species[1]	[,, Glycine soja, ]
+MTD	sample[97]-tissue[1]	[,, seed, ]
+MTD	sample[98]	Sample 98
+MTD	sample[98]-species[1]	[,, Vigna angularis, ]
+MTD	sample[98]-tissue[1]	[,, seed, ]
+MTD	sample[99]	Sample 99
+MTD	sample[99]-species[1]	[,, Vigna angularis, ]
+MTD	sample[99]-tissue[1]	[,, seed, ]
+MTD	sample[100]	Sample 100
+MTD	sample[100]-species[1]	[,, Laurus nobilis, ]
+MTD	sample[100]-tissue[1]	[,, leaf, ]
+MTD	sample[101]	Sample 101
+MTD	sample[101]-species[1]	[,, Lindera praecox, ]
+MTD	sample[101]-tissue[1]	[,, fruit, ]
+MTD	sample[102]	Sample 102
+MTD	sample[102]-species[1]	[,, Lindera praecox, ]
+MTD	sample[102]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[103]	Sample 103
+MTD	sample[103]-species[1]	[,, Persea americana, ]
+MTD	sample[103]-tissue[1]	[,, fruit storage parenchyma (fruit flesh), ]
+MTD	sample[104]	Sample 104
+MTD	sample[104]-species[1]	[,, Persea americana, ]
+MTD	sample[104]-tissue[1]	[,, pericarp, ]
+MTD	sample[105]	Sample 105
+MTD	sample[105]-species[1]	[,, Persea americana, ]
+MTD	sample[105]-tissue[1]	[,, seed, ]
+MTD	sample[106]	Sample 106
+MTD	sample[106]-species[1]	[,, Corchorus olitorius, ]
+MTD	sample[106]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[107]	Sample 107
+MTD	sample[107]-species[1]	[,, Musa x paradisiaca, ]
+MTD	sample[107]-tissue[1]	[,, fruit storage parenchyma (fruit flesh), ]
+MTD	sample[108]	Sample 108
+MTD	sample[108]-species[1]	[,, Musa x paradisiaca, ]
+MTD	sample[108]-tissue[1]	[,, pericarp, ]
+MTD	sample[109]	Sample 109
+MTD	sample[109]-species[1]	[,, Sesamum indicum, ]
+MTD	sample[109]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[110]	Sample 110
+MTD	sample[110]-species[1]	[,, Sesamum indicum, ]
+MTD	sample[110]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[111]	Sample 111
+MTD	sample[111]-species[1]	[,, Sesamum indicum, ]
+MTD	sample[111]-tissue[1]	[,, seed, ]
+MTD	sample[112]	Sample 112
+MTD	sample[112]-species[1]	[,, Sesamum indicum, ]
+MTD	sample[112]-tissue[1]	[,, seed, ]
+MTD	sample[113]	Sample 113
+MTD	sample[113]-species[1]	[,, Brachypodium distachyon, ]
+MTD	sample[113]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[114]	Sample 114
+MTD	sample[114]-species[1]	[,, Hordeum vulgare, ]
+MTD	sample[114]-tissue[1]	[,, seed, ]
+MTD	sample[115]	Sample 115
+MTD	sample[115]-species[1]	[,, Oryza glumaepatula, ]
+MTD	sample[115]-tissue[1]	[,, caryopsis, ]
+MTD	sample[116]	Sample 116
+MTD	sample[116]-species[1]	[,, Oryza rufipogon, ]
+MTD	sample[116]-tissue[1]	[,, caryopsis, ]
+MTD	sample[117]	Sample 117
+MTD	sample[117]-species[1]	[,, Oryza sativa, ]
+MTD	sample[117]-tissue[1]	[,, caryopsis, ]
+MTD	sample[118]	Sample 118
+MTD	sample[118]-species[1]	[,, Oryza sativa, ]
+MTD	sample[118]-tissue[1]	[,, caryopsis, ]
+MTD	sample[119]	Sample 119
+MTD	sample[119]-species[1]	[,, Oryza sativa, ]
+MTD	sample[119]-tissue[1]	[,, caryopsis, ]
+MTD	sample[120]	Sample 120
+MTD	sample[120]-species[1]	[,, Oryza sativa, ]
+MTD	sample[120]-tissue[1]	[,, caryopsis, ]
+MTD	sample[121]	Sample 121
+MTD	sample[121]-species[1]	[,, Oryza sativa, ]
+MTD	sample[121]-tissue[1]	[,, caryopsis, ]
+MTD	sample[122]	Sample 122
+MTD	sample[122]-species[1]	[,, Oryza sativa, ]
+MTD	sample[122]-tissue[1]	[,, caryopsis, ]
+MTD	sample[123]	Sample 123
+MTD	sample[123]-species[1]	[,, Oryza sativa, ]
+MTD	sample[123]-tissue[1]	[,, caryopsis, ]
+MTD	sample[124]	Sample 124
+MTD	sample[124]-species[1]	[,, Oryza sativa, ]
+MTD	sample[124]-tissue[1]	[,, caryopsis, ]
+MTD	sample[125]	Sample 125
+MTD	sample[125]-species[1]	[,, Oryza sativa, ]
+MTD	sample[125]-tissue[1]	[,, caryopsis, ]
+MTD	sample[126]	Sample 126
+MTD	sample[126]-species[1]	[,, Oryza sativa, ]
+MTD	sample[126]-tissue[1]	[,, caryopsis, ]
+MTD	sample[127]	Sample 127
+MTD	sample[127]-species[1]	[,, Oryza sativa, ]
+MTD	sample[127]-tissue[1]	[,, caryopsis, ]
+MTD	sample[128]	Sample 128
+MTD	sample[128]-species[1]	[,, Oryza sativa, ]
+MTD	sample[128]-tissue[1]	[,, caryopsis, ]
+MTD	sample[129]	Sample 129
+MTD	sample[129]-species[1]	[,, Oryza sativa, ]
+MTD	sample[129]-tissue[1]	[,, endosperm, ]
+MTD	sample[130]	Sample 130
+MTD	sample[130]-species[1]	[,, Oryza sativa, ]
+MTD	sample[130]-tissue[1]	[,, plant embryo; pericarp, ]
+MTD	sample[131]	Sample 131
+MTD	sample[131]-species[1]	[,, Triticum aestivum, ]
+MTD	sample[131]-tissue[1]	[,, endosperm, ]
+MTD	sample[132]	Sample 132
+MTD	sample[132]-species[1]	[,, Triticum aestivum, ]
+MTD	sample[132]-tissue[1]	[,, endosperm, ]
+MTD	sample[133]	Sample 133
+MTD	sample[133]-species[1]	[,, Zea mays, ]
+MTD	sample[133]-tissue[1]	[,, bract, ]
+MTD	sample[134]	Sample 134
+MTD	sample[134]-species[1]	[,, Zea mays, ]
+MTD	sample[134]-tissue[1]	[,, ear infructescence axis, ]
+MTD	sample[135]	Sample 135
+MTD	sample[135]-species[1]	[,, Zea mays, ]
+MTD	sample[135]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[136]	Sample 136
+MTD	sample[136]-species[1]	[,, Zea mays, ]
+MTD	sample[136]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[137]	Sample 137
+MTD	sample[137]-species[1]	[,, Zea mays, ]
+MTD	sample[137]-tissue[1]	[,, seed, ]
+MTD	sample[138]	Sample 138
+MTD	sample[138]-species[1]	[,, Zea mays, ]
+MTD	sample[138]-tissue[1]	[,, seed, ]
+MTD	sample[139]	Sample 139
+MTD	sample[139]-species[1]	[,, Fagopyrum esculentum, ]
+MTD	sample[139]-tissue[1]	[,, seed, ]
+MTD	sample[140]	Sample 140
+MTD	sample[140]-species[1]	[,, Fagopyrum esculentum, ]
+MTD	sample[140]-tissue[1]	[,, seed, ]
+MTD	sample[141]	Sample 141
+MTD	sample[141]-species[1]	[,, Fragaria x ananassa, ]
+MTD	sample[141]-tissue[1]	[,, calyx, ]
+MTD	sample[142]	Sample 142
+MTD	sample[142]-species[1]	[,, Fragaria x ananassa, ]
+MTD	sample[142]-tissue[1]	[,, fruit, ]
+MTD	sample[143]	Sample 143
+MTD	sample[143]-species[1]	[,, Malus domestica, ]
+MTD	sample[143]-tissue[1]	[,, fruit storage parenchyma (fruit flesh), ]
+MTD	sample[144]	Sample 144
+MTD	sample[144]-species[1]	[,, Malus domestica, ]
+MTD	sample[144]-tissue[1]	[,, pericarp, ]
+MTD	sample[145]	Sample 145
+MTD	sample[145]-species[1]	[,, Prunus armeniaca, ]
+MTD	sample[145]-tissue[1]	[,, fruit, ]
+MTD	sample[146]	Sample 146
+MTD	sample[146]-species[1]	[,, Prunus mume, ]
+MTD	sample[146]-tissue[1]	[,, fruit, ]
+MTD	sample[147]	Sample 147
+MTD	sample[147]-species[1]	[,, Pyrus communis, ]
+MTD	sample[147]-tissue[1]	[,, fruit storage parenchyma (fruit flesh), ]
+MTD	sample[148]	Sample 148
+MTD	sample[148]-species[1]	[,, Citrus sphaerocarpa, ]
+MTD	sample[148]-tissue[1]	[,, fruit storage parenchyma (fruit flesh); septum, ]
+MTD	sample[149]	Sample 149
+MTD	sample[149]-species[1]	[,, Citrus sphaerocarpa, ]
+MTD	sample[149]-tissue[1]	[,, pericarp, ]
+MTD	sample[150]	Sample 150
+MTD	sample[150]-species[1]	[,, Houttuynia cordata, ]
+MTD	sample[150]-tissue[1]	[,, shoot system, ]
+MTD	sample[151]	Sample 151
+MTD	sample[151]-species[1]	[,, Solanum tuberosum, ]
+MTD	sample[151]-tissue[1]	[,, subterranean tuber epidermis, ]
+MTD	sample[152]	Sample 152
+MTD	sample[152]-species[1]	[,, Solanum tuberosum, ]
+MTD	sample[152]-tissue[1]	[,, tuber, ]
+MTD	sample[153]	Sample 153
+MTD	sample[153]-species[1]	[,, Zingiber mioga, ]
+MTD	sample[153]-tissue[1]	[,, spike inflorescence, ]
+MTD	sample[154]	Sample 154
+MTD	sample[154]-species[1]	[,, Zingiber officinale, ]
+MTD	sample[154]-tissue[1]	[,, leaf; stem, ]
+MTD	sample[155]	Sample 155
+MTD	sample[155]-species[1]	[,, Zingiber officinale, ]
+MTD	sample[155]-tissue[1]	[,, rhizome, ]
+MTD	sample[156]	Blank 1
+MTD	sample[157]	Blank 2
+MTD	sample[158]	Blank 3
+MTD	sample[159]	Blank 4
+MTD	sample[160]	Blank 5
+MTD	sample[161]	Blank 6
+MTD	sample[162]	Blank 7
+MTD	sample[163]	Blank 8
+MTD	sample[164]	Blank 9
+MTD	sample[165]	Blank 10
+MTD	ms_run[1]-location	null
+MTD	ms_run[1]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[1]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[2]-location	null
+MTD	ms_run[2]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[2]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[3]-location	null
+MTD	ms_run[3]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[3]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[4]-location	null
+MTD	ms_run[4]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[4]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[5]-location	null
+MTD	ms_run[5]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[5]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[6]-location	null
+MTD	ms_run[6]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[6]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[7]-location	null
+MTD	ms_run[7]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[7]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[8]-location	null
+MTD	ms_run[8]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[8]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[9]-location	null
+MTD	ms_run[9]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[9]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[10]-location	null
+MTD	ms_run[10]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[10]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[11]-location	null
+MTD	ms_run[11]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[11]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[12]-location	null
+MTD	ms_run[12]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[12]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[13]-location	null
+MTD	ms_run[13]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[13]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[14]-location	null
+MTD	ms_run[14]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[14]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[15]-location	null
+MTD	ms_run[15]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[15]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[16]-location	null
+MTD	ms_run[16]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[16]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[17]-location	null
+MTD	ms_run[17]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[17]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[18]-location	null
+MTD	ms_run[18]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[18]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[19]-location	null
+MTD	ms_run[19]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[19]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[20]-location	null
+MTD	ms_run[20]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[20]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[21]-location	null
+MTD	ms_run[21]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[21]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[22]-location	null
+MTD	ms_run[22]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[22]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[23]-location	null
+MTD	ms_run[23]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[23]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[24]-location	null
+MTD	ms_run[24]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[24]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[25]-location	null
+MTD	ms_run[25]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[25]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[26]-location	null
+MTD	ms_run[26]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[26]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[27]-location	null
+MTD	ms_run[27]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[27]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[28]-location	null
+MTD	ms_run[28]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[28]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[29]-location	null
+MTD	ms_run[29]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[29]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[30]-location	null
+MTD	ms_run[30]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[30]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[31]-location	null
+MTD	ms_run[31]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[31]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[32]-location	null
+MTD	ms_run[32]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[32]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[33]-location	null
+MTD	ms_run[33]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[33]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[34]-location	null
+MTD	ms_run[34]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[34]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[35]-location	null
+MTD	ms_run[35]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[35]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[36]-location	null
+MTD	ms_run[36]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[36]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[37]-location	null
+MTD	ms_run[37]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[37]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[38]-location	null
+MTD	ms_run[38]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[38]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[39]-location	null
+MTD	ms_run[39]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[39]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[40]-location	null
+MTD	ms_run[40]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[40]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[41]-location	null
+MTD	ms_run[41]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[41]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[42]-location	null
+MTD	ms_run[42]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[42]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[43]-location	null
+MTD	ms_run[43]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[43]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[44]-location	null
+MTD	ms_run[44]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[44]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[45]-location	null
+MTD	ms_run[45]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[45]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[46]-location	null
+MTD	ms_run[46]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[46]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[47]-location	null
+MTD	ms_run[47]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[47]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[48]-location	null
+MTD	ms_run[48]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[48]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[49]-location	null
+MTD	ms_run[49]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[49]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[50]-location	null
+MTD	ms_run[50]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[50]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[51]-location	null
+MTD	ms_run[51]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[51]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[52]-location	null
+MTD	ms_run[52]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[52]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[53]-location	null
+MTD	ms_run[53]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[53]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[54]-location	null
+MTD	ms_run[54]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[54]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[55]-location	null
+MTD	ms_run[55]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[55]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[56]-location	null
+MTD	ms_run[56]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[56]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[57]-location	null
+MTD	ms_run[57]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[57]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[58]-location	null
+MTD	ms_run[58]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[58]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[59]-location	null
+MTD	ms_run[59]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[59]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[60]-location	null
+MTD	ms_run[60]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[60]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[61]-location	null
+MTD	ms_run[61]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[61]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[62]-location	null
+MTD	ms_run[62]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[62]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[63]-location	null
+MTD	ms_run[63]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[63]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[64]-location	null
+MTD	ms_run[64]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[64]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[65]-location	null
+MTD	ms_run[65]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[65]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[66]-location	null
+MTD	ms_run[66]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[66]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[67]-location	null
+MTD	ms_run[67]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[67]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[68]-location	null
+MTD	ms_run[68]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[68]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[69]-location	null
+MTD	ms_run[69]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[69]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[70]-location	null
+MTD	ms_run[70]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[70]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[71]-location	null
+MTD	ms_run[71]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[71]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[72]-location	null
+MTD	ms_run[72]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[72]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[73]-location	null
+MTD	ms_run[73]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[73]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[74]-location	null
+MTD	ms_run[74]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[74]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[75]-location	null
+MTD	ms_run[75]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[75]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[76]-location	null
+MTD	ms_run[76]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[76]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[77]-location	null
+MTD	ms_run[77]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[77]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[78]-location	null
+MTD	ms_run[78]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[78]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[79]-location	null
+MTD	ms_run[79]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[79]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[80]-location	null
+MTD	ms_run[80]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[80]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[81]-location	null
+MTD	ms_run[81]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[81]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[82]-location	null
+MTD	ms_run[82]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[82]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[83]-location	null
+MTD	ms_run[83]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[83]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[84]-location	null
+MTD	ms_run[84]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[84]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[85]-location	null
+MTD	ms_run[85]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[85]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[86]-location	null
+MTD	ms_run[86]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[86]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[87]-location	null
+MTD	ms_run[87]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[87]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[88]-location	null
+MTD	ms_run[88]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[88]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[89]-location	null
+MTD	ms_run[89]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[89]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[90]-location	null
+MTD	ms_run[90]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[90]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[91]-location	null
+MTD	ms_run[91]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[91]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[92]-location	null
+MTD	ms_run[92]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[92]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[93]-location	null
+MTD	ms_run[93]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[93]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[94]-location	null
+MTD	ms_run[94]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[94]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[95]-location	null
+MTD	ms_run[95]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[95]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[96]-location	null
+MTD	ms_run[96]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[96]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[97]-location	null
+MTD	ms_run[97]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[97]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[98]-location	null
+MTD	ms_run[98]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[98]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[99]-location	null
+MTD	ms_run[99]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[99]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[100]-location	null
+MTD	ms_run[100]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[100]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[101]-location	null
+MTD	ms_run[101]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[101]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[102]-location	null
+MTD	ms_run[102]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[102]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[103]-location	null
+MTD	ms_run[103]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[103]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[104]-location	null
+MTD	ms_run[104]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[104]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[105]-location	null
+MTD	ms_run[105]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[105]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[106]-location	null
+MTD	ms_run[106]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[106]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[107]-location	null
+MTD	ms_run[107]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[107]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[108]-location	null
+MTD	ms_run[108]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[108]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[109]-location	null
+MTD	ms_run[109]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[109]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[110]-location	null
+MTD	ms_run[110]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[110]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[111]-location	null
+MTD	ms_run[111]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[111]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[112]-location	null
+MTD	ms_run[112]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[112]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[113]-location	null
+MTD	ms_run[113]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[113]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[114]-location	null
+MTD	ms_run[114]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[114]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[115]-location	null
+MTD	ms_run[115]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[115]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[116]-location	null
+MTD	ms_run[116]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[116]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[117]-location	null
+MTD	ms_run[117]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[117]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[118]-location	null
+MTD	ms_run[118]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[118]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[119]-location	null
+MTD	ms_run[119]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[119]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[120]-location	null
+MTD	ms_run[120]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[120]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[121]-location	null
+MTD	ms_run[121]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[121]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[122]-location	null
+MTD	ms_run[122]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[122]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[123]-location	null
+MTD	ms_run[123]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[123]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[124]-location	null
+MTD	ms_run[124]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[124]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[125]-location	null
+MTD	ms_run[125]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[125]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[126]-location	null
+MTD	ms_run[126]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[126]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[127]-location	null
+MTD	ms_run[127]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[127]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[128]-location	null
+MTD	ms_run[128]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[128]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[129]-location	null
+MTD	ms_run[129]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[129]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[130]-location	null
+MTD	ms_run[130]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[130]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[131]-location	null
+MTD	ms_run[131]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[131]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[132]-location	null
+MTD	ms_run[132]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[132]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[133]-location	null
+MTD	ms_run[133]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[133]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[134]-location	null
+MTD	ms_run[134]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[134]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[135]-location	null
+MTD	ms_run[135]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[135]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[136]-location	null
+MTD	ms_run[136]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[136]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[137]-location	null
+MTD	ms_run[137]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[137]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[138]-location	null
+MTD	ms_run[138]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[138]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[139]-location	null
+MTD	ms_run[139]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[139]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[140]-location	null
+MTD	ms_run[140]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[140]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[141]-location	null
+MTD	ms_run[141]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[141]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[142]-location	null
+MTD	ms_run[142]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[142]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[143]-location	null
+MTD	ms_run[143]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[143]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[144]-location	null
+MTD	ms_run[144]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[144]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[145]-location	null
+MTD	ms_run[145]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[145]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[146]-location	null
+MTD	ms_run[146]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[146]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[147]-location	null
+MTD	ms_run[147]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[147]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[148]-location	null
+MTD	ms_run[148]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[148]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[149]-location	null
+MTD	ms_run[149]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[149]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[150]-location	null
+MTD	ms_run[150]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[150]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[151]-location	null
+MTD	ms_run[151]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[151]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[152]-location	null
+MTD	ms_run[152]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[152]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[153]-location	null
+MTD	ms_run[153]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[153]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[154]-location	null
+MTD	ms_run[154]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[154]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[155]-location	null
+MTD	ms_run[155]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[155]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[156]-location	null
+MTD	ms_run[156]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[156]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[157]-location	null
+MTD	ms_run[157]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[157]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[158]-location	null
+MTD	ms_run[158]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[158]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[159]-location	null
+MTD	ms_run[159]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[159]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[160]-location	null
+MTD	ms_run[160]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[160]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[161]-location	null
+MTD	ms_run[161]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[161]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[162]-location	null
+MTD	ms_run[162]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[162]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[163]-location	null
+MTD	ms_run[163]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[163]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[164]-location	null
+MTD	ms_run[164]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[164]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[165]-location	null
+MTD	ms_run[165]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[165]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[166]-location	null
+MTD	ms_run[166]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[166]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[167]-location	null
+MTD	ms_run[167]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[167]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[168]-location	null
+MTD	ms_run[168]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[168]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[169]-location	null
+MTD	ms_run[169]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[169]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[170]-location	null
+MTD	ms_run[170]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[170]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[171]-location	null
+MTD	ms_run[171]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[171]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[172]-location	null
+MTD	ms_run[172]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[172]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[173]-location	null
+MTD	ms_run[173]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[173]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[174]-location	null
+MTD	ms_run[174]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[174]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[175]-location	null
+MTD	ms_run[175]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[175]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[176]-location	null
+MTD	ms_run[176]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[176]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[177]-location	null
+MTD	ms_run[177]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[177]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[178]-location	null
+MTD	ms_run[178]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[178]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[179]-location	null
+MTD	ms_run[179]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[179]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[180]-location	null
+MTD	ms_run[180]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[180]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[181]-location	null
+MTD	ms_run[181]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[181]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[182]-location	null
+MTD	ms_run[182]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[182]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[183]-location	null
+MTD	ms_run[183]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[183]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[184]-location	null
+MTD	ms_run[184]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[184]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[185]-location	null
+MTD	ms_run[185]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[185]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[186]-location	null
+MTD	ms_run[186]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[186]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[187]-location	null
+MTD	ms_run[187]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[187]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[188]-location	null
+MTD	ms_run[188]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[188]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[189]-location	null
+MTD	ms_run[189]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[189]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[190]-location	null
+MTD	ms_run[190]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[190]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[191]-location	null
+MTD	ms_run[191]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[191]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[192]-location	null
+MTD	ms_run[192]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[192]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[193]-location	null
+MTD	ms_run[193]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[193]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[194]-location	null
+MTD	ms_run[194]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[194]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[195]-location	null
+MTD	ms_run[195]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[195]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[196]-location	null
+MTD	ms_run[196]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[196]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[197]-location	null
+MTD	ms_run[197]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[197]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[198]-location	null
+MTD	ms_run[198]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[198]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[199]-location	null
+MTD	ms_run[199]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[199]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[200]-location	null
+MTD	ms_run[200]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[200]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[201]-location	null
+MTD	ms_run[201]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[201]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[202]-location	null
+MTD	ms_run[202]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[202]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[203]-location	null
+MTD	ms_run[203]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[203]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[204]-location	null
+MTD	ms_run[204]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[204]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[205]-location	null
+MTD	ms_run[205]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[205]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[206]-location	null
+MTD	ms_run[206]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[206]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[207]-location	null
+MTD	ms_run[207]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[207]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[208]-location	null
+MTD	ms_run[208]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[208]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[209]-location	null
+MTD	ms_run[209]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[209]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[210]-location	null
+MTD	ms_run[210]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[210]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[211]-location	null
+MTD	ms_run[211]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[211]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[212]-location	null
+MTD	ms_run[212]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[212]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[213]-location	null
+MTD	ms_run[213]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[213]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[214]-location	null
+MTD	ms_run[214]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[214]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[215]-location	null
+MTD	ms_run[215]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[215]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[216]-location	null
+MTD	ms_run[216]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[216]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[217]-location	null
+MTD	ms_run[217]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[217]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[218]-location	null
+MTD	ms_run[218]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[218]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[219]-location	null
+MTD	ms_run[219]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[219]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[220]-location	null
+MTD	ms_run[220]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[220]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[221]-location	null
+MTD	ms_run[221]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[221]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[222]-location	null
+MTD	ms_run[222]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[222]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[223]-location	null
+MTD	ms_run[223]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[223]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[224]-location	null
+MTD	ms_run[224]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[224]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[225]-location	null
+MTD	ms_run[225]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[225]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[226]-location	null
+MTD	ms_run[226]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[226]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[227]-location	null
+MTD	ms_run[227]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[227]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[228]-location	null
+MTD	ms_run[228]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[228]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[229]-location	null
+MTD	ms_run[229]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[229]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[230]-location	null
+MTD	ms_run[230]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[230]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[231]-location	null
+MTD	ms_run[231]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[231]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[232]-location	null
+MTD	ms_run[232]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[232]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[233]-location	null
+MTD	ms_run[233]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[233]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[234]-location	null
+MTD	ms_run[234]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[234]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[235]-location	null
+MTD	ms_run[235]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[235]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[236]-location	null
+MTD	ms_run[236]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[236]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[237]-location	null
+MTD	ms_run[237]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[237]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[238]-location	null
+MTD	ms_run[238]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[238]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[239]-location	null
+MTD	ms_run[239]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[239]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[240]-location	null
+MTD	ms_run[240]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[240]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[241]-location	null
+MTD	ms_run[241]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[241]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[242]-location	null
+MTD	ms_run[242]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[242]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[243]-location	null
+MTD	ms_run[243]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[243]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[244]-location	null
+MTD	ms_run[244]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[244]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[245]-location	null
+MTD	ms_run[245]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[245]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[246]-location	null
+MTD	ms_run[246]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[246]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[247]-location	null
+MTD	ms_run[247]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[247]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[248]-location	null
+MTD	ms_run[248]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[248]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[249]-location	null
+MTD	ms_run[249]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[249]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[250]-location	null
+MTD	ms_run[250]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[250]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[251]-location	null
+MTD	ms_run[251]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[251]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[252]-location	null
+MTD	ms_run[252]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[252]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[253]-location	null
+MTD	ms_run[253]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[253]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[254]-location	null
+MTD	ms_run[254]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[254]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[255]-location	null
+MTD	ms_run[255]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[255]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[256]-location	null
+MTD	ms_run[256]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[256]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[257]-location	null
+MTD	ms_run[257]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[257]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[258]-location	null
+MTD	ms_run[258]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[258]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[259]-location	null
+MTD	ms_run[259]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[259]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[260]-location	null
+MTD	ms_run[260]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[260]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[261]-location	null
+MTD	ms_run[261]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[261]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[262]-location	null
+MTD	ms_run[262]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[262]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[263]-location	null
+MTD	ms_run[263]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[263]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[264]-location	null
+MTD	ms_run[264]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[264]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[265]-location	null
+MTD	ms_run[265]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[265]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[266]-location	null
+MTD	ms_run[266]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[266]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[267]-location	null
+MTD	ms_run[267]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[267]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[268]-location	null
+MTD	ms_run[268]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[268]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[269]-location	null
+MTD	ms_run[269]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[269]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[270]-location	null
+MTD	ms_run[270]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[270]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[271]-location	null
+MTD	ms_run[271]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[271]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[272]-location	null
+MTD	ms_run[272]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[272]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[273]-location	null
+MTD	ms_run[273]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[273]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[274]-location	null
+MTD	ms_run[274]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[274]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[275]-location	null
+MTD	ms_run[275]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[275]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[276]-location	null
+MTD	ms_run[276]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[276]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[277]-location	null
+MTD	ms_run[277]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[277]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[278]-location	null
+MTD	ms_run[278]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[278]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[279]-location	null
+MTD	ms_run[279]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[279]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[280]-location	null
+MTD	ms_run[280]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[280]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[281]-location	null
+MTD	ms_run[281]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[281]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[282]-location	null
+MTD	ms_run[282]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[282]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[283]-location	null
+MTD	ms_run[283]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[283]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[284]-location	null
+MTD	ms_run[284]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[284]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[285]-location	null
+MTD	ms_run[285]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[285]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[286]-location	null
+MTD	ms_run[286]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[286]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[287]-location	null
+MTD	ms_run[287]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[287]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[288]-location	null
+MTD	ms_run[288]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[288]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[289]-location	null
+MTD	ms_run[289]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[289]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[290]-location	null
+MTD	ms_run[290]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[290]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[291]-location	null
+MTD	ms_run[291]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[291]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[292]-location	null
+MTD	ms_run[292]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[292]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[293]-location	null
+MTD	ms_run[293]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[293]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[294]-location	null
+MTD	ms_run[294]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[294]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[295]-location	null
+MTD	ms_run[295]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[295]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[296]-location	null
+MTD	ms_run[296]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[296]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[297]-location	null
+MTD	ms_run[297]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[297]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[298]-location	null
+MTD	ms_run[298]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[298]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[299]-location	null
+MTD	ms_run[299]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[299]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[300]-location	null
+MTD	ms_run[300]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[300]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[301]-location	null
+MTD	ms_run[301]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[301]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[302]-location	null
+MTD	ms_run[302]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[302]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[303]-location	null
+MTD	ms_run[303]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[303]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[304]-location	null
+MTD	ms_run[304]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[304]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[305]-location	null
+MTD	ms_run[305]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[305]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[306]-location	null
+MTD	ms_run[306]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[306]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[307]-location	null
+MTD	ms_run[307]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[307]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[308]-location	null
+MTD	ms_run[308]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[308]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[309]-location	null
+MTD	ms_run[309]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[309]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[310]-location	null
+MTD	ms_run[310]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[310]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[311]-location	null
+MTD	ms_run[311]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[311]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[312]-location	null
+MTD	ms_run[312]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[312]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[313]-location	null
+MTD	ms_run[313]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[313]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[314]-location	null
+MTD	ms_run[314]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[314]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[315]-location	null
+MTD	ms_run[315]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[315]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[316]-location	null
+MTD	ms_run[316]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[316]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[317]-location	null
+MTD	ms_run[317]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[317]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[318]-location	null
+MTD	ms_run[318]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[318]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[319]-location	null
+MTD	ms_run[319]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[319]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[320]-location	null
+MTD	ms_run[320]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[320]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[321]-location	null
+MTD	ms_run[321]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[321]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[322]-location	null
+MTD	ms_run[322]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[322]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[323]-location	null
+MTD	ms_run[323]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[323]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[324]-location	null
+MTD	ms_run[324]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[324]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[325]-location	null
+MTD	ms_run[325]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[325]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[326]-location	null
+MTD	ms_run[326]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[326]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[327]-location	null
+MTD	ms_run[327]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[327]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[328]-location	null
+MTD	ms_run[328]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[328]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[329]-location	null
+MTD	ms_run[329]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[329]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	ms_run[330]-location	null
+MTD	ms_run[330]-scan_polarity[1]	[MS, MS:1000130, positive scan, ]
+MTD	ms_run[330]-parameter[1]	[,, scan polarity present in sample name, no]
+MTD	assay[1]	Sample 1 (AF)
+MTD	assay[1]-sample_ref	sample[1]
+MTD	assay[1]-ms_run_ref	ms_run[1]
+MTD	assay[2]	Sample 2 (AG)
+MTD	assay[2]-sample_ref	sample[2]
+MTD	assay[2]-ms_run_ref	ms_run[2]
+MTD	assay[3]	Sample 3 (AH)
+MTD	assay[3]-sample_ref	sample[3]
+MTD	assay[3]-ms_run_ref	ms_run[3]
+MTD	assay[4]	Sample 4 (AI)
+MTD	assay[4]-sample_ref	sample[4]
+MTD	assay[4]-ms_run_ref	ms_run[4]
+MTD	assay[5]	Sample 5 (AJ)
+MTD	assay[5]-sample_ref	sample[5]
+MTD	assay[5]-ms_run_ref	ms_run[5]
+MTD	assay[6]	Sample 6 (AK)
+MTD	assay[6]-sample_ref	sample[6]
+MTD	assay[6]-ms_run_ref	ms_run[6]
+MTD	assay[7]	Sample 7 (AL)
+MTD	assay[7]-sample_ref	sample[7]
+MTD	assay[7]-ms_run_ref	ms_run[7]
+MTD	assay[8]	Sample 8 (AM)
+MTD	assay[8]-sample_ref	sample[8]
+MTD	assay[8]-ms_run_ref	ms_run[8]
+MTD	assay[9]	Sample 9 (AN)
+MTD	assay[9]-sample_ref	sample[9]
+MTD	assay[9]-ms_run_ref	ms_run[9]
+MTD	assay[10]	Sample 10 (AO)
+MTD	assay[10]-sample_ref	sample[10]
+MTD	assay[10]-ms_run_ref	ms_run[10]
+MTD	assay[11]	Sample 11 (AP)
+MTD	assay[11]-sample_ref	sample[11]
+MTD	assay[11]-ms_run_ref	ms_run[11]
+MTD	assay[12]	Sample 12 (AQ)
+MTD	assay[12]-sample_ref	sample[12]
+MTD	assay[12]-ms_run_ref	ms_run[12]
+MTD	assay[13]	Sample 13 (AR)
+MTD	assay[13]-sample_ref	sample[13]
+MTD	assay[13]-ms_run_ref	ms_run[13]
+MTD	assay[14]	Sample 14 (AS)
+MTD	assay[14]-sample_ref	sample[14]
+MTD	assay[14]-ms_run_ref	ms_run[14]
+MTD	assay[15]	Sample 15 (AT)
+MTD	assay[15]-sample_ref	sample[15]
+MTD	assay[15]-ms_run_ref	ms_run[15]
+MTD	assay[16]	Sample 16 (AU)
+MTD	assay[16]-sample_ref	sample[16]
+MTD	assay[16]-ms_run_ref	ms_run[16]
+MTD	assay[17]	Sample 17 (AV)
+MTD	assay[17]-sample_ref	sample[17]
+MTD	assay[17]-ms_run_ref	ms_run[17]
+MTD	assay[18]	Sample 18 (AW)
+MTD	assay[18]-sample_ref	sample[18]
+MTD	assay[18]-ms_run_ref	ms_run[18]
+MTD	assay[19]	Sample 19 (AX)
+MTD	assay[19]-sample_ref	sample[19]
+MTD	assay[19]-ms_run_ref	ms_run[19]
+MTD	assay[20]	Sample 20 (AY)
+MTD	assay[20]-sample_ref	sample[20]
+MTD	assay[20]-ms_run_ref	ms_run[20]
+MTD	assay[21]	Sample 21 (AZ)
+MTD	assay[21]-sample_ref	sample[21]
+MTD	assay[21]-ms_run_ref	ms_run[21]
+MTD	assay[22]	Sample 22 (BA)
+MTD	assay[22]-sample_ref	sample[22]
+MTD	assay[22]-ms_run_ref	ms_run[22]
+MTD	assay[23]	Sample 23 (BB)
+MTD	assay[23]-sample_ref	sample[23]
+MTD	assay[23]-ms_run_ref	ms_run[23]
+MTD	assay[24]	Sample 24 (BC)
+MTD	assay[24]-sample_ref	sample[24]
+MTD	assay[24]-ms_run_ref	ms_run[24]
+MTD	assay[25]	Sample 25 (BD)
+MTD	assay[25]-sample_ref	sample[25]
+MTD	assay[25]-ms_run_ref	ms_run[25]
+MTD	assay[26]	Sample 26 (BE)
+MTD	assay[26]-sample_ref	sample[26]
+MTD	assay[26]-ms_run_ref	ms_run[26]
+MTD	assay[27]	Sample 27 (BF)
+MTD	assay[27]-sample_ref	sample[27]
+MTD	assay[27]-ms_run_ref	ms_run[27]
+MTD	assay[28]	Sample 28 (BG)
+MTD	assay[28]-sample_ref	sample[28]
+MTD	assay[28]-ms_run_ref	ms_run[28]
+MTD	assay[29]	Sample 29 (BH)
+MTD	assay[29]-sample_ref	sample[29]
+MTD	assay[29]-ms_run_ref	ms_run[29]
+MTD	assay[30]	Sample 30 (BI)
+MTD	assay[30]-sample_ref	sample[30]
+MTD	assay[30]-ms_run_ref	ms_run[30]
+MTD	assay[31]	Sample 31 (BJ)
+MTD	assay[31]-sample_ref	sample[31]
+MTD	assay[31]-ms_run_ref	ms_run[31]
+MTD	assay[32]	Sample 32 (BK)
+MTD	assay[32]-sample_ref	sample[32]
+MTD	assay[32]-ms_run_ref	ms_run[32]
+MTD	assay[33]	Sample 33 (BL)
+MTD	assay[33]-sample_ref	sample[33]
+MTD	assay[33]-ms_run_ref	ms_run[33]
+MTD	assay[34]	Sample 34 (BM)
+MTD	assay[34]-sample_ref	sample[34]
+MTD	assay[34]-ms_run_ref	ms_run[34]
+MTD	assay[35]	Sample 35 (BN)
+MTD	assay[35]-sample_ref	sample[35]
+MTD	assay[35]-ms_run_ref	ms_run[35]
+MTD	assay[36]	Sample 36 (BO)
+MTD	assay[36]-sample_ref	sample[36]
+MTD	assay[36]-ms_run_ref	ms_run[36]
+MTD	assay[37]	Sample 37 (BP)
+MTD	assay[37]-sample_ref	sample[37]
+MTD	assay[37]-ms_run_ref	ms_run[37]
+MTD	assay[38]	Sample 38 (BQ)
+MTD	assay[38]-sample_ref	sample[38]
+MTD	assay[38]-ms_run_ref	ms_run[38]
+MTD	assay[39]	Sample 39 (BR)
+MTD	assay[39]-sample_ref	sample[39]
+MTD	assay[39]-ms_run_ref	ms_run[39]
+MTD	assay[40]	Sample 40 (BS)
+MTD	assay[40]-sample_ref	sample[40]
+MTD	assay[40]-ms_run_ref	ms_run[40]
+MTD	assay[41]	Sample 41 (BT)
+MTD	assay[41]-sample_ref	sample[41]
+MTD	assay[41]-ms_run_ref	ms_run[41]
+MTD	assay[42]	Sample 42 (BU)
+MTD	assay[42]-sample_ref	sample[42]
+MTD	assay[42]-ms_run_ref	ms_run[42]
+MTD	assay[43]	Sample 43 (BV)
+MTD	assay[43]-sample_ref	sample[43]
+MTD	assay[43]-ms_run_ref	ms_run[43]
+MTD	assay[44]	Sample 44 (BW)
+MTD	assay[44]-sample_ref	sample[44]
+MTD	assay[44]-ms_run_ref	ms_run[44]
+MTD	assay[45]	Sample 45 (BX)
+MTD	assay[45]-sample_ref	sample[45]
+MTD	assay[45]-ms_run_ref	ms_run[45]
+MTD	assay[46]	Sample 46 (BY)
+MTD	assay[46]-sample_ref	sample[46]
+MTD	assay[46]-ms_run_ref	ms_run[46]
+MTD	assay[47]	Sample 47 (BZ)
+MTD	assay[47]-sample_ref	sample[47]
+MTD	assay[47]-ms_run_ref	ms_run[47]
+MTD	assay[48]	Sample 48 (CA)
+MTD	assay[48]-sample_ref	sample[48]
+MTD	assay[48]-ms_run_ref	ms_run[48]
+MTD	assay[49]	Sample 49 (CB)
+MTD	assay[49]-sample_ref	sample[49]
+MTD	assay[49]-ms_run_ref	ms_run[49]
+MTD	assay[50]	Sample 50 (CC)
+MTD	assay[50]-sample_ref	sample[50]
+MTD	assay[50]-ms_run_ref	ms_run[50]
+MTD	assay[51]	Sample 51 (CD)
+MTD	assay[51]-sample_ref	sample[51]
+MTD	assay[51]-ms_run_ref	ms_run[51]
+MTD	assay[52]	Sample 52 (CE)
+MTD	assay[52]-sample_ref	sample[52]
+MTD	assay[52]-ms_run_ref	ms_run[52]
+MTD	assay[53]	Sample 53 (CF)
+MTD	assay[53]-sample_ref	sample[53]
+MTD	assay[53]-ms_run_ref	ms_run[53]
+MTD	assay[54]	Sample 54 (CG)
+MTD	assay[54]-sample_ref	sample[54]
+MTD	assay[54]-ms_run_ref	ms_run[54]
+MTD	assay[55]	Sample 55 (CH)
+MTD	assay[55]-sample_ref	sample[55]
+MTD	assay[55]-ms_run_ref	ms_run[55]
+MTD	assay[56]	Sample 56 (CI)
+MTD	assay[56]-sample_ref	sample[56]
+MTD	assay[56]-ms_run_ref	ms_run[56]
+MTD	assay[57]	Sample 57 (CJ)
+MTD	assay[57]-sample_ref	sample[57]
+MTD	assay[57]-ms_run_ref	ms_run[57]
+MTD	assay[58]	Sample 58 (CK)
+MTD	assay[58]-sample_ref	sample[58]
+MTD	assay[58]-ms_run_ref	ms_run[58]
+MTD	assay[59]	Sample 59 (CL)
+MTD	assay[59]-sample_ref	sample[59]
+MTD	assay[59]-ms_run_ref	ms_run[59]
+MTD	assay[60]	Sample 60 (CM)
+MTD	assay[60]-sample_ref	sample[60]
+MTD	assay[60]-ms_run_ref	ms_run[60]
+MTD	assay[61]	Sample 61 (CN)
+MTD	assay[61]-sample_ref	sample[61]
+MTD	assay[61]-ms_run_ref	ms_run[61]
+MTD	assay[62]	Sample 62 (CO)
+MTD	assay[62]-sample_ref	sample[62]
+MTD	assay[62]-ms_run_ref	ms_run[62]
+MTD	assay[63]	Sample 63 (CP)
+MTD	assay[63]-sample_ref	sample[63]
+MTD	assay[63]-ms_run_ref	ms_run[63]
+MTD	assay[64]	Sample 64 (CQ)
+MTD	assay[64]-sample_ref	sample[64]
+MTD	assay[64]-ms_run_ref	ms_run[64]
+MTD	assay[65]	Sample 65 (CR)
+MTD	assay[65]-sample_ref	sample[65]
+MTD	assay[65]-ms_run_ref	ms_run[65]
+MTD	assay[66]	Sample 66 (CS)
+MTD	assay[66]-sample_ref	sample[66]
+MTD	assay[66]-ms_run_ref	ms_run[66]
+MTD	assay[67]	Sample 67 (CT)
+MTD	assay[67]-sample_ref	sample[67]
+MTD	assay[67]-ms_run_ref	ms_run[67]
+MTD	assay[68]	Sample 68 (CU)
+MTD	assay[68]-sample_ref	sample[68]
+MTD	assay[68]-ms_run_ref	ms_run[68]
+MTD	assay[69]	Sample 69 (CV)
+MTD	assay[69]-sample_ref	sample[69]
+MTD	assay[69]-ms_run_ref	ms_run[69]
+MTD	assay[70]	Sample 70 (CW)
+MTD	assay[70]-sample_ref	sample[70]
+MTD	assay[70]-ms_run_ref	ms_run[70]
+MTD	assay[71]	Sample 71 (CX)
+MTD	assay[71]-sample_ref	sample[71]
+MTD	assay[71]-ms_run_ref	ms_run[71]
+MTD	assay[72]	Sample 72 (CY)
+MTD	assay[72]-sample_ref	sample[72]
+MTD	assay[72]-ms_run_ref	ms_run[72]
+MTD	assay[73]	Sample 73 (CZ)
+MTD	assay[73]-sample_ref	sample[73]
+MTD	assay[73]-ms_run_ref	ms_run[73]
+MTD	assay[74]	Sample 74 (DA)
+MTD	assay[74]-sample_ref	sample[74]
+MTD	assay[74]-ms_run_ref	ms_run[74]
+MTD	assay[75]	Sample 75 (DB)
+MTD	assay[75]-sample_ref	sample[75]
+MTD	assay[75]-ms_run_ref	ms_run[75]
+MTD	assay[76]	Sample 76 (DC)
+MTD	assay[76]-sample_ref	sample[76]
+MTD	assay[76]-ms_run_ref	ms_run[76]
+MTD	assay[77]	Sample 77 (DD)
+MTD	assay[77]-sample_ref	sample[77]
+MTD	assay[77]-ms_run_ref	ms_run[77]
+MTD	assay[78]	Sample 78 (DE)
+MTD	assay[78]-sample_ref	sample[78]
+MTD	assay[78]-ms_run_ref	ms_run[78]
+MTD	assay[79]	Sample 79 (DF)
+MTD	assay[79]-sample_ref	sample[79]
+MTD	assay[79]-ms_run_ref	ms_run[79]
+MTD	assay[80]	Sample 80 (DG)
+MTD	assay[80]-sample_ref	sample[80]
+MTD	assay[80]-ms_run_ref	ms_run[80]
+MTD	assay[81]	Sample 81 (DH)
+MTD	assay[81]-sample_ref	sample[81]
+MTD	assay[81]-ms_run_ref	ms_run[81]
+MTD	assay[82]	Sample 82 (DI)
+MTD	assay[82]-sample_ref	sample[82]
+MTD	assay[82]-ms_run_ref	ms_run[82]
+MTD	assay[83]	Sample 83 (DJ)
+MTD	assay[83]-sample_ref	sample[83]
+MTD	assay[83]-ms_run_ref	ms_run[83]
+MTD	assay[84]	Sample 84 (DK)
+MTD	assay[84]-sample_ref	sample[84]
+MTD	assay[84]-ms_run_ref	ms_run[84]
+MTD	assay[85]	Sample 85 (DL)
+MTD	assay[85]-sample_ref	sample[85]
+MTD	assay[85]-ms_run_ref	ms_run[85]
+MTD	assay[86]	Sample 86 (DM)
+MTD	assay[86]-sample_ref	sample[86]
+MTD	assay[86]-ms_run_ref	ms_run[86]
+MTD	assay[87]	Sample 87 (DN)
+MTD	assay[87]-sample_ref	sample[87]
+MTD	assay[87]-ms_run_ref	ms_run[87]
+MTD	assay[88]	Sample 88 (DO)
+MTD	assay[88]-sample_ref	sample[88]
+MTD	assay[88]-ms_run_ref	ms_run[88]
+MTD	assay[89]	Sample 89 (DP)
+MTD	assay[89]-sample_ref	sample[89]
+MTD	assay[89]-ms_run_ref	ms_run[89]
+MTD	assay[90]	Sample 90 (DQ)
+MTD	assay[90]-sample_ref	sample[90]
+MTD	assay[90]-ms_run_ref	ms_run[90]
+MTD	assay[91]	Sample 91 (DR)
+MTD	assay[91]-sample_ref	sample[91]
+MTD	assay[91]-ms_run_ref	ms_run[91]
+MTD	assay[92]	Sample 92 (DS)
+MTD	assay[92]-sample_ref	sample[92]
+MTD	assay[92]-ms_run_ref	ms_run[92]
+MTD	assay[93]	Sample 93 (DT)
+MTD	assay[93]-sample_ref	sample[93]
+MTD	assay[93]-ms_run_ref	ms_run[93]
+MTD	assay[94]	Sample 94 (DU)
+MTD	assay[94]-sample_ref	sample[94]
+MTD	assay[94]-ms_run_ref	ms_run[94]
+MTD	assay[95]	Sample 95 (DV)
+MTD	assay[95]-sample_ref	sample[95]
+MTD	assay[95]-ms_run_ref	ms_run[95]
+MTD	assay[96]	Sample 96 (DW)
+MTD	assay[96]-sample_ref	sample[96]
+MTD	assay[96]-ms_run_ref	ms_run[96]
+MTD	assay[97]	Sample 97 (DX)
+MTD	assay[97]-sample_ref	sample[97]
+MTD	assay[97]-ms_run_ref	ms_run[97]
+MTD	assay[98]	Sample 98 (DY)
+MTD	assay[98]-sample_ref	sample[98]
+MTD	assay[98]-ms_run_ref	ms_run[98]
+MTD	assay[99]	Sample 99 (DZ)
+MTD	assay[99]-sample_ref	sample[99]
+MTD	assay[99]-ms_run_ref	ms_run[99]
+MTD	assay[100]	Sample 100 (EA)
+MTD	assay[100]-sample_ref	sample[100]
+MTD	assay[100]-ms_run_ref	ms_run[100]
+MTD	assay[101]	Sample 101 (EB)
+MTD	assay[101]-sample_ref	sample[101]
+MTD	assay[101]-ms_run_ref	ms_run[101]
+MTD	assay[102]	Sample 102 (EC)
+MTD	assay[102]-sample_ref	sample[102]
+MTD	assay[102]-ms_run_ref	ms_run[102]
+MTD	assay[103]	Sample 103 (ED)
+MTD	assay[103]-sample_ref	sample[103]
+MTD	assay[103]-ms_run_ref	ms_run[103]
+MTD	assay[104]	Sample 104 (EE)
+MTD	assay[104]-sample_ref	sample[104]
+MTD	assay[104]-ms_run_ref	ms_run[104]
+MTD	assay[105]	Sample 105 (EF)
+MTD	assay[105]-sample_ref	sample[105]
+MTD	assay[105]-ms_run_ref	ms_run[105]
+MTD	assay[106]	Sample 106 (EG)
+MTD	assay[106]-sample_ref	sample[106]
+MTD	assay[106]-ms_run_ref	ms_run[106]
+MTD	assay[107]	Sample 107 (EH)
+MTD	assay[107]-sample_ref	sample[107]
+MTD	assay[107]-ms_run_ref	ms_run[107]
+MTD	assay[108]	Sample 108 (EI)
+MTD	assay[108]-sample_ref	sample[108]
+MTD	assay[108]-ms_run_ref	ms_run[108]
+MTD	assay[109]	Sample 109 (EJ)
+MTD	assay[109]-sample_ref	sample[109]
+MTD	assay[109]-ms_run_ref	ms_run[109]
+MTD	assay[110]	Sample 110 (EK)
+MTD	assay[110]-sample_ref	sample[110]
+MTD	assay[110]-ms_run_ref	ms_run[110]
+MTD	assay[111]	Sample 111 (EL)
+MTD	assay[111]-sample_ref	sample[111]
+MTD	assay[111]-ms_run_ref	ms_run[111]
+MTD	assay[112]	Sample 112 (EM)
+MTD	assay[112]-sample_ref	sample[112]
+MTD	assay[112]-ms_run_ref	ms_run[112]
+MTD	assay[113]	Sample 113 (EN)
+MTD	assay[113]-sample_ref	sample[113]
+MTD	assay[113]-ms_run_ref	ms_run[113]
+MTD	assay[114]	Sample 114 (EO)
+MTD	assay[114]-sample_ref	sample[114]
+MTD	assay[114]-ms_run_ref	ms_run[114]
+MTD	assay[115]	Sample 115 (EP)
+MTD	assay[115]-sample_ref	sample[115]
+MTD	assay[115]-ms_run_ref	ms_run[115]
+MTD	assay[116]	Sample 116 (EQ)
+MTD	assay[116]-sample_ref	sample[116]
+MTD	assay[116]-ms_run_ref	ms_run[116]
+MTD	assay[117]	Sample 117 (ER)
+MTD	assay[117]-sample_ref	sample[117]
+MTD	assay[117]-ms_run_ref	ms_run[117]
+MTD	assay[118]	Sample 118 (ES)
+MTD	assay[118]-sample_ref	sample[118]
+MTD	assay[118]-ms_run_ref	ms_run[118]
+MTD	assay[119]	Sample 119 (ET)
+MTD	assay[119]-sample_ref	sample[119]
+MTD	assay[119]-ms_run_ref	ms_run[119]
+MTD	assay[120]	Sample 120 (EU)
+MTD	assay[120]-sample_ref	sample[120]
+MTD	assay[120]-ms_run_ref	ms_run[120]
+MTD	assay[121]	Sample 121 (EV)
+MTD	assay[121]-sample_ref	sample[121]
+MTD	assay[121]-ms_run_ref	ms_run[121]
+MTD	assay[122]	Sample 122 (EW)
+MTD	assay[122]-sample_ref	sample[122]
+MTD	assay[122]-ms_run_ref	ms_run[122]
+MTD	assay[123]	Sample 123 (EX)
+MTD	assay[123]-sample_ref	sample[123]
+MTD	assay[123]-ms_run_ref	ms_run[123]
+MTD	assay[124]	Sample 124 (EY)
+MTD	assay[124]-sample_ref	sample[124]
+MTD	assay[124]-ms_run_ref	ms_run[124]
+MTD	assay[125]	Sample 125 (EZ)
+MTD	assay[125]-sample_ref	sample[125]
+MTD	assay[125]-ms_run_ref	ms_run[125]
+MTD	assay[126]	Sample 126 (FA)
+MTD	assay[126]-sample_ref	sample[126]
+MTD	assay[126]-ms_run_ref	ms_run[126]
+MTD	assay[127]	Sample 127 (FB)
+MTD	assay[127]-sample_ref	sample[127]
+MTD	assay[127]-ms_run_ref	ms_run[127]
+MTD	assay[128]	Sample 128 (FC)
+MTD	assay[128]-sample_ref	sample[128]
+MTD	assay[128]-ms_run_ref	ms_run[128]
+MTD	assay[129]	Sample 129 (FD)
+MTD	assay[129]-sample_ref	sample[129]
+MTD	assay[129]-ms_run_ref	ms_run[129]
+MTD	assay[130]	Sample 130 (FE)
+MTD	assay[130]-sample_ref	sample[130]
+MTD	assay[130]-ms_run_ref	ms_run[130]
+MTD	assay[131]	Sample 131 (FF)
+MTD	assay[131]-sample_ref	sample[131]
+MTD	assay[131]-ms_run_ref	ms_run[131]
+MTD	assay[132]	Sample 132 (FG)
+MTD	assay[132]-sample_ref	sample[132]
+MTD	assay[132]-ms_run_ref	ms_run[132]
+MTD	assay[133]	Sample 133 (FH)
+MTD	assay[133]-sample_ref	sample[133]
+MTD	assay[133]-ms_run_ref	ms_run[133]
+MTD	assay[134]	Sample 134 (FI)
+MTD	assay[134]-sample_ref	sample[134]
+MTD	assay[134]-ms_run_ref	ms_run[134]
+MTD	assay[135]	Sample 135 (FJ)
+MTD	assay[135]-sample_ref	sample[135]
+MTD	assay[135]-ms_run_ref	ms_run[135]
+MTD	assay[136]	Sample 136 (FK)
+MTD	assay[136]-sample_ref	sample[136]
+MTD	assay[136]-ms_run_ref	ms_run[136]
+MTD	assay[137]	Sample 137 (FL)
+MTD	assay[137]-sample_ref	sample[137]
+MTD	assay[137]-ms_run_ref	ms_run[137]
+MTD	assay[138]	Sample 138 (FM)
+MTD	assay[138]-sample_ref	sample[138]
+MTD	assay[138]-ms_run_ref	ms_run[138]
+MTD	assay[139]	Sample 139 (FN)
+MTD	assay[139]-sample_ref	sample[139]
+MTD	assay[139]-ms_run_ref	ms_run[139]
+MTD	assay[140]	Sample 140 (FO)
+MTD	assay[140]-sample_ref	sample[140]
+MTD	assay[140]-ms_run_ref	ms_run[140]
+MTD	assay[141]	Sample 141 (FP)
+MTD	assay[141]-sample_ref	sample[141]
+MTD	assay[141]-ms_run_ref	ms_run[141]
+MTD	assay[142]	Sample 142 (FQ)
+MTD	assay[142]-sample_ref	sample[142]
+MTD	assay[142]-ms_run_ref	ms_run[142]
+MTD	assay[143]	Sample 143 (FR)
+MTD	assay[143]-sample_ref	sample[143]
+MTD	assay[143]-ms_run_ref	ms_run[143]
+MTD	assay[144]	Sample 144 (FS)
+MTD	assay[144]-sample_ref	sample[144]
+MTD	assay[144]-ms_run_ref	ms_run[144]
+MTD	assay[145]	Sample 145 (FT)
+MTD	assay[145]-sample_ref	sample[145]
+MTD	assay[145]-ms_run_ref	ms_run[145]
+MTD	assay[146]	Sample 146 (FU)
+MTD	assay[146]-sample_ref	sample[146]
+MTD	assay[146]-ms_run_ref	ms_run[146]
+MTD	assay[147]	Sample 147 (FV)
+MTD	assay[147]-sample_ref	sample[147]
+MTD	assay[147]-ms_run_ref	ms_run[147]
+MTD	assay[148]	Sample 148 (FW)
+MTD	assay[148]-sample_ref	sample[148]
+MTD	assay[148]-ms_run_ref	ms_run[148]
+MTD	assay[149]	Sample 149 (FX)
+MTD	assay[149]-sample_ref	sample[149]
+MTD	assay[149]-ms_run_ref	ms_run[149]
+MTD	assay[150]	Sample 150 (FY)
+MTD	assay[150]-sample_ref	sample[150]
+MTD	assay[150]-ms_run_ref	ms_run[150]
+MTD	assay[151]	Sample 151 (FZ)
+MTD	assay[151]-sample_ref	sample[151]
+MTD	assay[151]-ms_run_ref	ms_run[151]
+MTD	assay[152]	Sample 152 (GA)
+MTD	assay[152]-sample_ref	sample[152]
+MTD	assay[152]-ms_run_ref	ms_run[152]
+MTD	assay[153]	Sample 153 (GB)
+MTD	assay[153]-sample_ref	sample[153]
+MTD	assay[153]-ms_run_ref	ms_run[153]
+MTD	assay[154]	Sample 154 (GC)
+MTD	assay[154]-sample_ref	sample[154]
+MTD	assay[154]-ms_run_ref	ms_run[154]
+MTD	assay[155]	Sample 155 (GD)
+MTD	assay[155]-sample_ref	sample[155]
+MTD	assay[155]-ms_run_ref	ms_run[155]
+MTD	assay[156]	Blank 1 (GE)
+MTD	assay[156]-sample_ref	sample[156]
+MTD	assay[156]-ms_run_ref	ms_run[156]
+MTD	assay[157]	Blank 2 (GF)
+MTD	assay[157]-sample_ref	sample[157]
+MTD	assay[157]-ms_run_ref	ms_run[157]
+MTD	assay[158]	Blank 3 (GG)
+MTD	assay[158]-sample_ref	sample[158]
+MTD	assay[158]-ms_run_ref	ms_run[158]
+MTD	assay[159]	Blank 4 (GH)
+MTD	assay[159]-sample_ref	sample[159]
+MTD	assay[159]-ms_run_ref	ms_run[159]
+MTD	assay[160]	Blank 5 (GI)
+MTD	assay[160]-sample_ref	sample[160]
+MTD	assay[160]-ms_run_ref	ms_run[160]
+MTD	assay[161]	Blank 6 (GJ)
+MTD	assay[161]-sample_ref	sample[161]
+MTD	assay[161]-ms_run_ref	ms_run[161]
+MTD	assay[162]	Blank 7 (GK)
+MTD	assay[162]-sample_ref	sample[162]
+MTD	assay[162]-ms_run_ref	ms_run[162]
+MTD	assay[163]	Blank 8 (GL)
+MTD	assay[163]-sample_ref	sample[163]
+MTD	assay[163]-ms_run_ref	ms_run[163]
+MTD	assay[164]	Blank 9 (GM)
+MTD	assay[164]-sample_ref	sample[164]
+MTD	assay[164]-ms_run_ref	ms_run[164]
+MTD	assay[165]	Blank 10 (GN)
+MTD	assay[165]-sample_ref	sample[165]
+MTD	assay[165]-ms_run_ref	ms_run[165]
+MTD	assay[166]	Sample 1 (GP)
+MTD	assay[166]-sample_ref	sample[1]
+MTD	assay[166]-ms_run_ref	ms_run[166]
+MTD	assay[167]	Sample 2 (GQ)
+MTD	assay[167]-sample_ref	sample[2]
+MTD	assay[167]-ms_run_ref	ms_run[167]
+MTD	assay[168]	Sample 3 (GR)
+MTD	assay[168]-sample_ref	sample[3]
+MTD	assay[168]-ms_run_ref	ms_run[168]
+MTD	assay[169]	Sample 4 (GS)
+MTD	assay[169]-sample_ref	sample[4]
+MTD	assay[169]-ms_run_ref	ms_run[169]
+MTD	assay[170]	Sample 5 (GT)
+MTD	assay[170]-sample_ref	sample[5]
+MTD	assay[170]-ms_run_ref	ms_run[170]
+MTD	assay[171]	Sample 6 (GU)
+MTD	assay[171]-sample_ref	sample[6]
+MTD	assay[171]-ms_run_ref	ms_run[171]
+MTD	assay[172]	Sample 7 (GV)
+MTD	assay[172]-sample_ref	sample[7]
+MTD	assay[172]-ms_run_ref	ms_run[172]
+MTD	assay[173]	Sample 8 (GW)
+MTD	assay[173]-sample_ref	sample[8]
+MTD	assay[173]-ms_run_ref	ms_run[173]
+MTD	assay[174]	Sample 9 (GX)
+MTD	assay[174]-sample_ref	sample[9]
+MTD	assay[174]-ms_run_ref	ms_run[174]
+MTD	assay[175]	Sample 10 (GY)
+MTD	assay[175]-sample_ref	sample[10]
+MTD	assay[175]-ms_run_ref	ms_run[175]
+MTD	assay[176]	Sample 11 (GZ)
+MTD	assay[176]-sample_ref	sample[11]
+MTD	assay[176]-ms_run_ref	ms_run[176]
+MTD	assay[177]	Sample 12 (HA)
+MTD	assay[177]-sample_ref	sample[12]
+MTD	assay[177]-ms_run_ref	ms_run[177]
+MTD	assay[178]	Sample 13 (HB)
+MTD	assay[178]-sample_ref	sample[13]
+MTD	assay[178]-ms_run_ref	ms_run[178]
+MTD	assay[179]	Sample 14 (HC)
+MTD	assay[179]-sample_ref	sample[14]
+MTD	assay[179]-ms_run_ref	ms_run[179]
+MTD	assay[180]	Sample 15 (HD)
+MTD	assay[180]-sample_ref	sample[15]
+MTD	assay[180]-ms_run_ref	ms_run[180]
+MTD	assay[181]	Sample 16 (HE)
+MTD	assay[181]-sample_ref	sample[16]
+MTD	assay[181]-ms_run_ref	ms_run[181]
+MTD	assay[182]	Sample 17 (HF)
+MTD	assay[182]-sample_ref	sample[17]
+MTD	assay[182]-ms_run_ref	ms_run[182]
+MTD	assay[183]	Sample 18 (HG)
+MTD	assay[183]-sample_ref	sample[18]
+MTD	assay[183]-ms_run_ref	ms_run[183]
+MTD	assay[184]	Sample 19 (HH)
+MTD	assay[184]-sample_ref	sample[19]
+MTD	assay[184]-ms_run_ref	ms_run[184]
+MTD	assay[185]	Sample 20 (HI)
+MTD	assay[185]-sample_ref	sample[20]
+MTD	assay[185]-ms_run_ref	ms_run[185]
+MTD	assay[186]	Sample 21 (HJ)
+MTD	assay[186]-sample_ref	sample[21]
+MTD	assay[186]-ms_run_ref	ms_run[186]
+MTD	assay[187]	Sample 22 (HK)
+MTD	assay[187]-sample_ref	sample[22]
+MTD	assay[187]-ms_run_ref	ms_run[187]
+MTD	assay[188]	Sample 23 (HL)
+MTD	assay[188]-sample_ref	sample[23]
+MTD	assay[188]-ms_run_ref	ms_run[188]
+MTD	assay[189]	Sample 24 (HM)
+MTD	assay[189]-sample_ref	sample[24]
+MTD	assay[189]-ms_run_ref	ms_run[189]
+MTD	assay[190]	Sample 25 (HN)
+MTD	assay[190]-sample_ref	sample[25]
+MTD	assay[190]-ms_run_ref	ms_run[190]
+MTD	assay[191]	Sample 26 (HO)
+MTD	assay[191]-sample_ref	sample[26]
+MTD	assay[191]-ms_run_ref	ms_run[191]
+MTD	assay[192]	Sample 27 (HP)
+MTD	assay[192]-sample_ref	sample[27]
+MTD	assay[192]-ms_run_ref	ms_run[192]
+MTD	assay[193]	Sample 28 (HQ)
+MTD	assay[193]-sample_ref	sample[28]
+MTD	assay[193]-ms_run_ref	ms_run[193]
+MTD	assay[194]	Sample 29 (HR)
+MTD	assay[194]-sample_ref	sample[29]
+MTD	assay[194]-ms_run_ref	ms_run[194]
+MTD	assay[195]	Sample 30 (HS)
+MTD	assay[195]-sample_ref	sample[30]
+MTD	assay[195]-ms_run_ref	ms_run[195]
+MTD	assay[196]	Sample 31 (HT)
+MTD	assay[196]-sample_ref	sample[31]
+MTD	assay[196]-ms_run_ref	ms_run[196]
+MTD	assay[197]	Sample 32 (HU)
+MTD	assay[197]-sample_ref	sample[32]
+MTD	assay[197]-ms_run_ref	ms_run[197]
+MTD	assay[198]	Sample 33 (HV)
+MTD	assay[198]-sample_ref	sample[33]
+MTD	assay[198]-ms_run_ref	ms_run[198]
+MTD	assay[199]	Sample 34 (HW)
+MTD	assay[199]-sample_ref	sample[34]
+MTD	assay[199]-ms_run_ref	ms_run[199]
+MTD	assay[200]	Sample 35 (HX)
+MTD	assay[200]-sample_ref	sample[35]
+MTD	assay[200]-ms_run_ref	ms_run[200]
+MTD	assay[201]	Sample 36 (HY)
+MTD	assay[201]-sample_ref	sample[36]
+MTD	assay[201]-ms_run_ref	ms_run[201]
+MTD	assay[202]	Sample 37 (HZ)
+MTD	assay[202]-sample_ref	sample[37]
+MTD	assay[202]-ms_run_ref	ms_run[202]
+MTD	assay[203]	Sample 38 (IA)
+MTD	assay[203]-sample_ref	sample[38]
+MTD	assay[203]-ms_run_ref	ms_run[203]
+MTD	assay[204]	Sample 39 (IB)
+MTD	assay[204]-sample_ref	sample[39]
+MTD	assay[204]-ms_run_ref	ms_run[204]
+MTD	assay[205]	Sample 40 (IC)
+MTD	assay[205]-sample_ref	sample[40]
+MTD	assay[205]-ms_run_ref	ms_run[205]
+MTD	assay[206]	Sample 41 (ID)
+MTD	assay[206]-sample_ref	sample[41]
+MTD	assay[206]-ms_run_ref	ms_run[206]
+MTD	assay[207]	Sample 42 (IE)
+MTD	assay[207]-sample_ref	sample[42]
+MTD	assay[207]-ms_run_ref	ms_run[207]
+MTD	assay[208]	Sample 43 (IF)
+MTD	assay[208]-sample_ref	sample[43]
+MTD	assay[208]-ms_run_ref	ms_run[208]
+MTD	assay[209]	Sample 44 (IG)
+MTD	assay[209]-sample_ref	sample[44]
+MTD	assay[209]-ms_run_ref	ms_run[209]
+MTD	assay[210]	Sample 45 (IH)
+MTD	assay[210]-sample_ref	sample[45]
+MTD	assay[210]-ms_run_ref	ms_run[210]
+MTD	assay[211]	Sample 46 (II)
+MTD	assay[211]-sample_ref	sample[46]
+MTD	assay[211]-ms_run_ref	ms_run[211]
+MTD	assay[212]	Sample 47 (IJ)
+MTD	assay[212]-sample_ref	sample[47]
+MTD	assay[212]-ms_run_ref	ms_run[212]
+MTD	assay[213]	Sample 48 (IK)
+MTD	assay[213]-sample_ref	sample[48]
+MTD	assay[213]-ms_run_ref	ms_run[213]
+MTD	assay[214]	Sample 49 (IL)
+MTD	assay[214]-sample_ref	sample[49]
+MTD	assay[214]-ms_run_ref	ms_run[214]
+MTD	assay[215]	Sample 50 (IM)
+MTD	assay[215]-sample_ref	sample[50]
+MTD	assay[215]-ms_run_ref	ms_run[215]
+MTD	assay[216]	Sample 51 (IN)
+MTD	assay[216]-sample_ref	sample[51]
+MTD	assay[216]-ms_run_ref	ms_run[216]
+MTD	assay[217]	Sample 52 (IO)
+MTD	assay[217]-sample_ref	sample[52]
+MTD	assay[217]-ms_run_ref	ms_run[217]
+MTD	assay[218]	Sample 53 (IP)
+MTD	assay[218]-sample_ref	sample[53]
+MTD	assay[218]-ms_run_ref	ms_run[218]
+MTD	assay[219]	Sample 54 (IQ)
+MTD	assay[219]-sample_ref	sample[54]
+MTD	assay[219]-ms_run_ref	ms_run[219]
+MTD	assay[220]	Sample 55 (IR)
+MTD	assay[220]-sample_ref	sample[55]
+MTD	assay[220]-ms_run_ref	ms_run[220]
+MTD	assay[221]	Sample 56 (IS)
+MTD	assay[221]-sample_ref	sample[56]
+MTD	assay[221]-ms_run_ref	ms_run[221]
+MTD	assay[222]	Sample 57 (IT)
+MTD	assay[222]-sample_ref	sample[57]
+MTD	assay[222]-ms_run_ref	ms_run[222]
+MTD	assay[223]	Sample 58 (IU)
+MTD	assay[223]-sample_ref	sample[58]
+MTD	assay[223]-ms_run_ref	ms_run[223]
+MTD	assay[224]	Sample 59 (IV)
+MTD	assay[224]-sample_ref	sample[59]
+MTD	assay[224]-ms_run_ref	ms_run[224]
+MTD	assay[225]	Sample 60 (IW)
+MTD	assay[225]-sample_ref	sample[60]
+MTD	assay[225]-ms_run_ref	ms_run[225]
+MTD	assay[226]	Sample 61 (IX)
+MTD	assay[226]-sample_ref	sample[61]
+MTD	assay[226]-ms_run_ref	ms_run[226]
+MTD	assay[227]	Sample 62 (IY)
+MTD	assay[227]-sample_ref	sample[62]
+MTD	assay[227]-ms_run_ref	ms_run[227]
+MTD	assay[228]	Sample 63 (IZ)
+MTD	assay[228]-sample_ref	sample[63]
+MTD	assay[228]-ms_run_ref	ms_run[228]
+MTD	assay[229]	Sample 64 (JA)
+MTD	assay[229]-sample_ref	sample[64]
+MTD	assay[229]-ms_run_ref	ms_run[229]
+MTD	assay[230]	Sample 65 (JB)
+MTD	assay[230]-sample_ref	sample[65]
+MTD	assay[230]-ms_run_ref	ms_run[230]
+MTD	assay[231]	Sample 66 (JC)
+MTD	assay[231]-sample_ref	sample[66]
+MTD	assay[231]-ms_run_ref	ms_run[231]
+MTD	assay[232]	Sample 67 (JD)
+MTD	assay[232]-sample_ref	sample[67]
+MTD	assay[232]-ms_run_ref	ms_run[232]
+MTD	assay[233]	Sample 68 (JE)
+MTD	assay[233]-sample_ref	sample[68]
+MTD	assay[233]-ms_run_ref	ms_run[233]
+MTD	assay[234]	Sample 69 (JF)
+MTD	assay[234]-sample_ref	sample[69]
+MTD	assay[234]-ms_run_ref	ms_run[234]
+MTD	assay[235]	Sample 70 (JG)
+MTD	assay[235]-sample_ref	sample[70]
+MTD	assay[235]-ms_run_ref	ms_run[235]
+MTD	assay[236]	Sample 71 (JH)
+MTD	assay[236]-sample_ref	sample[71]
+MTD	assay[236]-ms_run_ref	ms_run[236]
+MTD	assay[237]	Sample 72 (JI)
+MTD	assay[237]-sample_ref	sample[72]
+MTD	assay[237]-ms_run_ref	ms_run[237]
+MTD	assay[238]	Sample 73 (JJ)
+MTD	assay[238]-sample_ref	sample[73]
+MTD	assay[238]-ms_run_ref	ms_run[238]
+MTD	assay[239]	Sample 74 (JK)
+MTD	assay[239]-sample_ref	sample[74]
+MTD	assay[239]-ms_run_ref	ms_run[239]
+MTD	assay[240]	Sample 75 (JL)
+MTD	assay[240]-sample_ref	sample[75]
+MTD	assay[240]-ms_run_ref	ms_run[240]
+MTD	assay[241]	Sample 76 (JM)
+MTD	assay[241]-sample_ref	sample[76]
+MTD	assay[241]-ms_run_ref	ms_run[241]
+MTD	assay[242]	Sample 77 (JN)
+MTD	assay[242]-sample_ref	sample[77]
+MTD	assay[242]-ms_run_ref	ms_run[242]
+MTD	assay[243]	Sample 78 (JO)
+MTD	assay[243]-sample_ref	sample[78]
+MTD	assay[243]-ms_run_ref	ms_run[243]
+MTD	assay[244]	Sample 79 (JP)
+MTD	assay[244]-sample_ref	sample[79]
+MTD	assay[244]-ms_run_ref	ms_run[244]
+MTD	assay[245]	Sample 80 (JQ)
+MTD	assay[245]-sample_ref	sample[80]
+MTD	assay[245]-ms_run_ref	ms_run[245]
+MTD	assay[246]	Sample 81 (JR)
+MTD	assay[246]-sample_ref	sample[81]
+MTD	assay[246]-ms_run_ref	ms_run[246]
+MTD	assay[247]	Sample 82 (JS)
+MTD	assay[247]-sample_ref	sample[82]
+MTD	assay[247]-ms_run_ref	ms_run[247]
+MTD	assay[248]	Sample 83 (JT)
+MTD	assay[248]-sample_ref	sample[83]
+MTD	assay[248]-ms_run_ref	ms_run[248]
+MTD	assay[249]	Sample 84 (JU)
+MTD	assay[249]-sample_ref	sample[84]
+MTD	assay[249]-ms_run_ref	ms_run[249]
+MTD	assay[250]	Sample 85 (JV)
+MTD	assay[250]-sample_ref	sample[85]
+MTD	assay[250]-ms_run_ref	ms_run[250]
+MTD	assay[251]	Sample 86 (JW)
+MTD	assay[251]-sample_ref	sample[86]
+MTD	assay[251]-ms_run_ref	ms_run[251]
+MTD	assay[252]	Sample 87 (JX)
+MTD	assay[252]-sample_ref	sample[87]
+MTD	assay[252]-ms_run_ref	ms_run[252]
+MTD	assay[253]	Sample 88 (JY)
+MTD	assay[253]-sample_ref	sample[88]
+MTD	assay[253]-ms_run_ref	ms_run[253]
+MTD	assay[254]	Sample 89 (JZ)
+MTD	assay[254]-sample_ref	sample[89]
+MTD	assay[254]-ms_run_ref	ms_run[254]
+MTD	assay[255]	Sample 90 (KA)
+MTD	assay[255]-sample_ref	sample[90]
+MTD	assay[255]-ms_run_ref	ms_run[255]
+MTD	assay[256]	Sample 91 (KB)
+MTD	assay[256]-sample_ref	sample[91]
+MTD	assay[256]-ms_run_ref	ms_run[256]
+MTD	assay[257]	Sample 92 (KC)
+MTD	assay[257]-sample_ref	sample[92]
+MTD	assay[257]-ms_run_ref	ms_run[257]
+MTD	assay[258]	Sample 93 (KD)
+MTD	assay[258]-sample_ref	sample[93]
+MTD	assay[258]-ms_run_ref	ms_run[258]
+MTD	assay[259]	Sample 94 (KE)
+MTD	assay[259]-sample_ref	sample[94]
+MTD	assay[259]-ms_run_ref	ms_run[259]
+MTD	assay[260]	Sample 95 (KF)
+MTD	assay[260]-sample_ref	sample[95]
+MTD	assay[260]-ms_run_ref	ms_run[260]
+MTD	assay[261]	Sample 96 (KG)
+MTD	assay[261]-sample_ref	sample[96]
+MTD	assay[261]-ms_run_ref	ms_run[261]
+MTD	assay[262]	Sample 97 (KH)
+MTD	assay[262]-sample_ref	sample[97]
+MTD	assay[262]-ms_run_ref	ms_run[262]
+MTD	assay[263]	Sample 98 (KI)
+MTD	assay[263]-sample_ref	sample[98]
+MTD	assay[263]-ms_run_ref	ms_run[263]
+MTD	assay[264]	Sample 99 (KJ)
+MTD	assay[264]-sample_ref	sample[99]
+MTD	assay[264]-ms_run_ref	ms_run[264]
+MTD	assay[265]	Sample 100 (KK)
+MTD	assay[265]-sample_ref	sample[100]
+MTD	assay[265]-ms_run_ref	ms_run[265]
+MTD	assay[266]	Sample 101 (KL)
+MTD	assay[266]-sample_ref	sample[101]
+MTD	assay[266]-ms_run_ref	ms_run[266]
+MTD	assay[267]	Sample 102 (KM)
+MTD	assay[267]-sample_ref	sample[102]
+MTD	assay[267]-ms_run_ref	ms_run[267]
+MTD	assay[268]	Sample 103 (KN)
+MTD	assay[268]-sample_ref	sample[103]
+MTD	assay[268]-ms_run_ref	ms_run[268]
+MTD	assay[269]	Sample 104 (KO)
+MTD	assay[269]-sample_ref	sample[104]
+MTD	assay[269]-ms_run_ref	ms_run[269]
+MTD	assay[270]	Sample 105 (KP)
+MTD	assay[270]-sample_ref	sample[105]
+MTD	assay[270]-ms_run_ref	ms_run[270]
+MTD	assay[271]	Sample 106 (KQ)
+MTD	assay[271]-sample_ref	sample[106]
+MTD	assay[271]-ms_run_ref	ms_run[271]
+MTD	assay[272]	Sample 107 (KR)
+MTD	assay[272]-sample_ref	sample[107]
+MTD	assay[272]-ms_run_ref	ms_run[272]
+MTD	assay[273]	Sample 108 (KS)
+MTD	assay[273]-sample_ref	sample[108]
+MTD	assay[273]-ms_run_ref	ms_run[273]
+MTD	assay[274]	Sample 109 (KT)
+MTD	assay[274]-sample_ref	sample[109]
+MTD	assay[274]-ms_run_ref	ms_run[274]
+MTD	assay[275]	Sample 110 (KU)
+MTD	assay[275]-sample_ref	sample[110]
+MTD	assay[275]-ms_run_ref	ms_run[275]
+MTD	assay[276]	Sample 111 (KV)
+MTD	assay[276]-sample_ref	sample[111]
+MTD	assay[276]-ms_run_ref	ms_run[276]
+MTD	assay[277]	Sample 112 (KW)
+MTD	assay[277]-sample_ref	sample[112]
+MTD	assay[277]-ms_run_ref	ms_run[277]
+MTD	assay[278]	Sample 113 (KX)
+MTD	assay[278]-sample_ref	sample[113]
+MTD	assay[278]-ms_run_ref	ms_run[278]
+MTD	assay[279]	Sample 114 (KY)
+MTD	assay[279]-sample_ref	sample[114]
+MTD	assay[279]-ms_run_ref	ms_run[279]
+MTD	assay[280]	Sample 115 (KZ)
+MTD	assay[280]-sample_ref	sample[115]
+MTD	assay[280]-ms_run_ref	ms_run[280]
+MTD	assay[281]	Sample 116 (LA)
+MTD	assay[281]-sample_ref	sample[116]
+MTD	assay[281]-ms_run_ref	ms_run[281]
+MTD	assay[282]	Sample 117 (LB)
+MTD	assay[282]-sample_ref	sample[117]
+MTD	assay[282]-ms_run_ref	ms_run[282]
+MTD	assay[283]	Sample 118 (LC)
+MTD	assay[283]-sample_ref	sample[118]
+MTD	assay[283]-ms_run_ref	ms_run[283]
+MTD	assay[284]	Sample 119 (LD)
+MTD	assay[284]-sample_ref	sample[119]
+MTD	assay[284]-ms_run_ref	ms_run[284]
+MTD	assay[285]	Sample 120 (LE)
+MTD	assay[285]-sample_ref	sample[120]
+MTD	assay[285]-ms_run_ref	ms_run[285]
+MTD	assay[286]	Sample 121 (LF)
+MTD	assay[286]-sample_ref	sample[121]
+MTD	assay[286]-ms_run_ref	ms_run[286]
+MTD	assay[287]	Sample 122 (LG)
+MTD	assay[287]-sample_ref	sample[122]
+MTD	assay[287]-ms_run_ref	ms_run[287]
+MTD	assay[288]	Sample 123 (LH)
+MTD	assay[288]-sample_ref	sample[123]
+MTD	assay[288]-ms_run_ref	ms_run[288]
+MTD	assay[289]	Sample 124 (LI)
+MTD	assay[289]-sample_ref	sample[124]
+MTD	assay[289]-ms_run_ref	ms_run[289]
+MTD	assay[290]	Sample 125 (LJ)
+MTD	assay[290]-sample_ref	sample[125]
+MTD	assay[290]-ms_run_ref	ms_run[290]
+MTD	assay[291]	Sample 126 (LK)
+MTD	assay[291]-sample_ref	sample[126]
+MTD	assay[291]-ms_run_ref	ms_run[291]
+MTD	assay[292]	Sample 127 (LL)
+MTD	assay[292]-sample_ref	sample[127]
+MTD	assay[292]-ms_run_ref	ms_run[292]
+MTD	assay[293]	Sample 128 (LM)
+MTD	assay[293]-sample_ref	sample[128]
+MTD	assay[293]-ms_run_ref	ms_run[293]
+MTD	assay[294]	Sample 129 (LN)
+MTD	assay[294]-sample_ref	sample[129]
+MTD	assay[294]-ms_run_ref	ms_run[294]
+MTD	assay[295]	Sample 130 (LO)
+MTD	assay[295]-sample_ref	sample[130]
+MTD	assay[295]-ms_run_ref	ms_run[295]
+MTD	assay[296]	Sample 131 (LP)
+MTD	assay[296]-sample_ref	sample[131]
+MTD	assay[296]-ms_run_ref	ms_run[296]
+MTD	assay[297]	Sample 132 (LQ)
+MTD	assay[297]-sample_ref	sample[132]
+MTD	assay[297]-ms_run_ref	ms_run[297]
+MTD	assay[298]	Sample 133 (LR)
+MTD	assay[298]-sample_ref	sample[133]
+MTD	assay[298]-ms_run_ref	ms_run[298]
+MTD	assay[299]	Sample 134 (LS)
+MTD	assay[299]-sample_ref	sample[134]
+MTD	assay[299]-ms_run_ref	ms_run[299]
+MTD	assay[300]	Sample 135 (LT)
+MTD	assay[300]-sample_ref	sample[135]
+MTD	assay[300]-ms_run_ref	ms_run[300]
+MTD	assay[301]	Sample 136 (LU)
+MTD	assay[301]-sample_ref	sample[136]
+MTD	assay[301]-ms_run_ref	ms_run[301]
+MTD	assay[302]	Sample 137 (LV)
+MTD	assay[302]-sample_ref	sample[137]
+MTD	assay[302]-ms_run_ref	ms_run[302]
+MTD	assay[303]	Sample 138 (LW)
+MTD	assay[303]-sample_ref	sample[138]
+MTD	assay[303]-ms_run_ref	ms_run[303]
+MTD	assay[304]	Sample 139 (LX)
+MTD	assay[304]-sample_ref	sample[139]
+MTD	assay[304]-ms_run_ref	ms_run[304]
+MTD	assay[305]	Sample 140 (LY)
+MTD	assay[305]-sample_ref	sample[140]
+MTD	assay[305]-ms_run_ref	ms_run[305]
+MTD	assay[306]	Sample 141 (LZ)
+MTD	assay[306]-sample_ref	sample[141]
+MTD	assay[306]-ms_run_ref	ms_run[306]
+MTD	assay[307]	Sample 142 (MA)
+MTD	assay[307]-sample_ref	sample[142]
+MTD	assay[307]-ms_run_ref	ms_run[307]
+MTD	assay[308]	Sample 143 (MB)
+MTD	assay[308]-sample_ref	sample[143]
+MTD	assay[308]-ms_run_ref	ms_run[308]
+MTD	assay[309]	Sample 144 (MC)
+MTD	assay[309]-sample_ref	sample[144]
+MTD	assay[309]-ms_run_ref	ms_run[309]
+MTD	assay[310]	Sample 145 (MD)
+MTD	assay[310]-sample_ref	sample[145]
+MTD	assay[310]-ms_run_ref	ms_run[310]
+MTD	assay[311]	Sample 146 (ME)
+MTD	assay[311]-sample_ref	sample[146]
+MTD	assay[311]-ms_run_ref	ms_run[311]
+MTD	assay[312]	Sample 147 (MF)
+MTD	assay[312]-sample_ref	sample[147]
+MTD	assay[312]-ms_run_ref	ms_run[312]
+MTD	assay[313]	Sample 148 (MG)
+MTD	assay[313]-sample_ref	sample[148]
+MTD	assay[313]-ms_run_ref	ms_run[313]
+MTD	assay[314]	Sample 149 (MH)
+MTD	assay[314]-sample_ref	sample[149]
+MTD	assay[314]-ms_run_ref	ms_run[314]
+MTD	assay[315]	Sample 150 (MI)
+MTD	assay[315]-sample_ref	sample[150]
+MTD	assay[315]-ms_run_ref	ms_run[315]
+MTD	assay[316]	Sample 151 (MJ)
+MTD	assay[316]-sample_ref	sample[151]
+MTD	assay[316]-ms_run_ref	ms_run[316]
+MTD	assay[317]	Sample 152 (MK)
+MTD	assay[317]-sample_ref	sample[152]
+MTD	assay[317]-ms_run_ref	ms_run[317]
+MTD	assay[318]	Sample 153 (ML)
+MTD	assay[318]-sample_ref	sample[153]
+MTD	assay[318]-ms_run_ref	ms_run[318]
+MTD	assay[319]	Sample 154 (MM)
+MTD	assay[319]-sample_ref	sample[154]
+MTD	assay[319]-ms_run_ref	ms_run[319]
+MTD	assay[320]	Sample 155 (MN)
+MTD	assay[320]-sample_ref	sample[155]
+MTD	assay[320]-ms_run_ref	ms_run[320]
+MTD	assay[321]	Blank 1 (MO)
+MTD	assay[321]-sample_ref	sample[156]
+MTD	assay[321]-ms_run_ref	ms_run[321]
+MTD	assay[322]	Blank 2 (MP)
+MTD	assay[322]-sample_ref	sample[157]
+MTD	assay[322]-ms_run_ref	ms_run[322]
+MTD	assay[323]	Blank 3 (MQ)
+MTD	assay[323]-sample_ref	sample[158]
+MTD	assay[323]-ms_run_ref	ms_run[323]
+MTD	assay[324]	Blank 4 (MR)
+MTD	assay[324]-sample_ref	sample[159]
+MTD	assay[324]-ms_run_ref	ms_run[324]
+MTD	assay[325]	Blank 5 (MS)
+MTD	assay[325]-sample_ref	sample[160]
+MTD	assay[325]-ms_run_ref	ms_run[325]
+MTD	assay[326]	Blank 6 (MT)
+MTD	assay[326]-sample_ref	sample[161]
+MTD	assay[326]-ms_run_ref	ms_run[326]
+MTD	assay[327]	Blank 7 (MU)
+MTD	assay[327]-sample_ref	sample[162]
+MTD	assay[327]-ms_run_ref	ms_run[327]
+MTD	assay[328]	Blank 8 (MV)
+MTD	assay[328]-sample_ref	sample[163]
+MTD	assay[328]-ms_run_ref	ms_run[328]
+MTD	assay[329]	Blank 9 (MW)
+MTD	assay[329]-sample_ref	sample[164]
+MTD	assay[329]-ms_run_ref	ms_run[329]
+MTD	assay[330]	Blank 10 (MX)
+MTD	assay[330]-sample_ref	sample[165]
+MTD	assay[330]-ms_run_ref	ms_run[330]
+MTD	study_variable_group[1]	[,,public_private,]
+MTD	study_variable_group[1]-description	Public/Private
+MTD	study_variable_group[1]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[1]-datatype	xsd:string
+MTD	study_variable_group[1]-study_variable_ref	study_variable[1]
+MTD	study_variable_group[2]	[,,category,]
+MTD	study_variable_group[2]-description	Category
+MTD	study_variable_group[2]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[2]-datatype	xsd:string
+MTD	study_variable_group[2]-study_variable_ref	study_variable[2]|study_variable[3]
+MTD	study_variable_group[3]	[,,genotype_background,]
+MTD	study_variable_group[3]-description	Genotype/Background
+MTD	study_variable_group[3]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[3]-datatype	xsd:string
+MTD	study_variable_group[3]-study_variable_ref	study_variable[4]|study_variable[5]
+MTD	study_variable_group[4]	[,,perturbation,]
+MTD	study_variable_group[4]-description	Perturbation
+MTD	study_variable_group[4]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[4]-datatype	xsd:string
+MTD	study_variable_group[4]-study_variable_ref	study_variable[6]|study_variable[7]
+MTD	study_variable_group[5]	[,,diet_culture,]
+MTD	study_variable_group[5]-description	Diet/Culture
+MTD	study_variable_group[5]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[5]-datatype	xsd:string
+MTD	study_variable_group[5]-study_variable_ref	study_variable[8]|study_variable[9]
+MTD	study_variable_group[6]	[,,biological_replicate,]
+MTD	study_variable_group[6]-description	Biological replicate
+MTD	study_variable_group[6]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[6]-datatype	xsd:string
+MTD	study_variable_group[6]-study_variable_ref	study_variable[10]
+MTD	study_variable_group[7]	[,,technical_replicate,]
+MTD	study_variable_group[7]-description	Technical replicate
+MTD	study_variable_group[7]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[7]-datatype	xsd:string
+MTD	study_variable_group[7]-study_variable_ref	study_variable[11]|study_variable[12]|study_variable[13]|study_variable[14]|study_variable[15]|study_variable[16]|study_variable[17]|study_variable[18]|study_variable[19]|study_variable[20]
+MTD	study_variable_group[8]	[,,unit,]
+MTD	study_variable_group[8]-description	Unit
+MTD	study_variable_group[8]-type	[STATO, STATO:0000252, categorical variable, ]
+MTD	study_variable_group[8]-datatype	xsd:string
+MTD	study_variable_group[8]-study_variable_ref	study_variable[21]|study_variable[22]
+MTD	study_variable[1]	Public
+MTD	study_variable[1]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]|assay[47]|assay[48]|assay[49]|assay[50]|assay[51]|assay[52]|assay[53]|assay[54]|assay[55]|assay[56]|assay[57]|assay[58]|assay[59]|assay[60]|assay[61]|assay[62]|assay[63]|assay[64]|assay[65]|assay[66]|assay[67]|assay[68]|assay[69]|assay[70]|assay[71]|assay[72]|assay[73]|assay[74]|assay[75]|assay[76]|assay[77]|assay[78]|assay[79]|assay[80]|assay[81]|assay[82]|assay[83]|assay[84]|assay[85]|assay[86]|assay[87]|assay[88]|assay[89]|assay[90]|assay[91]|assay[92]|assay[93]|assay[94]|assay[95]|assay[96]|assay[97]|assay[98]|assay[99]|assay[100]|assay[101]|assay[102]|assay[103]|assay[104]|assay[105]|assay[106]|assay[107]|assay[108]|assay[109]|assay[110]|assay[111]|assay[112]|assay[113]|assay[114]|assay[115]|assay[116]|assay[117]|assay[118]|assay[119]|assay[120]|assay[121]|assay[122]|assay[123]|assay[124]|assay[125]|assay[126]|assay[127]|assay[128]|assay[129]|assay[130]|assay[131]|assay[132]|assay[133]|assay[134]|assay[135]|assay[136]|assay[137]|assay[138]|assay[139]|assay[140]|assay[141]|assay[142]|assay[143]|assay[144]|assay[145]|assay[146]|assay[147]|assay[148]|assay[149]|assay[150]|assay[151]|assay[152]|assay[153]|assay[154]|assay[155]|assay[156]|assay[157]|assay[158]|assay[159]|assay[160]|assay[161]|assay[162]|assay[163]|assay[164]|assay[165]|assay[166]|assay[167]|assay[168]|assay[169]|assay[170]|assay[171]|assay[172]|assay[173]|assay[174]|assay[175]|assay[176]|assay[177]|assay[178]|assay[179]|assay[180]|assay[181]|assay[182]|assay[183]|assay[184]|assay[185]|assay[186]|assay[187]|assay[188]|assay[189]|assay[190]|assay[191]|assay[192]|assay[193]|assay[194]|assay[195]|assay[196]|assay[197]|assay[198]|assay[199]|assay[200]|assay[201]|assay[202]|assay[203]|assay[204]|assay[205]|assay[206]|assay[207]|assay[208]|assay[209]|assay[210]|assay[211]|assay[212]|assay[213]|assay[214]|assay[215]|assay[216]|assay[217]|assay[218]|assay[219]|assay[220]|assay[221]|assay[222]|assay[223]|assay[224]|assay[225]|assay[226]|assay[227]|assay[228]|assay[229]|assay[230]|assay[231]|assay[232]|assay[233]|assay[234]|assay[235]|assay[236]|assay[237]|assay[238]|assay[239]|assay[240]|assay[241]|assay[242]|assay[243]|assay[244]|assay[245]|assay[246]|assay[247]|assay[248]|assay[249]|assay[250]|assay[251]|assay[252]|assay[253]|assay[254]|assay[255]|assay[256]|assay[257]|assay[258]|assay[259]|assay[260]|assay[261]|assay[262]|assay[263]|assay[264]|assay[265]|assay[266]|assay[267]|assay[268]|assay[269]|assay[270]|assay[271]|assay[272]|assay[273]|assay[274]|assay[275]|assay[276]|assay[277]|assay[278]|assay[279]|assay[280]|assay[281]|assay[282]|assay[283]|assay[284]|assay[285]|assay[286]|assay[287]|assay[288]|assay[289]|assay[290]|assay[291]|assay[292]|assay[293]|assay[294]|assay[295]|assay[296]|assay[297]|assay[298]|assay[299]|assay[300]|assay[301]|assay[302]|assay[303]|assay[304]|assay[305]|assay[306]|assay[307]|assay[308]|assay[309]|assay[310]|assay[311]|assay[312]|assay[313]|assay[314]|assay[315]|assay[316]|assay[317]|assay[318]|assay[319]|assay[320]|assay[321]|assay[322]|assay[323]|assay[324]|assay[325]|assay[326]|assay[327]|assay[328]|assay[329]|assay[330]
+MTD	study_variable[1]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[1]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[1]-description	Variable public_private, value Public
+MTD	study_variable[2]	Plant
+MTD	study_variable[2]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]|assay[47]|assay[48]|assay[49]|assay[50]|assay[51]|assay[52]|assay[53]|assay[54]|assay[55]|assay[56]|assay[57]|assay[58]|assay[59]|assay[60]|assay[61]|assay[62]|assay[63]|assay[64]|assay[65]|assay[66]|assay[67]|assay[68]|assay[69]|assay[70]|assay[71]|assay[72]|assay[73]|assay[74]|assay[75]|assay[76]|assay[77]|assay[78]|assay[79]|assay[80]|assay[81]|assay[82]|assay[83]|assay[84]|assay[85]|assay[86]|assay[87]|assay[88]|assay[89]|assay[90]|assay[91]|assay[92]|assay[93]|assay[94]|assay[95]|assay[96]|assay[97]|assay[98]|assay[99]|assay[100]|assay[101]|assay[102]|assay[103]|assay[104]|assay[105]|assay[106]|assay[107]|assay[108]|assay[109]|assay[110]|assay[111]|assay[112]|assay[113]|assay[114]|assay[115]|assay[116]|assay[117]|assay[118]|assay[119]|assay[120]|assay[121]|assay[122]|assay[123]|assay[124]|assay[125]|assay[126]|assay[127]|assay[128]|assay[129]|assay[130]|assay[131]|assay[132]|assay[133]|assay[134]|assay[135]|assay[136]|assay[137]|assay[138]|assay[139]|assay[140]|assay[141]|assay[142]|assay[143]|assay[144]|assay[145]|assay[146]|assay[147]|assay[148]|assay[149]|assay[150]|assay[151]|assay[152]|assay[153]|assay[154]|assay[155]|assay[166]|assay[167]|assay[168]|assay[169]|assay[170]|assay[171]|assay[172]|assay[173]|assay[174]|assay[175]|assay[176]|assay[177]|assay[178]|assay[179]|assay[180]|assay[181]|assay[182]|assay[183]|assay[184]|assay[185]|assay[186]|assay[187]|assay[188]|assay[189]|assay[190]|assay[191]|assay[192]|assay[193]|assay[194]|assay[195]|assay[196]|assay[197]|assay[198]|assay[199]|assay[200]|assay[201]|assay[202]|assay[203]|assay[204]|assay[205]|assay[206]|assay[207]|assay[208]|assay[209]|assay[210]|assay[211]|assay[212]|assay[213]|assay[214]|assay[215]|assay[216]|assay[217]|assay[218]|assay[219]|assay[220]|assay[221]|assay[222]|assay[223]|assay[224]|assay[225]|assay[226]|assay[227]|assay[228]|assay[229]|assay[230]|assay[231]|assay[232]|assay[233]|assay[234]|assay[235]|assay[236]|assay[237]|assay[238]|assay[239]|assay[240]|assay[241]|assay[242]|assay[243]|assay[244]|assay[245]|assay[246]|assay[247]|assay[248]|assay[249]|assay[250]|assay[251]|assay[252]|assay[253]|assay[254]|assay[255]|assay[256]|assay[257]|assay[258]|assay[259]|assay[260]|assay[261]|assay[262]|assay[263]|assay[264]|assay[265]|assay[266]|assay[267]|assay[268]|assay[269]|assay[270]|assay[271]|assay[272]|assay[273]|assay[274]|assay[275]|assay[276]|assay[277]|assay[278]|assay[279]|assay[280]|assay[281]|assay[282]|assay[283]|assay[284]|assay[285]|assay[286]|assay[287]|assay[288]|assay[289]|assay[290]|assay[291]|assay[292]|assay[293]|assay[294]|assay[295]|assay[296]|assay[297]|assay[298]|assay[299]|assay[300]|assay[301]|assay[302]|assay[303]|assay[304]|assay[305]|assay[306]|assay[307]|assay[308]|assay[309]|assay[310]|assay[311]|assay[312]|assay[313]|assay[314]|assay[315]|assay[316]|assay[317]|assay[318]|assay[319]|assay[320]
+MTD	study_variable[2]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[2]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[2]-description	Variable category, value Plant
+MTD	study_variable[3]	Blank
+MTD	study_variable[3]-assay_refs	assay[156]|assay[157]|assay[158]|assay[159]|assay[160]|assay[161]|assay[162]|assay[163]|assay[164]|assay[165]|assay[321]|assay[322]|assay[323]|assay[324]|assay[325]|assay[326]|assay[327]|assay[328]|assay[329]|assay[330]
+MTD	study_variable[3]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[3]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[3]-description	Variable category, value Blank
+MTD	study_variable[4]	null
+MTD	study_variable[4]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]|assay[47]|assay[48]|assay[49]|assay[50]|assay[51]|assay[52]|assay[53]|assay[54]|assay[55]|assay[56]|assay[57]|assay[58]|assay[59]|assay[60]|assay[61]|assay[62]|assay[63]|assay[64]|assay[65]|assay[66]|assay[67]|assay[68]|assay[69]|assay[70]|assay[71]|assay[72]|assay[73]|assay[74]|assay[75]|assay[76]|assay[77]|assay[78]|assay[79]|assay[80]|assay[81]|assay[82]|assay[83]|assay[84]|assay[85]|assay[86]|assay[87]|assay[88]|assay[89]|assay[90]|assay[91]|assay[92]|assay[93]|assay[94]|assay[95]|assay[96]|assay[97]|assay[98]|assay[99]|assay[100]|assay[101]|assay[102]|assay[103]|assay[104]|assay[105]|assay[106]|assay[107]|assay[108]|assay[109]|assay[110]|assay[111]|assay[112]|assay[113]|assay[114]|assay[115]|assay[116]|assay[117]|assay[118]|assay[119]|assay[120]|assay[121]|assay[122]|assay[123]|assay[124]|assay[125]|assay[126]|assay[127]|assay[128]|assay[129]|assay[130]|assay[131]|assay[132]|assay[133]|assay[134]|assay[135]|assay[136]|assay[137]|assay[138]|assay[139]|assay[140]|assay[141]|assay[142]|assay[143]|assay[144]|assay[145]|assay[146]|assay[147]|assay[148]|assay[149]|assay[150]|assay[151]|assay[152]|assay[153]|assay[154]|assay[155]|assay[166]|assay[167]|assay[168]|assay[169]|assay[170]|assay[171]|assay[172]|assay[173]|assay[174]|assay[175]|assay[176]|assay[177]|assay[178]|assay[179]|assay[180]|assay[181]|assay[182]|assay[183]|assay[184]|assay[185]|assay[186]|assay[187]|assay[188]|assay[189]|assay[190]|assay[191]|assay[192]|assay[193]|assay[194]|assay[195]|assay[196]|assay[197]|assay[198]|assay[199]|assay[200]|assay[201]|assay[202]|assay[203]|assay[204]|assay[205]|assay[206]|assay[207]|assay[208]|assay[209]|assay[210]|assay[211]|assay[212]|assay[213]|assay[214]|assay[215]|assay[216]|assay[217]|assay[218]|assay[219]|assay[220]|assay[221]|assay[222]|assay[223]|assay[224]|assay[225]|assay[226]|assay[227]|assay[228]|assay[229]|assay[230]|assay[231]|assay[232]|assay[233]|assay[234]|assay[235]|assay[236]|assay[237]|assay[238]|assay[239]|assay[240]|assay[241]|assay[242]|assay[243]|assay[244]|assay[245]|assay[246]|assay[247]|assay[248]|assay[249]|assay[250]|assay[251]|assay[252]|assay[253]|assay[254]|assay[255]|assay[256]|assay[257]|assay[258]|assay[259]|assay[260]|assay[261]|assay[262]|assay[263]|assay[264]|assay[265]|assay[266]|assay[267]|assay[268]|assay[269]|assay[270]|assay[271]|assay[272]|assay[273]|assay[274]|assay[275]|assay[276]|assay[277]|assay[278]|assay[279]|assay[280]|assay[281]|assay[282]|assay[283]|assay[284]|assay[285]|assay[286]|assay[287]|assay[288]|assay[289]|assay[290]|assay[291]|assay[292]|assay[293]|assay[294]|assay[295]|assay[296]|assay[297]|assay[298]|assay[299]|assay[300]|assay[301]|assay[302]|assay[303]|assay[304]|assay[305]|assay[306]|assay[307]|assay[308]|assay[309]|assay[310]|assay[311]|assay[312]|assay[313]|assay[314]|assay[315]|assay[316]|assay[317]|assay[318]|assay[319]|assay[320]
+MTD	study_variable[4]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[4]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[4]-description	Variable genotype_background, value null
+MTD	study_variable[5]	Blank
+MTD	study_variable[5]-assay_refs	assay[156]|assay[157]|assay[158]|assay[159]|assay[160]|assay[161]|assay[162]|assay[163]|assay[164]|assay[165]|assay[321]|assay[322]|assay[323]|assay[324]|assay[325]|assay[326]|assay[327]|assay[328]|assay[329]|assay[330]
+MTD	study_variable[5]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[5]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[5]-description	Variable genotype_background, value Blank
+MTD	study_variable[6]	null
+MTD	study_variable[6]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]|assay[47]|assay[48]|assay[49]|assay[50]|assay[51]|assay[52]|assay[53]|assay[54]|assay[55]|assay[56]|assay[57]|assay[58]|assay[59]|assay[60]|assay[61]|assay[62]|assay[63]|assay[64]|assay[65]|assay[66]|assay[67]|assay[68]|assay[69]|assay[70]|assay[71]|assay[72]|assay[73]|assay[74]|assay[75]|assay[76]|assay[77]|assay[78]|assay[79]|assay[80]|assay[81]|assay[82]|assay[83]|assay[84]|assay[85]|assay[86]|assay[87]|assay[88]|assay[89]|assay[90]|assay[91]|assay[92]|assay[93]|assay[94]|assay[95]|assay[96]|assay[97]|assay[98]|assay[99]|assay[100]|assay[101]|assay[102]|assay[103]|assay[104]|assay[105]|assay[106]|assay[107]|assay[108]|assay[109]|assay[110]|assay[111]|assay[112]|assay[113]|assay[114]|assay[115]|assay[116]|assay[117]|assay[118]|assay[119]|assay[120]|assay[121]|assay[122]|assay[123]|assay[124]|assay[125]|assay[126]|assay[127]|assay[128]|assay[129]|assay[130]|assay[131]|assay[132]|assay[133]|assay[134]|assay[135]|assay[136]|assay[137]|assay[138]|assay[139]|assay[140]|assay[141]|assay[142]|assay[143]|assay[144]|assay[145]|assay[146]|assay[147]|assay[148]|assay[149]|assay[150]|assay[151]|assay[152]|assay[153]|assay[154]|assay[155]|assay[166]|assay[167]|assay[168]|assay[169]|assay[170]|assay[171]|assay[172]|assay[173]|assay[174]|assay[175]|assay[176]|assay[177]|assay[178]|assay[179]|assay[180]|assay[181]|assay[182]|assay[183]|assay[184]|assay[185]|assay[186]|assay[187]|assay[188]|assay[189]|assay[190]|assay[191]|assay[192]|assay[193]|assay[194]|assay[195]|assay[196]|assay[197]|assay[198]|assay[199]|assay[200]|assay[201]|assay[202]|assay[203]|assay[204]|assay[205]|assay[206]|assay[207]|assay[208]|assay[209]|assay[210]|assay[211]|assay[212]|assay[213]|assay[214]|assay[215]|assay[216]|assay[217]|assay[218]|assay[219]|assay[220]|assay[221]|assay[222]|assay[223]|assay[224]|assay[225]|assay[226]|assay[227]|assay[228]|assay[229]|assay[230]|assay[231]|assay[232]|assay[233]|assay[234]|assay[235]|assay[236]|assay[237]|assay[238]|assay[239]|assay[240]|assay[241]|assay[242]|assay[243]|assay[244]|assay[245]|assay[246]|assay[247]|assay[248]|assay[249]|assay[250]|assay[251]|assay[252]|assay[253]|assay[254]|assay[255]|assay[256]|assay[257]|assay[258]|assay[259]|assay[260]|assay[261]|assay[262]|assay[263]|assay[264]|assay[265]|assay[266]|assay[267]|assay[268]|assay[269]|assay[270]|assay[271]|assay[272]|assay[273]|assay[274]|assay[275]|assay[276]|assay[277]|assay[278]|assay[279]|assay[280]|assay[281]|assay[282]|assay[283]|assay[284]|assay[285]|assay[286]|assay[287]|assay[288]|assay[289]|assay[290]|assay[291]|assay[292]|assay[293]|assay[294]|assay[295]|assay[296]|assay[297]|assay[298]|assay[299]|assay[300]|assay[301]|assay[302]|assay[303]|assay[304]|assay[305]|assay[306]|assay[307]|assay[308]|assay[309]|assay[310]|assay[311]|assay[312]|assay[313]|assay[314]|assay[315]|assay[316]|assay[317]|assay[318]|assay[319]|assay[320]
+MTD	study_variable[6]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[6]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[6]-description	Variable perturbation, value null
+MTD	study_variable[7]	Blank
+MTD	study_variable[7]-assay_refs	assay[156]|assay[157]|assay[158]|assay[159]|assay[160]|assay[161]|assay[162]|assay[163]|assay[164]|assay[165]|assay[321]|assay[322]|assay[323]|assay[324]|assay[325]|assay[326]|assay[327]|assay[328]|assay[329]|assay[330]
+MTD	study_variable[7]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[7]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[7]-description	Variable perturbation, value Blank
+MTD	study_variable[8]	null
+MTD	study_variable[8]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]|assay[47]|assay[48]|assay[49]|assay[50]|assay[51]|assay[52]|assay[53]|assay[54]|assay[55]|assay[56]|assay[57]|assay[58]|assay[59]|assay[60]|assay[61]|assay[62]|assay[63]|assay[64]|assay[65]|assay[66]|assay[67]|assay[68]|assay[69]|assay[70]|assay[71]|assay[72]|assay[73]|assay[74]|assay[75]|assay[76]|assay[77]|assay[78]|assay[79]|assay[80]|assay[81]|assay[82]|assay[83]|assay[84]|assay[85]|assay[86]|assay[87]|assay[88]|assay[89]|assay[90]|assay[91]|assay[92]|assay[93]|assay[94]|assay[95]|assay[96]|assay[97]|assay[98]|assay[99]|assay[100]|assay[101]|assay[102]|assay[103]|assay[104]|assay[105]|assay[106]|assay[107]|assay[108]|assay[109]|assay[110]|assay[111]|assay[112]|assay[113]|assay[114]|assay[115]|assay[116]|assay[117]|assay[118]|assay[119]|assay[120]|assay[121]|assay[122]|assay[123]|assay[124]|assay[125]|assay[126]|assay[127]|assay[128]|assay[129]|assay[130]|assay[131]|assay[132]|assay[133]|assay[134]|assay[135]|assay[136]|assay[137]|assay[138]|assay[139]|assay[140]|assay[141]|assay[142]|assay[143]|assay[144]|assay[145]|assay[146]|assay[147]|assay[148]|assay[149]|assay[150]|assay[151]|assay[152]|assay[153]|assay[154]|assay[155]|assay[166]|assay[167]|assay[168]|assay[169]|assay[170]|assay[171]|assay[172]|assay[173]|assay[174]|assay[175]|assay[176]|assay[177]|assay[178]|assay[179]|assay[180]|assay[181]|assay[182]|assay[183]|assay[184]|assay[185]|assay[186]|assay[187]|assay[188]|assay[189]|assay[190]|assay[191]|assay[192]|assay[193]|assay[194]|assay[195]|assay[196]|assay[197]|assay[198]|assay[199]|assay[200]|assay[201]|assay[202]|assay[203]|assay[204]|assay[205]|assay[206]|assay[207]|assay[208]|assay[209]|assay[210]|assay[211]|assay[212]|assay[213]|assay[214]|assay[215]|assay[216]|assay[217]|assay[218]|assay[219]|assay[220]|assay[221]|assay[222]|assay[223]|assay[224]|assay[225]|assay[226]|assay[227]|assay[228]|assay[229]|assay[230]|assay[231]|assay[232]|assay[233]|assay[234]|assay[235]|assay[236]|assay[237]|assay[238]|assay[239]|assay[240]|assay[241]|assay[242]|assay[243]|assay[244]|assay[245]|assay[246]|assay[247]|assay[248]|assay[249]|assay[250]|assay[251]|assay[252]|assay[253]|assay[254]|assay[255]|assay[256]|assay[257]|assay[258]|assay[259]|assay[260]|assay[261]|assay[262]|assay[263]|assay[264]|assay[265]|assay[266]|assay[267]|assay[268]|assay[269]|assay[270]|assay[271]|assay[272]|assay[273]|assay[274]|assay[275]|assay[276]|assay[277]|assay[278]|assay[279]|assay[280]|assay[281]|assay[282]|assay[283]|assay[284]|assay[285]|assay[286]|assay[287]|assay[288]|assay[289]|assay[290]|assay[291]|assay[292]|assay[293]|assay[294]|assay[295]|assay[296]|assay[297]|assay[298]|assay[299]|assay[300]|assay[301]|assay[302]|assay[303]|assay[304]|assay[305]|assay[306]|assay[307]|assay[308]|assay[309]|assay[310]|assay[311]|assay[312]|assay[313]|assay[314]|assay[315]|assay[316]|assay[317]|assay[318]|assay[319]|assay[320]
+MTD	study_variable[8]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[8]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[8]-description	Variable diet_culture, value null
+MTD	study_variable[9]	Blank
+MTD	study_variable[9]-assay_refs	assay[156]|assay[157]|assay[158]|assay[159]|assay[160]|assay[161]|assay[162]|assay[163]|assay[164]|assay[165]|assay[321]|assay[322]|assay[323]|assay[324]|assay[325]|assay[326]|assay[327]|assay[328]|assay[329]|assay[330]
+MTD	study_variable[9]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[9]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[9]-description	Variable diet_culture, value Blank
+MTD	study_variable[10]	1
+MTD	study_variable[10]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]|assay[47]|assay[48]|assay[49]|assay[50]|assay[51]|assay[52]|assay[53]|assay[54]|assay[55]|assay[56]|assay[57]|assay[58]|assay[59]|assay[60]|assay[61]|assay[62]|assay[63]|assay[64]|assay[65]|assay[66]|assay[67]|assay[68]|assay[69]|assay[70]|assay[71]|assay[72]|assay[73]|assay[74]|assay[75]|assay[76]|assay[77]|assay[78]|assay[79]|assay[80]|assay[81]|assay[82]|assay[83]|assay[84]|assay[85]|assay[86]|assay[87]|assay[88]|assay[89]|assay[90]|assay[91]|assay[92]|assay[93]|assay[94]|assay[95]|assay[96]|assay[97]|assay[98]|assay[99]|assay[100]|assay[101]|assay[102]|assay[103]|assay[104]|assay[105]|assay[106]|assay[107]|assay[108]|assay[109]|assay[110]|assay[111]|assay[112]|assay[113]|assay[114]|assay[115]|assay[116]|assay[117]|assay[118]|assay[119]|assay[120]|assay[121]|assay[122]|assay[123]|assay[124]|assay[125]|assay[126]|assay[127]|assay[128]|assay[129]|assay[130]|assay[131]|assay[132]|assay[133]|assay[134]|assay[135]|assay[136]|assay[137]|assay[138]|assay[139]|assay[140]|assay[141]|assay[142]|assay[143]|assay[144]|assay[145]|assay[146]|assay[147]|assay[148]|assay[149]|assay[150]|assay[151]|assay[152]|assay[153]|assay[154]|assay[155]|assay[156]|assay[157]|assay[158]|assay[159]|assay[160]|assay[161]|assay[162]|assay[163]|assay[164]|assay[165]|assay[166]|assay[167]|assay[168]|assay[169]|assay[170]|assay[171]|assay[172]|assay[173]|assay[174]|assay[175]|assay[176]|assay[177]|assay[178]|assay[179]|assay[180]|assay[181]|assay[182]|assay[183]|assay[184]|assay[185]|assay[186]|assay[187]|assay[188]|assay[189]|assay[190]|assay[191]|assay[192]|assay[193]|assay[194]|assay[195]|assay[196]|assay[197]|assay[198]|assay[199]|assay[200]|assay[201]|assay[202]|assay[203]|assay[204]|assay[205]|assay[206]|assay[207]|assay[208]|assay[209]|assay[210]|assay[211]|assay[212]|assay[213]|assay[214]|assay[215]|assay[216]|assay[217]|assay[218]|assay[219]|assay[220]|assay[221]|assay[222]|assay[223]|assay[224]|assay[225]|assay[226]|assay[227]|assay[228]|assay[229]|assay[230]|assay[231]|assay[232]|assay[233]|assay[234]|assay[235]|assay[236]|assay[237]|assay[238]|assay[239]|assay[240]|assay[241]|assay[242]|assay[243]|assay[244]|assay[245]|assay[246]|assay[247]|assay[248]|assay[249]|assay[250]|assay[251]|assay[252]|assay[253]|assay[254]|assay[255]|assay[256]|assay[257]|assay[258]|assay[259]|assay[260]|assay[261]|assay[262]|assay[263]|assay[264]|assay[265]|assay[266]|assay[267]|assay[268]|assay[269]|assay[270]|assay[271]|assay[272]|assay[273]|assay[274]|assay[275]|assay[276]|assay[277]|assay[278]|assay[279]|assay[280]|assay[281]|assay[282]|assay[283]|assay[284]|assay[285]|assay[286]|assay[287]|assay[288]|assay[289]|assay[290]|assay[291]|assay[292]|assay[293]|assay[294]|assay[295]|assay[296]|assay[297]|assay[298]|assay[299]|assay[300]|assay[301]|assay[302]|assay[303]|assay[304]|assay[305]|assay[306]|assay[307]|assay[308]|assay[309]|assay[310]|assay[311]|assay[312]|assay[313]|assay[314]|assay[315]|assay[316]|assay[317]|assay[318]|assay[319]|assay[320]|assay[321]|assay[322]|assay[323]|assay[324]|assay[325]|assay[326]|assay[327]|assay[328]|assay[329]|assay[330]
+MTD	study_variable[10]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[10]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[10]-description	Variable biological_replicate, value 1
+MTD	study_variable[11]	1
+MTD	study_variable[11]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]|assay[47]|assay[48]|assay[49]|assay[50]|assay[51]|assay[52]|assay[53]|assay[54]|assay[55]|assay[56]|assay[57]|assay[58]|assay[59]|assay[60]|assay[61]|assay[62]|assay[63]|assay[64]|assay[65]|assay[66]|assay[67]|assay[68]|assay[69]|assay[70]|assay[71]|assay[72]|assay[73]|assay[74]|assay[75]|assay[76]|assay[77]|assay[78]|assay[79]|assay[80]|assay[81]|assay[82]|assay[83]|assay[84]|assay[85]|assay[86]|assay[87]|assay[88]|assay[89]|assay[90]|assay[91]|assay[92]|assay[93]|assay[94]|assay[95]|assay[96]|assay[97]|assay[98]|assay[99]|assay[100]|assay[101]|assay[102]|assay[103]|assay[104]|assay[105]|assay[106]|assay[107]|assay[108]|assay[109]|assay[110]|assay[111]|assay[112]|assay[113]|assay[114]|assay[115]|assay[116]|assay[117]|assay[118]|assay[119]|assay[120]|assay[121]|assay[122]|assay[123]|assay[124]|assay[125]|assay[126]|assay[127]|assay[128]|assay[129]|assay[130]|assay[131]|assay[132]|assay[133]|assay[134]|assay[135]|assay[136]|assay[137]|assay[138]|assay[139]|assay[140]|assay[141]|assay[142]|assay[143]|assay[144]|assay[145]|assay[146]|assay[147]|assay[148]|assay[149]|assay[150]|assay[151]|assay[152]|assay[153]|assay[154]|assay[155]|assay[156]|assay[166]|assay[167]|assay[168]|assay[169]|assay[170]|assay[171]|assay[172]|assay[173]|assay[174]|assay[175]|assay[176]|assay[177]|assay[178]|assay[179]|assay[180]|assay[181]|assay[182]|assay[183]|assay[184]|assay[185]|assay[186]|assay[187]|assay[188]|assay[189]|assay[190]|assay[191]|assay[192]|assay[193]|assay[194]|assay[195]|assay[196]|assay[197]|assay[198]|assay[199]|assay[200]|assay[201]|assay[202]|assay[203]|assay[204]|assay[205]|assay[206]|assay[207]|assay[208]|assay[209]|assay[210]|assay[211]|assay[212]|assay[213]|assay[214]|assay[215]|assay[216]|assay[217]|assay[218]|assay[219]|assay[220]|assay[221]|assay[222]|assay[223]|assay[224]|assay[225]|assay[226]|assay[227]|assay[228]|assay[229]|assay[230]|assay[231]|assay[232]|assay[233]|assay[234]|assay[235]|assay[236]|assay[237]|assay[238]|assay[239]|assay[240]|assay[241]|assay[242]|assay[243]|assay[244]|assay[245]|assay[246]|assay[247]|assay[248]|assay[249]|assay[250]|assay[251]|assay[252]|assay[253]|assay[254]|assay[255]|assay[256]|assay[257]|assay[258]|assay[259]|assay[260]|assay[261]|assay[262]|assay[263]|assay[264]|assay[265]|assay[266]|assay[267]|assay[268]|assay[269]|assay[270]|assay[271]|assay[272]|assay[273]|assay[274]|assay[275]|assay[276]|assay[277]|assay[278]|assay[279]|assay[280]|assay[281]|assay[282]|assay[283]|assay[284]|assay[285]|assay[286]|assay[287]|assay[288]|assay[289]|assay[290]|assay[291]|assay[292]|assay[293]|assay[294]|assay[295]|assay[296]|assay[297]|assay[298]|assay[299]|assay[300]|assay[301]|assay[302]|assay[303]|assay[304]|assay[305]|assay[306]|assay[307]|assay[308]|assay[309]|assay[310]|assay[311]|assay[312]|assay[313]|assay[314]|assay[315]|assay[316]|assay[317]|assay[318]|assay[319]|assay[320]|assay[321]
+MTD	study_variable[11]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[11]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[11]-description	Variable technical_replicate, value 1
+MTD	study_variable[12]	2
+MTD	study_variable[12]-assay_refs	assay[157]|assay[322]
+MTD	study_variable[12]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[12]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[12]-description	Variable technical_replicate, value 2
+MTD	study_variable[13]	3
+MTD	study_variable[13]-assay_refs	assay[158]|assay[323]
+MTD	study_variable[13]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[13]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[13]-description	Variable technical_replicate, value 3
+MTD	study_variable[14]	4
+MTD	study_variable[14]-assay_refs	assay[159]|assay[324]
+MTD	study_variable[14]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[14]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[14]-description	Variable technical_replicate, value 4
+MTD	study_variable[15]	5
+MTD	study_variable[15]-assay_refs	assay[160]|assay[325]
+MTD	study_variable[15]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[15]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[15]-description	Variable technical_replicate, value 5
+MTD	study_variable[16]	6
+MTD	study_variable[16]-assay_refs	assay[161]|assay[326]
+MTD	study_variable[16]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[16]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[16]-description	Variable technical_replicate, value 6
+MTD	study_variable[17]	7
+MTD	study_variable[17]-assay_refs	assay[162]|assay[327]
+MTD	study_variable[17]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[17]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[17]-description	Variable technical_replicate, value 7
+MTD	study_variable[18]	8
+MTD	study_variable[18]-assay_refs	assay[163]|assay[328]
+MTD	study_variable[18]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[18]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[18]-description	Variable technical_replicate, value 8
+MTD	study_variable[19]	9
+MTD	study_variable[19]-assay_refs	assay[164]|assay[329]
+MTD	study_variable[19]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[19]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[19]-description	Variable technical_replicate, value 9
+MTD	study_variable[20]	10
+MTD	study_variable[20]-assay_refs	assay[165]|assay[330]
+MTD	study_variable[20]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[20]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[20]-description	Variable technical_replicate, value 10
+MTD	study_variable[21]	Height
+MTD	study_variable[21]-assay_refs	assay[1]|assay[2]|assay[3]|assay[4]|assay[5]|assay[6]|assay[7]|assay[8]|assay[9]|assay[10]|assay[11]|assay[12]|assay[13]|assay[14]|assay[15]|assay[16]|assay[17]|assay[18]|assay[19]|assay[20]|assay[21]|assay[22]|assay[23]|assay[24]|assay[25]|assay[26]|assay[27]|assay[28]|assay[29]|assay[30]|assay[31]|assay[32]|assay[33]|assay[34]|assay[35]|assay[36]|assay[37]|assay[38]|assay[39]|assay[40]|assay[41]|assay[42]|assay[43]|assay[44]|assay[45]|assay[46]|assay[47]|assay[48]|assay[49]|assay[50]|assay[51]|assay[52]|assay[53]|assay[54]|assay[55]|assay[56]|assay[57]|assay[58]|assay[59]|assay[60]|assay[61]|assay[62]|assay[63]|assay[64]|assay[65]|assay[66]|assay[67]|assay[68]|assay[69]|assay[70]|assay[71]|assay[72]|assay[73]|assay[74]|assay[75]|assay[76]|assay[77]|assay[78]|assay[79]|assay[80]|assay[81]|assay[82]|assay[83]|assay[84]|assay[85]|assay[86]|assay[87]|assay[88]|assay[89]|assay[90]|assay[91]|assay[92]|assay[93]|assay[94]|assay[95]|assay[96]|assay[97]|assay[98]|assay[99]|assay[100]|assay[101]|assay[102]|assay[103]|assay[104]|assay[105]|assay[106]|assay[107]|assay[108]|assay[109]|assay[110]|assay[111]|assay[112]|assay[113]|assay[114]|assay[115]|assay[116]|assay[117]|assay[118]|assay[119]|assay[120]|assay[121]|assay[122]|assay[123]|assay[124]|assay[125]|assay[126]|assay[127]|assay[128]|assay[129]|assay[130]|assay[131]|assay[132]|assay[133]|assay[134]|assay[135]|assay[136]|assay[137]|assay[138]|assay[139]|assay[140]|assay[141]|assay[142]|assay[143]|assay[144]|assay[145]|assay[146]|assay[147]|assay[148]|assay[149]|assay[150]|assay[151]|assay[152]|assay[153]|assay[154]|assay[155]|assay[156]|assay[157]|assay[158]|assay[159]|assay[160]|assay[161]|assay[162]|assay[163]|assay[164]|assay[165]
+MTD	study_variable[21]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[21]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[21]-description	Variable unit, value Height
+MTD	study_variable[22]	Height/height of internal standard
+MTD	study_variable[22]-assay_refs	assay[166]|assay[167]|assay[168]|assay[169]|assay[170]|assay[171]|assay[172]|assay[173]|assay[174]|assay[175]|assay[176]|assay[177]|assay[178]|assay[179]|assay[180]|assay[181]|assay[182]|assay[183]|assay[184]|assay[185]|assay[186]|assay[187]|assay[188]|assay[189]|assay[190]|assay[191]|assay[192]|assay[193]|assay[194]|assay[195]|assay[196]|assay[197]|assay[198]|assay[199]|assay[200]|assay[201]|assay[202]|assay[203]|assay[204]|assay[205]|assay[206]|assay[207]|assay[208]|assay[209]|assay[210]|assay[211]|assay[212]|assay[213]|assay[214]|assay[215]|assay[216]|assay[217]|assay[218]|assay[219]|assay[220]|assay[221]|assay[222]|assay[223]|assay[224]|assay[225]|assay[226]|assay[227]|assay[228]|assay[229]|assay[230]|assay[231]|assay[232]|assay[233]|assay[234]|assay[235]|assay[236]|assay[237]|assay[238]|assay[239]|assay[240]|assay[241]|assay[242]|assay[243]|assay[244]|assay[245]|assay[246]|assay[247]|assay[248]|assay[249]|assay[250]|assay[251]|assay[252]|assay[253]|assay[254]|assay[255]|assay[256]|assay[257]|assay[258]|assay[259]|assay[260]|assay[261]|assay[262]|assay[263]|assay[264]|assay[265]|assay[266]|assay[267]|assay[268]|assay[269]|assay[270]|assay[271]|assay[272]|assay[273]|assay[274]|assay[275]|assay[276]|assay[277]|assay[278]|assay[279]|assay[280]|assay[281]|assay[282]|assay[283]|assay[284]|assay[285]|assay[286]|assay[287]|assay[288]|assay[289]|assay[290]|assay[291]|assay[292]|assay[293]|assay[294]|assay[295]|assay[296]|assay[297]|assay[298]|assay[299]|assay[300]|assay[301]|assay[302]|assay[303]|assay[304]|assay[305]|assay[306]|assay[307]|assay[308]|assay[309]|assay[310]|assay[311]|assay[312]|assay[313]|assay[314]|assay[315]|assay[316]|assay[317]|assay[318]|assay[319]|assay[320]|assay[321]|assay[322]|assay[323]|assay[324]|assay[325]|assay[326]|assay[327]|assay[328]|assay[329]|assay[330]
+MTD	study_variable[22]-average_function	[MS, MS:1002962, mean, ]
+MTD	study_variable[22]-variation_function	[MS, MS:1002963, variation coefficient, ]
+MTD	study_variable[22]-description	Variable unit, value Height/height of internal standard
+MTD	cv[1]-label	MS
+MTD	cv[1]-full_name	PSI-MS controlled vocabulary
+MTD	cv[1]-version	4.1.138
+MTD	cv[1]-uri	https://www.ebi.ac.uk/ols4/ontologies/ms
+MTD	cv[2]-label	PRIDE
+MTD	cv[2]-full_name	PRIDE PRoteomics IDEntifications (PRIDE) database controlled vocabulary
+MTD	cv[2]-version	16:10:2023 11:38
+MTD	cv[2]-uri	https://www.ebi.ac.uk/ols/ontologies/pride
+MTD	cv[3]-label	STATO
+MTD	cv[3]-full_name	General purpose STATistics Ontology
+MTD	cv[3]-version	2026-04-20
+MTD	cv[3]-uri	https://www.ebi.ac.uk/ols4/ontologies/stato
+MTD	database[1]	[,, "no database", null ]
+MTD	database[1]-prefix	null
+MTD	database[1]-version	Unknown
+MTD	database[1]-uri	null
+MTD	small_molecule-quantification_unit	[PRIDE, PRIDE:0000330, Arbitrary quantification unit, ]
+MTD	small_molecule_feature-quantification_unit	[PRIDE, PRIDE:0000330, Arbitrary quantification unit, ]
+MTD	small_molecule-identification_reliability	[MS, MS:1002896, compound identification confidence level, ]
+COM	Generated with RmzTabM from sample_metadata.toml.
+COM	Source: RIKEN LIPIDOMICS, CC BY-NC 4.0.
+COM	Scan polarity was not encoded in the sample name for 330 assay(s); those runs are reported as positive scan and carry ms_run-parameter [,, scan polarity present in sample name, no].
+
